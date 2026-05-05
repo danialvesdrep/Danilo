@@ -1,0 +1,46 @@
+{
+  "name": "Boletim Danilo Campetti",
+  "short_name": "Boletim",
+  "description": "Boletim diário de notícias para o candidato Danilo Campetti, produzido pela consultoria de Marcelo Suano.",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0B1220",
+  "theme_color": "#0B1220",
+  "categories": ["news", "politics", "productivity"],
+  "icons": [
+    {
+      "src": "assets/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Boletim de hoje",
+      "url": "./index.html#/hoje",
+      "description": "Abrir boletim do dia"
+    },
+    {
+      "name": "Arquivo",
+      "url": "./index.html#/arquivo",
+      "description": "Pesquisar boletins anteriores"
+    }
+  ]
+}

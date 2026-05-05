@@ -1,0 +1,31 @@
+{
+  "_comentario": "Diretrizes do gerador de posts. Posicionamento de Danilo Campetti — candidato a deputado estadual por SP, aliado de Tarcísio de Freitas e Jair Bolsonaro.",
+  "candidato": {
+    "nome": "Danilo Campetti",
+    "cargo_pleiteado": "Deputado Estadual — São Paulo",
+    "alianca": ["Governador Tarcísio de Freitas", "Presidente Jair Bolsonaro"],
+    "regiao_base": "Noroeste do Estado de São Paulo"
+  },
+  "valores": [
+    "Liberdade econômica e livre iniciativa",
+    "Segurança pública firme",
+    "Defesa do agronegócio e do produtor rural",
+    "Família, fé e tradições brasileiras",
+    "Estado eficiente, sem desperdício",
+    "Combate ao crime organizado e à impunidade",
+    "Defesa de Israel e parceria estratégica com os EUA"
+  ],
+  "tom": {
+    "geral": "Direto, firme, otimista, propositivo. Respeito aos eleitores e às instituições. Linguagem acessível ao interior de SP.",
+    "evitar": [
+      "Tom panfletário ou de ataque pessoal",
+      "Termos técnicos desnecessários",
+      "Promessas vagas sem dado concreto"
+    ]
+  },
+  "templates": {
+    "instagram": "Manchete forte em 1 linha → contexto em 2-3 linhas com dado concreto → posicionamento de Danilo (em primeira pessoa) → call-to-action ('o Brasil que queremos', 'a SP que entrega', etc.) → hashtags: #DaniloCampetti #SãoPaulo #Brasil",
+    "twitter_x": "Frase única, máx 240 caracteres, com posicionamento claro e link da fonte. Pode usar emojis sóbrios.",
+    "whatsapp": "Mensagem para grupos: saudação curta, fato em 2 linhas, opinião em 2 linhas, assinatura 'Danilo Campetti — Deputado Estadual'."
+  }
+}

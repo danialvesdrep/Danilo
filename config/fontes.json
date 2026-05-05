@@ -1,0 +1,27 @@
+{
+  "_comentario": "Fontes monitoradas pelo consultor Marcelo Suano para montagem do boletim diário.",
+  "principais": [
+    { "nome": "O Estado de S. Paulo", "url": "https://www.estadao.com.br" },
+    { "nome": "Folha de S.Paulo",       "url": "https://www.folha.uol.com.br" },
+    { "nome": "Poder360",                "url": "https://www.poder360.com.br" },
+    { "nome": "O Antagonista",           "url": "https://www.oantagonista.com.br" },
+    { "nome": "Gazeta do Povo",          "url": "https://www.gazetadopovo.com.br" },
+    { "nome": "Jovem Pan",               "url": "https://jovempan.com.br" },
+    { "nome": "CNN Brasil",              "url": "https://www.cnnbrasil.com.br" },
+    { "nome": "Valor Econômico",         "url": "https://valor.globo.com" }
+  ],
+  "regionais_noroeste_sp": [
+    { "nome": "Diário da Região (SJRP)",  "url": "https://www.diariodaregiao.com.br" },
+    { "nome": "Folha da Região (Araçatuba)", "url": "https://www.folhadaregiao.com.br" },
+    { "nome": "Imparcial (Pres. Prudente)",  "url": "https://www.imparcial.com.br" },
+    { "nome": "SBT Interior",             "url": "https://sbtinterior.com" }
+  ],
+  "oficiais": [
+    { "nome": "Câmara dos Deputados", "url": "https://www.camara.leg.br/agenda" },
+    { "nome": "Senado Federal",       "url": "https://www12.senado.leg.br/hpsenado" },
+    { "nome": "ALESP",                "url": "https://www.al.sp.gov.br/" },
+    { "nome": "Congresso Nacional",   "url": "https://www.congressonacional.leg.br/sessoes/agenda-do-congresso-senado-e-camara" },
+    { "nome": "Planalto",             "url": "https://www.gov.br/planalto/pt-br" },
+    { "nome": "Governo de SP",        "url": "https://www.saopaulo.sp.gov.br" }
+  ]
+}

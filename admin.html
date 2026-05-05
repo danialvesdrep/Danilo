@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#0B1220" />
+  <title>Boletim · Painel do Marcelo</title>
+  <link rel="icon" type="image/svg+xml" href="assets/icons/icon.svg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Serif:wght@600;700&display=swap" />
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+
+  <header class="topbar">
+    <div class="topbar-row">
+      <div class="brand">
+        <div class="brand-logo">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M4 6h16M4 12h16M4 18h10"/>
+          </svg>
+        </div>
+        <div class="brand-text">
+          <div class="brand-title">Painel do Marcelo</div>
+          <div class="brand-sub" id="userSub">Não conectado</div>
+        </div>
+      </div>
+      <a class="icon-btn" href="index.html" aria-label="Ver app" title="Ver app">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg>
+      </a>
+    </div>
+  </header>
+
+  <main class="container">
+
+    <section id="loginView">
+      <div class="hero">
+        <div class="hero-meta">
+          <span class="chip chip-brand">Acesso restrito</span>
+        </div>
+        <h1 class="hero-title">Login do consultor</h1>
+        <p class="muted">Use um GitHub Personal Access Token (fine-grained) com permissão de escrita
+          neste repositório. O token fica salvo apenas neste navegador (localStorage).
+          <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">Criar token →</a>
+        </p>
+
+        <div class="admin-grid" style="margin-top:14px">
+          <label class="admin-label">Usuário (proprietário do repo)</label>
+          <input id="ghOwner" class="admin-input" placeholder="ex: danialvesdrep" />
+
+          <label class="admin-label">Repositório</label>
+          <input id="ghRepo" class="admin-input" placeholder="ex: danilo" />
+
+          <label class="admin-label">Branch</label>
+          <input id="ghBranch" class="admin-input" placeholder="ex: main" value="main" />
+
+          <label class="admin-label">Personal Access Token (PAT)</label>
+          <input id="ghToken" class="admin-input" type="password" placeholder="github_pat_..." />
+
+          <button id="loginBtn" class="btn-publish" style="margin-top:6px">Entrar</button>
+        </div>
+      </div>
+    </section>
+
+    <section id="editorView" class="hidden">
+      <div class="hero">
+        <div class="hero-meta">
+          <span class="chip chip-brand">Editor de boletim</span>
+          <span class="chip" id="targetDateChip"></span>
+        </div>
+        <h1 class="hero-title">Boletim de hoje</h1>
+        <p class="muted">Adicione itens por seção. Marcelo, mantenha o tom curto e direto: Danilo lê em poucos minutos.</p>
+        <div class="admin-row">
+          <input id="editDate" class="admin-input" type="date" style="max-width:180px" />
+          <button id="loadDate" class="btn-secondary" style="flex:0 0 auto">Carregar</button>
+          <button id="logoutBtn" class="btn-secondary" style="flex:0 0 auto">Sair</button>
+        </div>
+      </div>
+
+      <div class="admin-form">
+        <div class="admin-grid">
+          <label class="admin-label">Manchete geral do dia</label>
+          <input id="overall" class="admin-input" placeholder="Frase única que resume o dia" />
+          <label class="admin-label">Top 3 do dia (uma linha cada)</label>
+          <textarea id="top3" class="admin-textarea" placeholder="Linha 1&#10;Linha 2&#10;Linha 3"></textarea>
+        </div>
+      </div>
+
+      <div id="sectionsContainer"></div>
+
+      <button id="publishBtn" class="btn-publish">📤 Publicar boletim</button>
+      <p class="muted text-center" style="font-size:12px;padding:10px">
+        Publicar grava em <code id="targetPath"></code>.
+      </p>
+    </section>
+
+  </main>
+
+  <div class="modal-bg" id="previewModal">
+    <div class="modal">
+      <button class="modal-close" data-close="previewModal">×</button>
+      <h3>Pré-visualização</h3>
+      <pre id="previewContent" style="background:var(--bg-2);padding:12px;border-radius:8px;font-size:11px;max-height:60vh;overflow:auto;color:var(--text-2)"></pre>
+      <div class="post-actions">
+        <button class="btn-secondary" data-close="previewModal">Voltar</button>
+        <button id="confirmPublish" class="btn-primary">Confirmar e publicar</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="toast" id="toast"></div>
+
+  <script type="module" src="js/admin/auth.js"></script>
+  <script type="module" src="js/admin/editor.js"></script>
+</body>
+</html>

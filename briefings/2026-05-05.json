@@ -1,0 +1,251 @@
+{
+  "date": "2026-05-05",
+  "weekday": "terça-feira",
+  "headline_overall": "Novo Desenrola, lei mais dura contra furto e roubo, e crédito de R$ 305 milhões: o tabuleiro do dia.",
+  "summary_top3": [
+    "Lula assina MP do Novo Desenrola — 90% de desconto em dívidas e veto a quem usa bets. Vai puxar oposição: usar FGTS para pagar dívida vira munição de campanha.",
+    "Lei 15.397/2026 aumenta penas para furto, roubo, receptação e golpes virtuais — sancionada e publicada ontem no DOU. Pauta de segurança no colo do Congresso.",
+    "Câmara mira votação da PEC do Fim da Escala 6×1 ainda em maio — comissão especial instalada na semana passada. Tema delicado para o eleitor do interior."
+  ],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "Atenção particular ao agronegócio: Rio Preto, Araçatuba e Presidente Prudente respondem por boa parte da safra do Centro-Sul, hoje em fase de colheita. A Lei do Furto/Roubo, sancionada ontem em Brasília, repercute imediatamente nas cidades médias do Noroeste — pauta forte para conversar com lideranças locais e Polícia Militar. A campanha Panela Solidária está em andamento em Rio Preto, Araçatuba e Prudente: oportunidade de presença com causa.",
+      "items": [
+        {
+          "urgency": "high",
+          "city_tags": ["Noroeste paulista", "São José do Rio Preto", "Araçatuba", "Presidente Prudente"],
+          "topic_tags": ["agronegócio", "safra"],
+          "headline": "Safra 2025/26 de soja deve bater recorde de mais de 180 milhões de toneladas",
+          "summary": "A safra brasileira de soja deve atingir novo recorde, superando 171,6 milhões da temporada anterior — alta de 5,47%. Colheita do milho do Centro-Sul já alcançou 80,6% da área. Custo da próxima safra (2026/27) é o que mais preocupa produtores agora.",
+          "source": "Folha Agrícola",
+          "url": "https://folhaagricola.com.br/2026/05/01/safra-de-soja-do-brasil-deve-atingir-novo-recorde-em-2025-26/",
+          "published_at": "2026-05-01"
+        },
+        {
+          "urgency": "high",
+          "city_tags": ["São José do Rio Preto", "Araçatuba", "Presidente Prudente"],
+          "topic_tags": ["segurança"],
+          "headline": "Lei mais dura contra furto e roubo entra em vigor — repercussão imediata no interior",
+          "summary": "Lei 15.397/2026, publicada ontem no DOU, aumenta penas para furto, roubo, receptação, estelionato e crimes virtuais. Cidades médias do Noroeste vivem alta de furto a estabelecimentos: pauta natural com comerciantes e PMs locais.",
+          "source": "Poder360",
+          "url": "https://www.poder360.com.br/poder-seguranca-publica/lula-sanciona-lei-que-aumenta-penas-para-furto-e-roubo/",
+          "published_at": "2026-05-04"
+        },
+        {
+          "urgency": "medium",
+          "city_tags": ["São José do Rio Preto", "Araçatuba", "Presidente Prudente", "Bauru"],
+          "topic_tags": ["mobilização social", "agenda local"],
+          "headline": "Campanha Panela Solidária roda Noroeste paulista até 23 de maio",
+          "summary": "Campanha de arrecadação de alimentos passa por Rio Preto (Proença Supermercados), Araçatuba e Presidente Prudente entre 2 e 23 de maio. Oportunidade clara de presença pública com causa apartidária e de impacto no interior.",
+          "source": "Notícias do Brasil",
+          "url": "https://noticias-do-brasil.news/saude/cidadania/panela-solidria-arrecada-alimentos-no-interior-de-sp.html",
+          "published_at": "2026-05-02"
+        },
+        {
+          "urgency": "low",
+          "city_tags": ["Araçatuba"],
+          "topic_tags": ["empreendedorismo", "indústria"],
+          "headline": "Parque Industrial de Araçatuba recebe três novas empresas",
+          "summary": "Prefeitura de Araçatuba autorizou MYM Construções (cimento), Fabem (reciclagem) e Casa de Carnes Caçulinha (distribuição) no Parque Industrial Maria Isabel Piza Almeida Prado. Sinal de movimento na economia regional.",
+          "source": "Prefeitura de Araçatuba",
+          "url": "https://aracatuba.sp.gov.br/noticias/parque-industrial-de-aracatuba-recebe-mais-tres-empresas",
+          "published_at": "2026-04-28"
+        }
+      ]
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "Tarcísio segue ampliando articulação para reeleição — 58 deputados estaduais já reunidos. Para Danilo, é o momento de aparecer no radar do Palácio dos Bandeirantes. Saúde e segurança continuam sendo as bandeiras vencedoras do governo: vale alinhar o discurso a essas entregas.",
+      "items": [
+        {
+          "urgency": "high",
+          "city_tags": ["São Paulo - Estado"],
+          "topic_tags": ["política", "Tarcísio", "aliança"],
+          "headline": "Tarcísio reúne 58 deputados estaduais e sela aliança para reeleição em 2026",
+          "summary": "Almoço no Palácio dos Bandeirantes consolidou apoio massivo da bancada estadual. Tarcísio descartou Presidência e mira reeleição em SP. Recado claro à direita: a base é dele.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/blogs/caio-junqueira/politica/tarcisio-reune-58-deputados-e-sinaliza-alianca-para-reeleicao-em-sp-em-2026/",
+          "published_at": "2026-05-04"
+        },
+        {
+          "urgency": "medium",
+          "city_tags": ["São Paulo - Capital", "Interior"],
+          "topic_tags": ["saúde"],
+          "headline": "Governo de SP avança com 27 hospitais regionais — 9 entregues em 2026",
+          "summary": "Tabela SUS Paulista soma 345 leitos exclusivos e amplia cirurgias eletivas. Tarcísio também ordenou cumprimento da Lei 12.732 (60 dias para iniciar tratamento oncológico) — fila de oito meses sendo atacada.",
+          "source": "Agência SP",
+          "url": "https://www.agenciasp.sp.gov.br/regionalizacao-da-saude-avanca-com-mais-de-27-equipamentos-entregues-e-em-implantacao-em-sao-paulo/",
+          "published_at": "2026-05-02"
+        },
+        {
+          "urgency": "medium",
+          "city_tags": ["São Paulo - Capital"],
+          "topic_tags": ["segurança", "PM"],
+          "headline": "PM intensifica policiamento em parques sob comando de cel. Glauce Cavalli",
+          "summary": "Operação 1º a 3 de maio em Ibirapuera, Juventude, Parque do Povo e Villa-Lobos com policiamento orientado por dados. Cavalli é a primeira mulher a comandar a PMESP em 194 anos.",
+          "source": "Planeta Osasco",
+          "url": "https://planetaosasco.com/observatorio/890774-policia-militar-intensifica-seguranca-em-parques-de-sao-paulo",
+          "published_at": "2026-05-03"
+        },
+        {
+          "urgency": "low",
+          "city_tags": ["São Paulo - Estado"],
+          "topic_tags": ["segurança", "concurso"],
+          "headline": "Concurso da PMSP: 2.200 vagas para Soldado, provimento previsto para maio",
+          "summary": "Salário inicial de R$ 5.055,53. Reforço do efetivo está no centro do plano de Tarcísio para o segundo mandato — pauta ressonante no interior.",
+          "source": "Folha Dirigida",
+          "url": "https://folha.qconcursos.com/n/concurso-policial-sp-ingresso-de-23-mil-agentes",
+          "published_at": "2026-04-30"
+        }
+      ]
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "Lula entra em maio com duas frentes simultâneas: programa de renegociação de dívidas (Novo Desenrola) e endurecimento penal (Lei do Furto). A segunda é uma vitória da bancada de direita — o governo sancionou. Vale frisar isso publicamente: Bolsonaro pediu, Congresso aprovou, Brasil agora tem lei mais dura. A PEC do 6×1 mira votação ainda em maio: pauta sensível para o eleitor do agro e do pequeno comércio.",
+      "items": [
+        {
+          "urgency": "high",
+          "topic_tags": ["economia", "Lula", "crédito"],
+          "headline": "Lula assina MP do Novo Desenrola Brasil com desconto de até 90% e uso de FGTS",
+          "summary": "Programa de 90 dias para renda até 5 salários mínimos. Descontos de 30% a 90%, juros limitados, possibilidade de FGTS. Quem aderir fica bloqueado por 1 ano em plataformas de bets. Política de palanque para 2026.",
+          "source": "Poder360",
+          "url": "https://www.poder360.com.br/poder-governo/saiba-quais-debitos-poderao-ser-negociados-com-o-novo-desenrola/",
+          "published_at": "2026-05-04"
+        },
+        {
+          "urgency": "high",
+          "topic_tags": ["segurança", "Congresso"],
+          "headline": "Lei 15.397/2026 aumenta penas para furto, roubo e crimes virtuais",
+          "summary": "Sancionada e publicada no DOU em 4/5. Pauta original da bancada da segurança pública. Recado claro ao eleitor: o Congresso responde. Vale capitalizar a vitória.",
+          "source": "Poder360",
+          "url": "https://www.poder360.com.br/poder-seguranca-publica/lula-sanciona-lei-que-aumenta-penas-para-furto-e-roubo/",
+          "published_at": "2026-05-04"
+        },
+        {
+          "urgency": "high",
+          "topic_tags": ["Congresso", "PEC 6x1"],
+          "headline": "Câmara mira votação da PEC do Fim da Escala 6×1 até o fim de maio",
+          "summary": "Comissão especial instalada em 29/4 com Alencar Santana (PT-SP) na presidência e Léo Prates (Republicanos-BA) como relator. Tema divide patrões e empregados — atenção ao posicionamento.",
+          "source": "Correio Braziliense",
+          "url": "https://www.correiobraziliense.com.br/politica/2026/04/7408694-camara-instala-comissao-sobre-fim-da-escala-6x1-e-mira-votacao-em-maio.html",
+          "published_at": "2026-04-29"
+        },
+        {
+          "urgency": "medium",
+          "topic_tags": ["Congresso", "Bolsonaro", "8 de janeiro"],
+          "headline": "Congresso derrubou veto de Lula à Lei da Dosimetria — beneficia condenados pelo 8/1",
+          "summary": "Câmara: 318 a 144 contra a manutenção do veto. Senado: 49 a 24. Reduz penas para crimes contra o Estado Democrático de Direito. Vitória do bloco bolsonarista — repercussão segue forte.",
+          "source": "Gazeta do Povo",
+          "url": "https://www.gazetadopovo.com.br/republica/lula-empurra-conflitos-com-o-congresso-e-tera-dificuldade-para-impor-sua-agenda-em-2026/",
+          "published_at": "2026-04-30"
+        },
+        {
+          "urgency": "low",
+          "topic_tags": ["Lula", "executivo"],
+          "headline": "Lula libera R$ 305 milhões em crédito extraordinário para defesa civil",
+          "summary": "MP destina recursos ao MIDR para socorro a vítimas e assistência humanitária. Operação tradicional de governo, sem grande repercussão eleitoral por enquanto.",
+          "source": "Planalto",
+          "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2026/05/lula-assina-mp-que-abre-credito-extraordinario-de-r-305-milhoes-para-acoes-emergenciais-de-socorro-as-vitimas-e-assistencia-humanitaria",
+          "published_at": "2026-05-04"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "A região segue racha entre dois eixos: Milei/Noboa/Paz/Kast alinhados a Trump e o eixo Lula/Sheinbaum/Petro condenando intervenções. Brasil está progressivamente isolado no front diplomático. Para o eleitor de direita, é argumento poderoso: o Brasil precisa voltar ao mundo ocidental.",
+      "items": [
+        {
+          "urgency": "medium",
+          "topic_tags": ["Argentina", "Milei", "Venezuela"],
+          "headline": "Tensão Lula-Milei: Brasil deixa de representar Argentina em Venezuela",
+          "summary": "Itália assume a representação argentina em Caracas. Reflexo direto do alinhamento Milei-Trump na captura de Maduro em janeiro e do isolamento progressivo de Lula no continente.",
+          "source": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/tension-lula-milei-brasil-dejara-de-representar-a-la-argentina-en-venezuela-e-italia-toma-la-posta-nid09012026/",
+          "published_at": "2026-01-09"
+        },
+        {
+          "urgency": "low",
+          "topic_tags": ["Venezuela", "Maduro", "EUA"],
+          "headline": "Captura de Maduro reorganiza tabuleiro sul-americano",
+          "summary": "Operação ordenada por Trump em janeiro tirou Maduro do poder. Milei celebrou (\"a liberdade avança\"). Lula, Sheinbaum e Petro condenaram. Argumento clássico de direita brasileira: estamos do lado errado.",
+          "source": "Infobae",
+          "url": "https://www.infobae.com/politica/2026/01/03/javier-milei-celebro-el-operativo-de-eeuu-sobre-venezuela-y-la-captura-de-maduro-la-libertad-avanza/",
+          "published_at": "2026-01-03"
+        }
+      ]
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "Israel segue enfrentando Irã e Hamas em múltiplas frentes — narrativa central para o eleitor evangélico e conservador, alinhada ao posicionamento histórico de Bolsonaro. Trump e China dançam em torno de tarifas: padrão de oscilação, mas o eixo é claramente reaproximação seletiva. Mensagem para o agro e a indústria brasileira: oportunidade caso o Brasil saiba se posicionar.",
+      "items": [
+        {
+          "urgency": "medium",
+          "topic_tags": ["Israel", "Irã", "Oriente Médio"],
+          "headline": "Israel mantém pressão militar sobre Irã com novas ondas de bombardeios",
+          "summary": "IDF executou em março a 10ª onda de ataques contra alvos do governo iraniano, incluindo fábrica de mísseis em Isfahan. Conflito com Hamas em Gaza acumula mais de 55 mil mortos. Tensão regional permanente.",
+          "source": "Poder360",
+          "url": "https://www.poder360.com.br/poder-internacional/israel-amplia-bombardeios-e-atinge-fabrica-de-misseis-no-ira/",
+          "published_at": "2026-03-04"
+        },
+        {
+          "urgency": "medium",
+          "topic_tags": ["EUA", "China", "Trump", "comércio"],
+          "headline": "EUA e China seguem em ciclo de tarifas — consumidor americano sentirá em 2026",
+          "summary": "Após reunião Trump-Xi em janeiro, tarifas sobre a China caíram para 20%. Em fevereiro, Trump elevou tarifas globais de 10% para 15%. Padrão é de oscilação — Brasil precisa acompanhar de perto pelos efeitos no agro e no câmbio.",
+          "source": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/tarifas-de-trump-devem-ter-impacto-significativo-aos-americanos-em-2026/",
+          "published_at": "2026-04-15"
+        }
+      ]
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "Semana de pauta-bomba na Câmara: PEC do 6×1, PLP 185 e desdobramentos da Dosimetria. ALESP segue com tramitação ordinária. Vale Danilo manter contato com lideranças do PL e Republicanos para entender velocidade.",
+      "items": [
+        {
+          "urgency": "high",
+          "topic_tags": ["Câmara", "trabalho"],
+          "headline": "Comissão da PEC do Fim da Escala 6×1 começa a trabalhar nesta semana",
+          "summary": "Alencar Santana (PT-SP) preside; Léo Prates (Republicanos-BA) é relator. Meta: votar na comissão e no plenário até fim de maio. Pauta divisiva — eleitor do interior costuma ser cauteloso.",
+          "source": "Correio Braziliense",
+          "url": "https://www.correiobraziliense.com.br/politica/2026/04/7408694-camara-instala-comissao-sobre-fim-da-escala-6x1-e-mira-votacao-em-maio.html",
+          "published_at": "2026-04-29"
+        },
+        {
+          "urgency": "medium",
+          "topic_tags": ["Câmara", "Saúde"],
+          "headline": "PLP 185/2024 (aposentadoria especial de agentes de saúde) ganha tração",
+          "summary": "139 parlamentares já requerem votação. Maio é apontado como o mês mais favorável desde a apresentação. Pauta sindical com forte apelo nas cidades médias.",
+          "source": "JASB",
+          "url": "https://www.jasb.com.br/2026/05/139.html",
+          "published_at": "2026-05-02"
+        },
+        {
+          "urgency": "low",
+          "topic_tags": ["Congresso", "agenda oficial"],
+          "headline": "Agenda do Congresso, Senado e Câmara — semana de 5 a 9 de maio",
+          "summary": "Pauta integral disponível no portal oficial. Vale o consultor revisar diariamente para atualizações.",
+          "source": "Congresso Nacional",
+          "url": "https://www.congressonacional.leg.br/sessoes/agenda-do-congresso-senado-e-camara",
+          "published_at": "2026-05-05"
+        },
+        {
+          "urgency": "low",
+          "topic_tags": ["ALESP"],
+          "headline": "ALESP — Ordem do Dia",
+          "summary": "Pauta diária da Assembleia Legislativa de SP no portal oficial. Sem votações de maior repercussão estadual programadas para hoje.",
+          "source": "ALESP",
+          "url": "https://www.al.sp.gov.br/",
+          "published_at": "2026-05-05"
+        }
+      ]
+    }
+  ]
+}
