@@ -1,0 +1,63 @@
+name: Gerar rascunho do boletim (20h SP)
+
+on:
+  # 23:00 UTC = 20:00 America/Sao_Paulo (UTC-3, ano todo)
+  schedule:
+    - cron: '0 23 * * *'
+  # Também pode ser disparado manualmente na aba "Actions"
+  workflow_dispatch:
+    inputs:
+      data_leitura:
+        description: 'Data de leitura do boletim (YYYY-MM-DD, padrão: amanhã)'
+        required: false
+        default: ''
+      data_coleta:
+        description: 'Data das notícias a coletar (YYYY-MM-DD, padrão: hoje)'
+        required: false
+        default: ''
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: Instalar dependências
+        run: pip install -r scripts/requirements.txt
+
+      - name: Gerar boletim
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLASSIFY_MODEL: claude-sonnet-5
+        run: |
+          ARGS=""
+          if [ -n "${{ github.event.inputs.data_leitura }}" ]; then
+            ARGS="$ARGS --data-leitura ${{ github.event.inputs.data_leitura }}"
+          fi
+          if [ -n "${{ github.event.inputs.data_coleta }}" ]; then
+            ARGS="$ARGS --data-coleta ${{ github.event.inputs.data_coleta }}"
+          fi
+          python scripts/gerar_boletim.py $ARGS
+
+      - name: Commit e push
+        run: |
+          git config --local user.email "boletim-bot@campetti.dev"
+          git config --local user.name  "Boletim Bot"
+          git add briefings/
+          if git diff --cached --quiet; then
+            echo "Sem mudanças no boletim — nada a commitar."
+            exit 0
+          fi
+          DATA=$(ls -t briefings/*.json | grep -v index | head -1 | xargs basename .json)
+          git commit -m "boletim: rascunho $DATA gerado automaticamente às 20h"
+          git push

@@ -125,10 +125,20 @@ export function renderBriefing(data) {
   const total = countItems(data);
   const urgent = countUrgent(data);
 
+  const draftBanner = data.draft ? `
+    <div class="analysis" style="margin:0 0 12px">
+      <p><b>Rascunho gerado automaticamente às 20h de ontem.</b> Marcelo Suano ainda vai revisar,
+      escrever as análises e publicar. Você já pode dar uma olhada, mas o texto final pode mudar.</p>
+    </div>` : '';
+
+  const draftChip = data.draft ? '<span class="chip" style="background:rgba(245,158,11,0.15);color:#FCD34D;border-color:rgba(245,158,11,0.4)">✎ RASCUNHO</span>' : '';
+
   const html = `
+    ${draftBanner}
     <div class="hero">
       <div class="hero-meta">
         <span class="chip chip-brand">Boletim de hoje</span>
+        ${draftChip}
         <span class="chip">${escapeHTML(data.weekday)}</span>
         <span class="chip">${escapeHTML(data.date.split('-').reverse().join('/'))}</span>
       </div>

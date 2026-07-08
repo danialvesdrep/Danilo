@@ -119,6 +119,53 @@ para ajustar tom ou expandir bandeiras.
 - `config/fontes.json` — fontes monitoradas (referência para Marcelo).
 - `config/posicionamento.json` — diretrizes do gerador de posts.
 
+## Automação — rascunho às 20h
+
+Um script Python roda todo dia às 20h (America/Sao_Paulo) via GitHub Actions:
+
+1. **Coleta** feeds RSS de Folha, Poder360, O Antagonista, Gazeta do Povo, G1
+   (política/mundo/economia), Agência Brasil, Agência Câmara, Agência Senado
+   e portais regionais do Noroeste paulista (Diário da Região).
+2. **Filtra** para o dia da execução, remove duplicatas por título e mantém só
+   itens que mencionam termos de interesse (Tarcísio, Bolsonaro, Lula, Israel,
+   agronegócio, cidades do Noroeste, etc.).
+3. **Classifica com Claude** cada notícia em uma das 6 seções fixas do boletim,
+   sugere urgência (alta/média/baixa) e reescreve o resumo em 2-3 linhas
+   factuais — sempre destacando o ângulo político relevante para um candidato
+   de direita em SP.
+4. **Grava** `briefings/<amanhã>.json` com `draft: true` e atualiza o índice.
+5. **Faz commit** e push automaticamente na branch da campanha.
+
+Marcelo abre o painel admin de manhã (ou à noite), vê o chip ✎ RASCUNHO,
+revisa os itens, escreve a análise de cada seção, define o Top 3 e a manchete
+geral, e publica. **Tempo de trabalho cai de ~45 min para ~10 min por dia.**
+
+### Setup da automação (uma única vez)
+
+1. Em `Settings → Secrets and variables → Actions` do repositório, adicionar
+   um secret chamado `ANTHROPIC_API_KEY` com a chave da API do Claude
+   (criada em https://console.anthropic.com).
+2. Em `Settings → Actions → General → Workflow permissions`, marcar
+   **"Read and write permissions"** para o workflow poder fazer commit.
+3. Pronto. O workflow em `.github/workflows/gerar-boletim.yml` roda todo dia
+   às 20h automaticamente. Também pode ser disparado à mão na aba **Actions**
+   → **"Gerar rascunho do boletim (20h SP)"** → **"Run workflow"**.
+
+### Custos estimados
+
+Cada rodada processa ~60 itens de notícia, usa ~20-30 mil tokens de saída
+no Claude Sonnet 5. Custo por dia: ~R$ 0,50-1,50. Custo mensal: ~R$ 20-45.
+
+### Testar localmente sem chamar API
+
+```bash
+pip install -r scripts/requirements.txt
+python scripts/gerar_boletim.py --dry-run
+```
+
+Sem `ANTHROPIC_API_KEY` no ambiente, o script usa um fallback simples
+(sem classificação por Claude) — útil só para depurar a coleta RSS.
+
 ## Funcionalidades implementadas
 
 - ✅ Boletim diário com seções fixas e ordem definida (Noroeste SP → Estado SP →

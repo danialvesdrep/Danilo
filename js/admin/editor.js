@@ -162,6 +162,14 @@ async function loadExisting() {
       return { ...s, items: found?.items || [], analysis: found?.analysis || '' };
     });
     renderSections();
+    // Sinaliza rascunho vindo da automação
+    const chip = document.getElementById('targetDateChip');
+    if (data.draft && chip) {
+      chip.textContent = __state.date + ' · ✎ RASCUNHO';
+      chip.style.background = 'rgba(245,158,11,0.15)';
+      chip.style.color = '#FCD34D';
+      chip.style.borderColor = 'rgba(245,158,11,0.4)';
+    }
   } catch (e) { /* sem boletim ainda */ }
 }
 
