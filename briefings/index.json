@@ -2,6 +2,14 @@
   "_comentario": "Lista dos boletins publicados. O painel admin atualiza automaticamente ao publicar.",
   "briefings": [
     {
+      "date": "2026-07-09",
+      "weekday": "quinta-feira",
+      "headline": "(rascunho — Marcelo revisa)",
+      "items_count": 6,
+      "urgent_count": 0,
+      "draft": true
+    },
+    {
       "date": "2026-05-05",
       "weekday": "terça-feira",
       "headline": "Novo Desenrola, lei mais dura contra furto e roubo, e crédito de R$ 305 milhões: o tabuleiro do dia.",
