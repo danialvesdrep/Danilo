@@ -1,0 +1,95 @@
+{
+  "date": "2026-07-13",
+  "weekday": "segunda-feira",
+  "draft": true,
+  "generated_at": "2026-07-12T20:47:13.119632-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "PM é morto com mais de 20 tiros na porta de condomínio no RJ",
+          "summary": "O sargento da <a href=\"https://www1.folha.uol.com.br/folha-topicos/policia-militar/\">Polícia Militar</a> Yuri Luiz Desiderati Ribeiro, 39, foi morto na madrugada deste domingo (12) com mais de 20 tiros na porta do condomínio onde morava, no Pechincha, na zona ",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/pm-e-morto-com-mais-de-20-tiros-na-porta-de-condominio-no-rj.shtml",
+          "published_at": "2026-07-12T20:06:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "'Bolsonaro é que tem os votos', diz Valdemar, ao justificar carta sobre Flávio",
+          "summary": "O presidente do <a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>, <a href=\"https://www1.folha.uol.com.br/folha-topicos/valdemar-costa-neto/\">Valdemar Costa Neto</a>, avalia que a carta enviada por <a href=\"https://www1.folha.uol.com.br/folha-to",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/bolsonaro-e-que-tem-os-votos-diz-valdemar-ao-justificar-carta-sobre-flavio.shtml",
+          "published_at": "2026-07-12T17:57:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "A matemática eleitoral feita para favorecer os homens",
+          "summary": "<a href=\"https://www1.folha.uol.com.br/poder/2026/06/grandes-partidos-do-pl-ao-pt-pedem-ao-tse-para-driblar-regra-sobre-cota-para-mulheres-e-negros.shtml\">PT, PL e outros partidos pediram ao presidente do TSE, Kassio Nunes Marques</a>, que exclua as candidatur",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/lara-mesquita/2026/07/a-matematica-eleitoral-feita-para-favorecer-os-homens.shtml",
+          "published_at": "2026-07-12T17:52:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Lula quer ato em São Bernardo para iniciar campanha",
+          "summary": "O presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\" rel=\"\" target=\"\">Luiz Inácio Lula da Silva </a>(PT) deve iniciar oficialmente sua <a href=\"https://www1.folha.uol.com.br/colunas/monicabergamo/2026/07/lula-tem-8-pontos-a-mais-de-rejeicao",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/lula-escolhe-sao-bernardo-para-dar-largada-a-campanha-de-reeleicao.shtml",
+          "published_at": "2026-07-12T17:40:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Com Ibaneis fora da disputa ao Senado, ex-primeira-dama prepara candidatura a federal",
+          "summary": "Com o ex-governador do <a href=\"https://www1.folha.uol.com.br/folha-topicos/distrito-federal/\">Distrito Federal</a> <a href=\"https://www1.folha.uol.com.br/folha-topicos/ibaneis-rocha/\">Ibaneis Rocha</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/mdb",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/07/com-ibaneis-fora-da-disputa-ao-senado-ex-primeira-dama-prepara-candidatura-a-federal.shtml",
+          "published_at": "2026-07-12T14:22:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Carta de Bolsonaro busca aplacar divisão na família; relembre histórico da crise envolvendo Michelle",
+          "summary": "A divulgação neste sábado (11) da <a href=\"https://www1.folha.uol.com.br/poder/2026/07/bolsonaro-diz-em-carta-que-flavio-e-seu-porta-voz-e-candidato-apos-crise-provocada-por-michelle.shtml\">carta na qual Jair Bolsonaro (PL)</a> diz que seu filho <a href=\"https",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/carta-de-bolsonaro-busca-aplacar-divisao-na-familia-relembre-historico-da-crise-envolvendo-michelle.shtml",
+          "published_at": "2026-07-12T12:52:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
