@@ -1,0 +1,95 @@
+{
+  "date": "2026-07-19",
+  "weekday": "domingo",
+  "draft": true,
+  "generated_at": "2026-07-18T20:44:55.562663-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Ex-presidenciável, Soraya Thronicke anuncia pré-candidatura à reeleição no Senado com apoio de Lula",
+          "summary": "A ex-presidenciável e senadora <a href=\"https://www1.folha.uol.com.br/folha-topicos/soraya-thronicke/\" rel=\"\" target=\"\">Soraya Thronicke</a> (PSB-MS) confirmou nesta sexta-feira (17) que é pré-candidata à reeleição no pleito de outubro em uma aliança com o PT ",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/ex-presidenciavel-soraya-thronicke-anuncia-pre-candidatura-a-reeleicao-no-senado-com-apoio-de-lula.shtml",
+          "published_at": "2026-07-18T18:49:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "STF barra venda de terreno de R$ 15 milhões de Jaques Wagner, alvo de operação da PF",
+          "summary": "O senador <a href=\"https://www1.folha.uol.com.br/folha-topicos/jaques-wagner/\">Jaques Wagner</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pt/\">PT</a>-BA) teve a venda de um terreno de R$ 15,8 milhões barrada por decisão do ministro <a href=\"https:",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/stf-barra-venda-de-terreno-de-r-15-milhoes-de-jaques-wagner-alvo-de-operacao-da-pf.shtml",
+          "published_at": "2026-07-18T18:30:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Lula chama Trump para guerra no teatro do ufanismo",
+          "summary": "<a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>) perdeu de lavada para Luiz Inácio da Silva (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pt/",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/07/lula-chama-trump-para-guerra-no-teatro-do-ufanismo.shtml",
+          "published_at": "2026-07-18T17:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Flávio diz que Moraes faz advocacia administrativa e que mulher do ministro ganha para fingir que advoga",
+          "summary": "O senador <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>-RJ), pré-candidato à Presidência da República, afirmou neste sábado (18) que o ministro <a ",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/flavio-diz-que-moraes-faz-advocacia-administrativa-e-que-mulher-do-ministro-ganha-para-fingir-que-advoga.shtml",
+          "published_at": "2026-07-18T16:59:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Se é isso que a direita faz com o Brasil acima de tudo, o Deus acima de todos que se cuide",
+          "summary": "Toda vez que <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a> cai nas pesquisas, pede para a Casa Branca punir os brasileiros. Do jeito que a coisa vai, temo que o Brasil seja alvo de um ataque nuclear americano se v",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2026/07/se-e-isso-que-a-direita-faz-com-o-brasil-acima-de-tudo-o-deus-acima-de-todos-que-se-cuide.shtml",
+          "published_at": "2026-07-18T16:40:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Kassab nega ao STF ter influenciado destinação de emendas parlamentares como presidente do PSD",
+          "summary": "O presidente do <a href=\"https://www1.folha.uol.com.br/folha-topicos/psd/\">PSD</a>, <a href=\"https://www1.folha.uol.com.br/folha-topicos/gilberto-kassab/\">Gilberto Kassab</a>, afirmou ao <a href=\"https://www1.folha.uol.com.br/folha-topicos/stf/\">STF</a> (Supre",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/kassab-nega-ao-stf-ter-influenciado-destinacao-de-emendas-parlamentares-como-presidente-do-psd.shtml",
+          "published_at": "2026-07-18T15:08:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
