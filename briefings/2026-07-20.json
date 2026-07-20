@@ -1,0 +1,95 @@
+{
+  "date": "2026-07-20",
+  "weekday": "segunda-feira",
+  "draft": true,
+  "generated_at": "2026-07-19T23:23:56.750286-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "TCU propõe ao Congresso elevar penduricalhos em até 40% após liberar supersalários fora do teto",
+          "summary": "No mesmo dia em que <a href=\"https://www1.folha.uol.com.br/poder/2026/07/tcu-contraria-area-tecnica-e-libera-penduricalhos-fora-do-teto-apos-pressao-do-congresso.shtml\" rel=\"\" target=\"\">liberou remunerações acima do teto constitucional a servidores da Câmara, ",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/tcu-propoe-ao-congresso-elevar-penduricalhos-em-ate-40-apos-liberar-supersalarios-fora-do-teto.shtml",
+          "published_at": "2026-07-19T23:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Disputas internas pressionam partidos em até nove estados antes do registro das chapas",
+          "summary": "As <a href=\"https://www1.folha.uol.com.br/poder/2026/04/saiba-quais-sao-as-principais-datas-do-calendario-eleitoral-de-2026.shtml\" rel=\"\" target=\"\">convenções partidárias </a>começam nesta segunda-feira (20) em meio a tensões partidárias em ao menos nove estad",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/disputas-internas-pressionam-partidos-em-ate-nove-estados-antes-do-registro-das-chapas.shtml",
+          "published_at": "2026-07-19T23:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Pablo Marçal não vai à convenção do União-PP enquanto aguarda decisão do TSE",
+          "summary": "O influencer <a href=\"https://www1.folha.uol.com.br/folha-topicos/pablo-marcal/\">Pablo Marçal</a>, filiado ao <a href=\"https://www1.folha.uol.com.br/folha-topicos/uniao-brasil/\">União Brasil</a>, não deverá ir à <a href=\"https://www1.folha.uol.com.br/colunas/p",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/07/pablo-marcal-nao-vai-a-convencao-do-uniao-pp-enquanto-aguarda-decisao-do-tse.shtml",
+          "published_at": "2026-07-19T21:49:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Lula escala Simone Tebet para apresentar medidas contra tarifaço ao setor do etanol",
+          "summary": "<a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pt/\">PT</a>) escalou <a href=\"https://www1.folha.uol.com.br/folha-topicos/simone-tebet/\">Simone Tebet</a> (PSB), pré-candidata ao Senado ",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/07/lula-escala-simone-tebet-para-apresentar-medidas-contra-tarifaco-ao-setor-do-etanol.shtml",
+          "published_at": "2026-07-19T17:17:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Ciro Gomes cita Caiado e Renan Santos como possibilidades de voto e ignora Flávio Bolsonaro",
+          "summary": "O ex-ministro <a href=\"https://www1.folha.uol.com.br/folha-topicos/ciro-gomes/\" rel=\"\" target=\"\">Ciro Gomes</a> (PSDB), pré-candidato ao Governo do <a href=\"https://www1.folha.uol.com.br/folha-topicos/ceara-estado/\" rel=\"\" target=\"\">Ceará</a>, afirmou neste sá",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/ciro-gomes-cita-caiado-e-renan-santos-como-possibilidades-de-voto-e-ignora-flavio-bolsonaro.shtml",
+          "published_at": "2026-07-19T17:16:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Saiba por que Lula podia receber visitas políticas e divulgar cartas na prisão e Bolsonaro não pode",
+          "summary": "O endurecimento das restrições ao ex-presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/jair-bolsonaro/\">Jair Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>), preso por ter liderado uma tentativa de golpe de Estado",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/saiba-por-que-lula-podia-receber-visitas-politicas-e-divulgar-cartas-e-bolsonaro-nao-pode.shtml",
+          "published_at": "2026-07-19T14:58:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
