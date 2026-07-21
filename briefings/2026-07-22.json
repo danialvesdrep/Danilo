@@ -1,0 +1,95 @@
+{
+  "date": "2026-07-22",
+  "weekday": "quarta-feira",
+  "draft": true,
+  "generated_at": "2026-07-21T20:53:30.322332-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Movimentos sociais vão a Washington contra possível interferência dos EUA nas eleições",
+          "summary": "Organizações e movimentos sociais participam de reuniões nesta semana com deputados em Washington. O objetivo é buscar alianças internacionais para impedir qualquer forma de interferência <a href=\"https://www1.folha.uol.com.br/folha-topicos/eleicoes/\" rel=\"\" t",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/movimentos-sociais-vao-a-washington-contra-possivel-interferencia-dos-eua-nas-eleicoes.shtml",
+          "published_at": "2026-07-21T19:58:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Ministro diz a empresários que governo não deve usar Lei de Reciprocidade contra EUA",
+          "summary": "O ministro do Desenvolvimento, Indústria, Comércio e Serviços, Márcio Elias Rosa, disse a empresários que o governo não deve lançar mão <a href=\"https://www1.folha.uol.com.br/mercado/2026/07/governo-lula-diz-que-vai-acionar-lei-de-reciprocidade-contra-tarifaco",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/07/ministro-diz-a-empresarios-que-governo-nao-deve-usar-lei-de-reciprocidade-contra-eua.shtml",
+          "published_at": "2026-07-21T19:45:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Flávio Bolsonaro repete o pai e propaga dado falso sobre urnas em reunião com embaixadores",
+          "summary": "O presidenciável do <a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>, senador <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a> (RJ), espalhou <a href=\"https://www1.folha.uol.com.br/poder/2022/09/fake-",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/flavio-bolsonaro-leva-informacoes-falsas-sobre-urnas-em-reuniao-com-embaixadores-e-repete-o-pai.shtml",
+          "published_at": "2026-07-21T19:03:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Justiça de SP manda gestão Nunes autorizar Uber a operar mototáxi na capital",
+          "summary": "O Tribunal de Justiça de <a href=\"https://www1.folha.uol.com.br/folha-topicos/sao-paulo/\">São Paulo</a> determinou nesta terça-feira (21) que a prefeitura da capital autorize a <a href=\"https://www1.folha.uol.com.br/folha-topicos/uber/\">Uber</a> a operar o ser",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/07/justica-de-sp-manda-gestao-nunes-autorizar-uber-a-operar-mototaxi-na-capital.shtml",
+          "published_at": "2026-07-21T18:48:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Flávio Bolsonaro muda QG de campanha para SP com expectativa de agendas com Tarcísio",
+          "summary": "A estrutura da pré-campanha do senador <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\" rel=\"\" target=\"\">Flávio Bolsonaro (PL)</a>, pré-candidato à Presidência da República, foi transferida de Brasília para São Paulo nas últimas semanas.",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/flavio-bolsonaro-muda-qg-de-campanha-para-sp-com-expectativa-de-agendas-com-tarcisio.shtml",
+          "published_at": "2026-07-21T18:18:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Eduardo diz que Michelle agiu com imaturidade e não deveria ter postado vídeo com críticas a Flávio",
+          "summary": "O ex-deputado federal <a href=\"https://www1.folha.uol.com.br/folha-topicos/eduardo-bolsonaro/\">Eduardo Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>-SP) chamou de \"imaturidade\" a reação da ex-primeira-dama <a href=\"https://www",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/eduardo-diz-que-michelle-agiu-com-imaturidade-e-nao-deveria-ter-postado-video-com-criticas-a-flavio.shtml",
+          "published_at": "2026-07-21T17:51:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
