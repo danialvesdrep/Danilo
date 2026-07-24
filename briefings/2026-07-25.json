@@ -1,0 +1,95 @@
+{
+  "date": "2026-07-25",
+  "weekday": "sábado",
+  "draft": true,
+  "generated_at": "2026-07-24T20:57:53.569861-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Datafolha: Inferno astral de Flávio mantém vantagem de Lula, mas petista testa seu teto",
+          "summary": "A estreia oficial da campanha deste ano se aproxima, com um cenário de vantagem para <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pt/\">PT</a>) que começou a se desenhar com o recente",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/datafolha-inferno-astral-de-flavio-mantem-vantagem-de-lula-mas-petista-testa-seu-teto.shtml",
+          "published_at": "2026-07-24T20:21:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Justiça absolve jornalista Barbara Gancia em processo de injúria contra filha de Bolsonaro",
+          "summary": "A jornalista Barbara Gancia foi absolvida depois de deferido um recurso contra sua condenação, proferida em dezembro de 2025 na primeira instância<i>,</i> por injúria contra Laura Bolsonaro, filha mais nova do ex-presidente <a href=\"https://www1.folha.uol.com.",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/justica-absolve-jornalista-barbara-gancia-em-processo-de-injuria-contra-filha-de-bolsonaro.shtml",
+          "published_at": "2026-07-24T19:59:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Novo cobra que TSE notifique escola de samba que homenageou Lula em ação por propaganda eleitoral",
+          "summary": "O partido Novo cobra que o <a href=\"https://www1.folha.uol.com.br/folha-topicos/tse/\">TSE</a> (Tribunal Superior Eleitoral) consiga citar a Acadêmicos de Niterói na ação que acusa a escola de samba de propaganda eleitoral antecipada pelo desfile de <a href=\"ht",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/07/novo-cobra-que-tse-notifique-escola-de-samba-que-homenageou-lula-em-acao-por-propaganda-eleitoral.shtml",
+          "published_at": "2026-07-24T19:36:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Movimentos sociais farão atos no Amapá para pressionar Alcolumbre a pautar fim da 6x1",
+          "summary": "Movimentos sociais agendaram para os próximos dias manifestações no Amapá, terra do presidente do <a href=\"https://www1.folha.uol.com.br/folha-topicos/senado/\">Senado</a>, <a href=\"https://www1.folha.uol.com.br/folha-topicos/davi-alcolumbre/\">Davi Alcolumbre</",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/07/movimentos-sociais-farao-atos-no-amapa-para-pressionar-alcolumbre-a-pauta-fim-da-6x1.shtml",
+          "published_at": "2026-07-24T19:15:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Datafolha: Avaliação de Lula segue estável após tarifaço de Trump",
+          "summary": "A avaliação do governo do presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> (PT) se manteve estável na mais recente pesquisa do <a href=\"https://www1.folha.uol.com.br/folha-topicos/datafolha/\">Datafolha</a>, apesar do novo tarifaç",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/datafolha-avaliacao-de-lula-segue-estavel-apos-tarifaco-de-trump.shtml",
+          "published_at": "2026-07-24T19:01:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Datafolha: Lula tem 48%, e Flávio Bolsonaro, 43% no segundo turno",
+          "summary": "Nova pesquisa do <a href=\"https://www1.folha.uol.com.br/folha-topicos/datafolha/\">Datafolha</a> sobre a corrida pelo Planalto mostra o presidente Lula (PT) com 48% das intenções de voto no segundo turno contra <a href=\"https://www1.folha.uol.com.br/folha-topic",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/datafolha-lula-tem-48-e-flavio-bolsonaro-43-no-segundo-turno.shtml",
+          "published_at": "2026-07-24T19:00:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
