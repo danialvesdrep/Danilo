@@ -1,0 +1,95 @@
+{
+  "date": "2026-07-28",
+  "weekday": "terça-feira",
+  "draft": true,
+  "generated_at": "2026-07-27T20:59:09.924933-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Diplomacia adota cautela e governo não pretende deixar Argentina sem representação diplomática",
+          "summary": "Apesar da relação estremecida entre Brasil e <a href=\"https://www1.folha.uol.com.br/folha-topicos/argentina/\">Argentina</a> após as duras falas de <a href=\"https://www1.folha.uol.com.br/folha-topicos/javier-milei/\">Javier Milei</a> durante a convenção do PL, a",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/07/diplomacia-adota-cautela-e-governo-nao-pretende-deixar-argentina-sem-representacao-diplomatica.shtml",
+          "published_at": "2026-07-27T20:48:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Milei lota rede social com críticas a Lula em meio a crise diplomática",
+          "summary": "O presidente da <a href=\"https://www1.folha.uol.com.br/folha-topicos/argentina/\">Argentina</a>, <a href=\"https://www1.folha.uol.com.br/folha-topicos/javier-milei/\">Javier Milei</a>, lotou o seu perfil no X com publicações críticas a Luiz Inácio <a href=\"https:",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/milei-lota-rede-social-com-criticas-a-lula-em-meio-a-crise-diplomatica.shtml",
+          "published_at": "2026-07-27T20:48:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Lula ironiza Milei após ser criticado por presidente da Argentina: 'Quem é esse cara?'",
+          "summary": "O presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> (PT) ironizou o presidente da <a href=\"https://www1.folha.uol.com.br/folha-topicos/argentina/\">Argentina</a>, <a href=\"https://www1.folha.uol.com.br/folha-topicos/javier-milei/\">",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/lula-ironiza-milei-apos-ser-criticado-por-presidente-da-argentina-quem-e-esse-cara.shtml",
+          "published_at": "2026-07-27T18:04:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "PSDB de MG fará convenção sem definição sobre candidatura de Aécio",
+          "summary": "O <a href=\"https://www1.folha.uol.com.br/folha-topicos/psdb/\">PSDB</a> de Minas Gerais fará nesta terça-feira (28) sua convenção eleitoral, mas ainda sem definição sobre uma eventual candidatura ao Senado de sua principal liderança, o deputado federal <a href=",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/07/psdb-de-mg-fara-convencao-sem-definicao-sobre-candidatura-de-aecio.shtml",
+          "published_at": "2026-07-27T17:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Oposição da Argentina vê ataques de Milei contra Lula como irresponsabilidade contra parceiro comercial",
+          "summary": "Os ataques do presidente da <a href=\"https://www1.folha.uol.com.br/folha-topicos/argentina/\">Argentina</a>, Javier Milei, a Luiz Inácio <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> da Silva (<a href=\"https://www1.folha.uol.com.br/folha-",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/oposicao-da-argentina-ve-ataques-de-milei-contra-lula-como-irresponsabilidade-contra-parceiro-comercial.shtml",
+          "published_at": "2026-07-27T16:41:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Zema critica fala de Milei em evento de Flávio e diz que argentino foi deselegante",
+          "summary": "O candidato à Presidência da República <a href=\"https://www1.folha.uol.com.br/folha-topicos/romeu-zema/\">Romeu Zema</a> (Novo) classificou como \"deselegante\" o discurso do presidente da <a href=\"https://www1.folha.uol.com.br/folha-topicos/argentina/\">Argentina",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/07/zema-critica-fala-de-milei-em-evento-de-flavio-e-diz-que-e-tentativa-de-interferir-no-brasil.shtml",
+          "published_at": "2026-07-27T16:36:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
