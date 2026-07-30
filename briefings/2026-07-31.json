@@ -1,0 +1,95 @@
+{
+  "date": "2026-07-31",
+  "weekday": "sexta-feira",
+  "draft": true,
+  "generated_at": "2026-07-30T20:58:19.456581-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Lula admite risco de interferência de Trump nas eleições",
+          "summary": "O presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> (PT) admitiu nesta quinta-feira (30) considerar a possibilidade de que o presidente dos <a href=\"https://www1.folha.uol.com.br/folha-topicos/estados-unidos/\">Estados Unidos</a>, ",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/lula-admite-risco-de-interferencia-de-trump-nas-eleicoes.shtml",
+          "published_at": "2026-07-30T20:43:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Lulinha terá de provar ser inocente e não usarei cargo para protegê-lo, diz Lula sobre inquérito da PF",
+          "summary": "O presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> (PT) afirmou nesta quarta-feira (30) que o cargo dele não será usado para proteger seu filho <a href=\"https://www1.folha.uol.com.br/poder/2026/03/entenda-elos-de-lulinha-com-esca",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/lulinha-tera-de-provar-ser-inocente-e-nao-usarei-cargo-para-protege-lo-diz-lula-sobre-inquerito-da-pf.shtml",
+          "published_at": "2026-07-30T20:31:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Entenda a investigação da PF envolvendo Lulinha",
+          "summary": "Após pedido da <a href=\"https://www1.folha.uol.com.br/folha-topicos/policia-federal/\">Polícia Federal</a>, o ministro do <a href=\"https://www1.folha.uol.com.br/folha-topicos/stf/\">STF</a> (Supremo Tribunal Federal)<a href=\"https://www1.folha.uol.com.br/folha-t",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/entenda-a-investigacao-da-pf-envolvendo-lulinha.shtml",
+          "published_at": "2026-07-30T18:51:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Tereza Cristina encontra Flávio Bolsonaro e indica topar vice, mas PP resiste a aliança",
+          "summary": "A senadora <a href=\"https://www1.folha.uol.com.br/folha-topicos/tereza-cristina/\">Tereza Cristina</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pp/\">PP</a>-MS) conversou com o senador <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bols",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/tereza-cristina-encontra-flavio-bolsonaro-e-indica-topar-vice-mas-pp-resiste-a-alianca.shtml",
+          "published_at": "2026-07-30T18:28:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Polêmica sobre vídeo de Bolsonaro mostra que Justiça não se entende sobre IA; veja vídeo",
+          "summary": "A convenção de <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a>, no sábado passado, entrou para a história como a primeira em que o candidato não foi o personagem principal.\n<a href=\"https://redir.folha.com.br/redir/",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/07/polemica-sobre-video-de-bolsonaro-mostra-que-justica-nao-se-entende-sobre-ia-veja-video.shtml",
+          "published_at": "2026-07-30T17:58:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Campanha de Flávio dissocia troca no marketing de polêmicas em convenção",
+          "summary": "A campanha de <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>) procura dissociar a <a href=\"https://www1.folha.uol.com.br/poder/2026/07/campanha-de-f",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/07/campanha-de-flavio-dissocia-troca-no-marketing-de-polemicas-em-convencao.shtml",
+          "published_at": "2026-07-30T17:25:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
