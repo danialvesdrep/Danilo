@@ -1,0 +1,95 @@
+{
+  "date": "2026-08-01",
+  "weekday": "sábado",
+  "draft": true,
+  "generated_at": "2026-07-31T20:55:05.906466-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Mendonça autoriza segundo inquérito da PF contra Lulinha por suspeita de tráfico de influência",
+          "summary": "O ministro <a href=\"https://www1.folha.uol.com.br/folha-topicos/andre-mendonca/\">André Mendonça</a>, do <a href=\"https://www1.folha.uol.com.br/folha-topicos/stf/\">STF</a> (Supremo Tribunal Federal), autorizou a abertura de um segundo inquérito solicitado pela ",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/mendonca-autoriza-segundo-inquerito-da-pf-contra-lulinha-por-suspeita-de-trafico-de-influencia.shtml",
+          "published_at": "2026-07-31T20:22:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Fala sobre Vorcaro gera constrangimento em encontro de Flávio com vereadores de SP",
+          "summary": "O encontro de <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>) e <a href=\"https://www1.folha.uol.com.br/folha-topicos/tarcisio-de-freitas/\">Tarcísio ",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/07/fala-sobre-vorcaro-gera-constrangimento-em-encontro-de-flavio-com-vereadores-de-sp.shtml",
+          "published_at": "2026-07-31T18:58:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Zanin arquiva inquérito contra ministro do STJ em caso de venda de decisões",
+          "summary": "O ministro <a href=\"https://www1.folha.uol.com.br/folha-topicos/cristiano-zanin/\">Cristiano Zanin</a>, do <a href=\"https://www1.folha.uol.com.br/folha-topicos/stf/\">STF</a> (Supremo Tribunal Federal), arquivou nesta sexta-feira (31) um inquérito sobre o minist",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/zanin-arquiva-inquerito-contra-ministro-do-stj-em-caso-de-venda-de-decisoes.shtml",
+          "published_at": "2026-07-31T18:27:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Lula e Flávio Bolsonaro disputam Podemos, que deve ficar neutro, em vitória para o PT",
+          "summary": "Aliados do presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\" rel=\"\" target=\"\">Lula (PT)</a> e integrantes da campanha de <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\" rel=\"\" target=\"\">Flávio Bolsonaro (PL)</a> fiz",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/lula-e-flavio-bolsonaro-disputam-podemos-que-deve-ficar-neutro-em-vitoria-para-o-pt.shtml",
+          "published_at": "2026-07-31T18:24:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Flávio Bolsonaro mira SP com troca de marqueteiro e diz não entender rejeição entre mulheres",
+          "summary": "A mais recente troca na equipe de comunicação de <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>) e a decisão do candidato de participar de um encont",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/flavio-bolsonaro-mira-sp-com-troca-de-marqueteiro-e-diz-nao-entender-rejeicao-entre-mulheres.shtml",
+          "published_at": "2026-07-31T18:08:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Centrais sindicais entregam demandas ao governo para reagir ao tarifaço",
+          "summary": "As <a href=\"https://www1.folha.uol.com.br/folha-topicos/centrais-sindicais/\">centrais sindicais</a> apresentaram ao governo um documento com propostas para reagir ao tarifaço imposto pelo governo de <a href=\"https://www1.folha.uol.com.br/folha-topicos/donald-t",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/07/centrais-sindicais-entregam-demandas-ao-governo-para-reagir-ao-tarifaco.shtml",
+          "published_at": "2026-07-31T17:00:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
