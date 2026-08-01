@@ -1,0 +1,95 @@
+{
+  "date": "2026-08-02",
+  "weekday": "domingo",
+  "draft": true,
+  "generated_at": "2026-08-01T20:53:18.001640-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Deputado do PL aciona PGR contra Lula por pedido de votos na Bahia",
+          "summary": "O deputado Sanderson (PL-RS) acionou a PGR (Procuradoria-Geral da República) contra o presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pt/\">PT</a>) após ele pedir votos de for",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/deputado-do-pl-aciona-pgr-contra-lula-por-pedido-de-votos-na-bahia.shtml",
+          "published_at": "2026-08-01T20:44:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "PL usa imagens de Jair Bolsonaro com narração durante convenção em SC com presença de Flávio",
+          "summary": "O PL reproduziu um breve discurso com voz que parecia ser do ex-presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/jair-bolsonaro/\">Jair Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>) ao exibir uma sequência de im",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/pl-usa-imagens-de-jair-bolsonaro-com-narracao-durante-convencao-em-sc-com-presenca-de-flavio.shtml",
+          "published_at": "2026-08-01T19:48:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Michelle Bolsonaro será candidata ao Senado, diz Bia Kicis",
+          "summary": "A deputada federal e pré-candidata ao <a href=\"https://www1.folha.uol.com.br/folha-topicos/senado/\">Senado</a> Bia Kicis (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>-DF) anunciou neste sábado (1º), em <a href=\"https://www1.folha.uol.com.br",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/michelle-bolsonaro-sera-candidata-ao-senado-diz-bia-kicis.shtml",
+          "published_at": "2026-08-01T19:06:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Renan Santos mira ataques a Flávio em evento do Missão e defende 'matar quem roubar'",
+          "summary": "O empresário <a href=\"https://www1.folha.uol.com.br/folha-topicos/renan-santos/\">Renan Santos</a> foi apresentado neste sábado (1º) pelo partido Missão como candidato à Presidência da República com ataques ao presidente <a href=\"https://www1.folha.uol.com.br/f",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/renan-santos-mira-ataques-a-flavio-em-evento-do-missao-e-defende-matar-quem-roubar.shtml",
+          "published_at": "2026-08-01T18:32:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Lula desapropria terreno que seria aterro sanitário para assentamento da reforma agrária",
+          "summary": "Após mais de duas <a href=\"https://www1.folha.uol.com.br/poder/2025/06/governo-lula-prepara-decreto-para-tentar-acelerar-regularizacao-de-terras.shtml\" rel=\"\" target=\"\">décadas de disputa fundiária</a>, o presidente <a href=\"https://www1.folha.uol.com.br/folha",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/lula-desapropria-terreno-que-seria-aterro-sanitario-para-assentamento-da-reforma-agraria.shtml",
+          "published_at": "2026-08-01T17:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Inquéritos sobre Lulinha acirram tensão entre Mendonça e PF",
+          "summary": "O <a href=\"https://www1.folha.uol.com.br/poder/2026/07/mendonca-autoriza-segundo-inquerito-da-pf-contra-lulinha-por-suspeita-de-trafico-de-influencia.shtml\" rel=\"\" target=\"\">avanço de investigações</a> sobre o empresário Fábio Luís <a href=\"https://www1.folha.",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/inqueritos-sobre-lulinha-acirram-tensao-entre-mendonca-e-pf.shtml",
+          "published_at": "2026-08-01T16:58:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
