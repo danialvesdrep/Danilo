@@ -2,6 +2,14 @@
   "_comentario": "Lista dos boletins publicados. O painel admin atualiza automaticamente ao publicar.",
   "briefings": [
     {
+      "date": "2026-08-04",
+      "weekday": "terça-feira",
+      "headline": "(rascunho — Marcelo revisa)",
+      "items_count": 6,
+      "urgent_count": 0,
+      "draft": true
+    },
+    {
       "date": "2026-08-03",
       "weekday": "segunda-feira",
       "headline": "(rascunho — Marcelo revisa)",

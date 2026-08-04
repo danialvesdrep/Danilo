@@ -1,0 +1,95 @@
+{
+  "date": "2026-08-04",
+  "weekday": "terça-feira",
+  "draft": true,
+  "generated_at": "2026-08-03T21:01:35.074990-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Carros oficiais de deputados estaduais do Republicanos são flagrados em convenção de Tarcísio",
+          "summary": "Dois veículos oficiais da <a href=\"https://www1.folha.uol.com.br/folha-topicos/alesp/\">Alesp</a> (Assembleia Legislativa de <a href=\"https://www1.folha.uol.com.br/folha-topicos/sao-paulo/\">São Paulo</a>), cedidos aos mandatos dos deputados estaduais Altair Mor",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/carros-oficiais-de-deputados-estaduais-do-republicanos-sao-usados-em-convencao-de-tarcisio.shtml",
+          "published_at": "2026-08-03T20:44:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Flávio Bolsonaro se reúne com Republicanos e reforça oferta de vaga de vice, mas partido ainda resiste",
+          "summary": "O candidato à Presidência <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>-RJ) e o presidente do PL, <a href=\"https://www1.folha.uol.com.br/folha-topi",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/flavio-bolsonaro-se-reune-com-republicanos-e-reforca-oferta-de-vaga-de-vice-mas-partido-ainda-resiste.shtml",
+          "published_at": "2026-08-03T18:41:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Abraji e Transparência Internacional lançam prêmio de jornalismo investigativo",
+          "summary": "A <a href=\"https://www1.folha.uol.com.br/blogs/novo-em-folha/2026/07/abraji-abre-inscricoes-para-curso-gratuito-de-ia-para-jornalistas.shtml\" rel=\"\" target=\"\">Abraji (Associação Brasileira de Jornalismo Investigativo)</a> e a <a href=\"https://www1.folha.uol.co",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/novo-em-folha/2026/08/abraji-e-transparencia-internacional-lancam-premio-de-jornalismo-investigativo.shtml",
+          "published_at": "2026-08-03T18:25:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "MPE pede que Justiça Eleitoral barre candidatura de Ricardo Salles ao Senado",
+          "summary": "O Ministério Público Eleitoral pediu que o TRE-SP (Tribunal Eleitoral de <a href=\"https://www1.folha.uol.com.br/folha-topicos/sao-paulo/\">São Paulo</a>) indefira o registro de candidatura de <a href=\"https://www1.folha.uol.com.br/folha-topicos/ricardo-salles/\"",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/mpe-pede-que-justica-eleitoral-barre-candidatura-de-ricardo-salles-ao-senado.shtml",
+          "published_at": "2026-08-03T17:30:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Procura pela primeira CNH salta 222% desde flexibilização das regras pelo governo Lula",
+          "summary": "O número de habilitações emitidas no país aumentou 15% neste ano, mas a<a href=\"https://www1.folha.uol.com.br/cotidiano/2026/02/emissoes-da-primeira-cnh-chegam-a-2985-mil-apos-lula-afrouxar-regras-sp-lidera.shtml\" rel=\"\" target=\"\"> procura pela primeira CNH</a",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/procura-pela-primeira-cnh-salta-222-desde-flexibilizacao-das-regras-pelo-governo-lula.shtml",
+          "published_at": "2026-08-03T17:21:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Patrimônio de Jaques Wagner cresce 630% em oito anos e chega a R$ 24 milhões",
+          "summary": "O patrimônio do senador <a href=\"https://www1.folha.uol.com.br/folha-topicos/jaques-wagner/\">Jaques Wagner</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pt/\">PT</a>-BA) cresceu 631% desde a última eleição em que disputou, há oito anos. Em declaraçã",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/patrimonio-de-jaques-wagner-cresce-630-em-oito-anos-e-chega-a-r-24-milhoes.shtml",
+          "published_at": "2026-08-03T17:11:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
