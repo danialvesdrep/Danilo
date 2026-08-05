@@ -1,0 +1,95 @@
+{
+  "date": "2026-08-06",
+  "weekday": "quinta-feira",
+  "draft": true,
+  "generated_at": "2026-08-05T20:52:49.037295-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Lula tem encontro com Alcolumbre, em gesto de aproximação três meses após rejeição de Messias",
+          "summary": "O presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\" rel=\"\" target=\"\">Lula (PT)</a> encontrou o presidente do Senado, <a href=\"https://www1.folha.uol.com.br/folha-topicos/davi-alcolumbre/\" rel=\"\" target=\"\">Davi Alcolumbre (União-AP)</a>, na",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-tem-encontro-alcolumbre-em-gesto-de-aproximacao-tres-meses-apos-rejeicao-de-messias.shtml",
+          "published_at": "2026-08-05T20:34:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Lula telefona para se despedir de Petro, que deixa presidência da Colômbia nesta semana",
+          "summary": "O presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> (PT) telefonou nesta quarta-feira (5) para se despedir de <a href=\"https://www1.folha.uol.com.br/folha-topicos/gustavo-petro/\">Gustavo Petro</a>, que deixa a presidência da <a hr",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/lula-telefona-para-se-despedir-de-petro-que-deixa-presidencia-da-colombia-nesta-semana.shtml",
+          "published_at": "2026-08-05T20:19:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Sobrinho de Suplicy é candidato a deputado estadual pelo Novo de SP",
+          "summary": "Sobrinho de <a href=\"https://www1.folha.uol.com.br/folha-topicos/eduardo-suplicy/\">Eduardo Suplicy</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pt/\">PT</a>), o agrônomo Pedro Suplicy concorrerá a deputado estadual pelo Novo em São Paulo na eleição",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/sobrinho-de-suplicy-e-candidato-a-deputado-estadual-pelo-novo-de-sp.shtml",
+          "published_at": "2026-08-05T20:04:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Que mais o STF pode tirar de indígenas?",
+          "summary": "A democracia brasileira poderia inventar novos cultos de religião cívica. Cultos que celebrem os valores constitucionais da liberdade na diversidade, da dignidade na proteção de direitos iguais, da prioridade do cuidado aos mais vulneráveis.\n<a href=\"https://r",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2026/08/que-mais-o-stf-pode-tirar-de-indigenas.shtml",
+          "published_at": "2026-08-05T18:54:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Por que Nikolas Ferreira e outros bolsonaristas voltaram a explorar desinformação sobre Covid às vésperas da eleição",
+          "summary": "A audiência do ex-diretor do Instituto Nacional de Alergia e Doenças Infecciosas (NIAID), <a href=\"https://www1.folha.uol.com.br/equilibrioesaude/2026/08/como-teorias-da-conspiracao-sobre-a-covid-ganharam-espaco-na-politica-dos-eua.shtml\" rel=\"\" target=\"\">Anth",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/08/por-que-nikolas-ferreira-e-outros-bolsonaristas-voltaram-a-explorar-desinformacao-sobre-covid-as-vesperas-da-eleicao.shtml",
+          "published_at": "2026-08-05T17:10:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Bolsonaro pede a Moraes para receber visitas de Flávio, Carlos e Jair Renan no Dia dos Pais",
+          "summary": "A defesa de <a href=\"https://www1.folha.uol.com.br/folha-topicos/jair-bolsonaro/\">Jair Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>) pediu nesta quarta-feira (5) para que o ex-presidente possa receber na prisão domiciliar os ",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/bolsonaro-pede-a-moraes-para-receber-visitas-de-flavio-carlos-e-jair-renan-no-dia-dos-pais.shtml",
+          "published_at": "2026-08-05T17:02:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
