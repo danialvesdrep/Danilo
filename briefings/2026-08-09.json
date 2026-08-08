@@ -1,0 +1,95 @@
+{
+  "date": "2026-08-09",
+  "weekday": "domingo",
+  "draft": true,
+  "generated_at": "2026-08-08T20:20:17.520010-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Estudo mostra que paridade de gênero no Legislativo só será alcançada em 2062",
+          "summary": "Levantamento do RenovaBR, escola de lideranças políticas, afirma que, mantido o ritmo atual, a paridade de gênero nas Assembleias Legislativas e <a href=\"https://www1.folha.uol.com.br/folha-topicos/camara-dos-deputados/\">Câmara dos Deputados</a> seria atingida",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/estudo-mostra-que-paridade-de-genero-no-legislativo-so-sera-alcancada-em-2062.shtml",
+          "published_at": "2026-08-08T20:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Tarcísio declara R$ 2,7 milhões em bens ao registrar candidatura à reeleição em SP",
+          "summary": "O governador de São Paulo, <a href=\"https://www1.folha.uol.com.br/folha-topicos/tarcisio-de-freitas/\" rel=\"\" target=\"\">Tarcísio de Freitas (Republicanos)</a>, declarou à Justiça Eleitoral um patrimônio de R$ 2,696 milhões ao registrar sua candidatura à reeleiç",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/tarcisio-declara-r-27-milhoes-em-bens-ao-registrar-candidatura-a-reeleicao-em-sp.shtml",
+          "published_at": "2026-08-08T18:08:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Lula volta a prometer criar Ministério da Segurança Pública em plano de governo",
+          "summary": "O presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> (PT) registrou em seu plano de governo a promessa de criar o Ministério da Segurança Pública -algo que ele não fez em seus três mandatos até agora. O mandatário, no entanto, cond",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-volta-a-prometer-criar-ministerio-da-seguranca-publica-em-plano-de-governo.shtml",
+          "published_at": "2026-08-08T17:58:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Novo pede cassação da chapa Lula-Alckmin por suposto abuso de poder econômico",
+          "summary": "O partido Novo apresentou neste sábado (8) um pedido de investigação à <a href=\"https://www1.folha.uol.com.br/folha-topicos/justica-eleitoral/\">Justiça Eleitoral</a> contra a chapa formada pelo presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/lu",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/novo-pede-cassacao-da-chapa-lula-alckmin-por-suposto-abuso-de-poder-economico.shtml",
+          "published_at": "2026-08-08T16:42:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Eleições 2026: Entenda a diferença entre chapa puro-sangue, coligação e federação",
+          "summary": "O <a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\" rel=\"\" target=\"\">PL</a>, de <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\" rel=\"\" target=\"\">Flávio Bolsonaro</a>, vai disputar a eleição à Presidência da República com uma cha",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/tv/2026/08/eleicoes-2026-entenda-a-diferenca-entre-chapa-puro-sangue-coligacao-e-federacao.shtml",
+          "published_at": "2026-08-08T15:30:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Lula declara ao TSE que patrimônio caiu R$ 2,6 milhões em relação a 2022",
+          "summary": "O presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> (PT) declarou em seu registro de candidatura no <a href=\"https://www1.folha.uol.com.br/folha-topicos/tse/\">TSE</a> (Tribunal Superior Eleitoral) um patrimônio de valor R$ 2,6 mil",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-declara-ao-tse-que-patrimonio-caiu-r-26-milhoes-em-relacao-a-2022.shtml",
+          "published_at": "2026-08-08T14:23:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
