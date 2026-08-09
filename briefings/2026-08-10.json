@@ -1,0 +1,95 @@
+{
+  "date": "2026-08-10",
+  "weekday": "segunda-feira",
+  "draft": true,
+  "generated_at": "2026-08-09T20:23:07.505125-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Lula reconhece a aliados que falou demais em convenção de sua campanha",
+          "summary": "O presidente Luiz Inácio <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> da Silva (PT) reconheceu a auxiliares próximos que falou demais na <a href=\"https://www1.folha.uol.com.br/poder/2026/08/lula-e-oficializado-candidato-a-reeleicao-e-te",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/lula-reconhece-a-aliados-que-falou-demais-em-convencao-de-sua-campanha.shtml",
+          "published_at": "2026-08-09T19:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "O limite desigual das doações eleitorais",
+          "summary": "Passadas as convenções e definidas as candidaturas, as atenções se voltam para o <a href=\"https://www1.folha.uol.com.br/poder/2026/07/candidatos-a-presidencia-poderao-gastar-ate-r-1334-milhoes-na-campanha-de-2026-decide-tse.shtml\" rel=\"\" target=\"\">financiament",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/lara-mesquita/2026/08/o-limite-desigual-das-doacoes-eleitorais.shtml",
+          "published_at": "2026-08-09T18:41:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Moro e Paes decidem não ir a primeiro debate entre candidatos a governador",
+          "summary": "O senador <a href=\"https://www1.folha.uol.com.br/folha-topicos/sergio-moro/\">Sergio Moro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>) e o ex-prefeito <a href=\"https://www1.folha.uol.com.br/folha-topicos/eduardo-paes/\">Eduardo Paes</a>",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/moro-e-paes-decidem-nao-ir-a-primeiro-debate-entre-candidatos-a-governador.shtml",
+          "published_at": "2026-08-09T18:31:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Do caçador de empregos à captura do Estado",
+          "summary": "\"Um cargo ou a sua vida!\": esses eram os dizeres de um cartaz empunhado por Charles Guiteau, <a href=\"https://www1.folha.uol.com.br/mundo/2026/04/4-presidentes-americanos-mortos-e-3-feridos-em-atentados-novo-ataque-em-jantar-da-casa-branca-reacende-longa-histo",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2026/08/do-cacador-de-empregos-a-captura-do-estado.shtml",
+          "published_at": "2026-08-09T14:45:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Ex-pescador vive do turismo em Paraty, recebe benefício do governo e está indeciso sobre voto",
+          "summary": "Arnor da Cruz Conceição, 78, tem dificuldade para lembrar em quem votou nas eleições presidenciais de 2022. \"Na última, era o <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> o presidente, né? Ou não?\", diz, sentado na popa de seu barco, an",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/ex-pescador-vive-do-turismo-em-paraty-recebe-beneficio-do-governo-e-esta-indeciso-sobre-voto.shtml",
+          "published_at": "2026-08-09T13:31:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Flávio escreve carta a Bolsonaro, chora e diz que proibir visita no Dia dos Pais é desumano",
+          "summary": "Proibido pelo ministro <a href=\"https://www1.folha.uol.com.br/folha-topicos/alexandre-de-moraes/\">Alexandre de Moraes</a>, do <a href=\"https://www1.folha.uol.com.br/folha-topicos/stf/\">STF</a> (Supremo Tribunal Federal), de <a href=\"https://www1.folha.uol.com.",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/flavio-escreve-carta-a-bolsonaro-chora-e-diz-que-proibir-visita-no-dia-dos-pais-e-desumano.shtml",
+          "published_at": "2026-08-09T13:11:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
