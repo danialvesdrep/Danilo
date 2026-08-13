@@ -1,0 +1,95 @@
+{
+  "date": "2026-08-14",
+  "weekday": "sexta-feira",
+  "draft": true,
+  "generated_at": "2026-08-13T20:35:19.617805-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Polícia do RJ faz busca em empresa ligada a candidato do PL que usa sobrenome de Bolsonaro",
+          "summary": "Uma construtora ligada ao<a href=\"https://www1.folha.uol.com.br/poder/2026/05/empresa-ligada-a-pre-candidato-a-deputado-do-pl-ganhou-r-16-mi-em-contratos-alvo-da-pf-no-rj.shtml\" rel=\"\" target=\"\"> empresário Renato Araújo</a>, candidato a deputado federal pelo ",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/policia-civil-do-rj-faz-busca-em-empresa-ligada-a-amigo-da-familia-bolsonaro.shtml",
+          "published_at": "2026-08-13T19:34:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Aval do governo Lula a empréstimos de estados e municípios em 2026 já é o segundo maior desde 2019",
+          "summary": "A <a href=\"https://www1.folha.uol.com.br/colunas/painel/2026/08/governo-lula-diz-que-deficit-da-gestao-nunes-trava-aval-a-emprestimos.shtml\" rel=\"\" target=\"\">liberação de operações de crédito </a>de estados e municípios pelo <a href=\"https://www1.folha.uol.com",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/aval-do-governo-lula-a-emprestimos-de-estados-e-municipios-em-2026-ja-e-o-segundo-maior-desde-2019.shtml",
+          "published_at": "2026-08-13T19:11:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Moraes diz no STF que sigilo da fonte de jornalista não protege prática criminosa",
+          "summary": "O ministro <a href=\"https://www1.folha.uol.com.br/folha-topicos/alexandre-de-moraes/\" rel=\"\" target=\"\">Alexandre de Moraes</a>, do <a href=\"https://www1.folha.uol.com.br/folha-topicos/stf/\">STF</a> (Supremo Tribunal Federal), afirmou nesta quinta-feira (13) qu",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/moraes-diz-no-stf-que-sigilo-da-fonte-de-jornalista-nao-protege-pratica-criminosa.shtml",
+          "published_at": "2026-08-13T19:08:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Plano de governo de Flávio Bolsonaro propõe limites ao STF e rebate discurso de Lula sobre soberania",
+          "summary": "O plano de governo do senador e candidato do <a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a> à Presidência da República, <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a>, divulgado nesta quinta-feira",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/plano-de-governo-de-flavio-bolsonaro-propoe-limites-ao-stf-e-rebate-discurso-de-lula-sobre-soberania.shtml",
+          "published_at": "2026-08-13T17:47:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Ficha de filiação de Flávio Bolsonaro ao Missão registrou 'rua dos bandidos' como endereço do senador",
+          "summary": "A <a href=\"https://www1.folha.uol.com.br/poder/2026/08/flavio-bolsonaro-e-filiado-a-partido-missao-e-registro-de-candidatura-no-tse-atrasa.shtml\" rel=\"\" target=\"\">ficha de filiação do candidato</a> à Presidência <a href=\"https://www1.folha.uol.com.br/folha-top",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/ficha-de-filiacao-de-flavio-bolsonaro-ao-missao-registrou-rua-dos-bandidos-como-endereco-do-senador.shtml",
+          "published_at": "2026-08-13T17:27:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Doria inaugura Lide Angola e convida presidente do país africano a vir ao Brasil",
+          "summary": "O ex-governador <a href=\"https://www1.folha.uol.com.br/folha-topicos/joao-doria/\">João Doria</a> anunciou a criação de uma unidade do Lide em <a href=\"https://www1.folha.uol.com.br/folha-topicos/angola/\">Angola</a> durante visita a Luanda, capital do país afri",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/doria-inaugura-lide-angola-e-convida-presidente-do-pais-africano-a-vir-ao-brasil.shtml",
+          "published_at": "2026-08-13T17:12:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
