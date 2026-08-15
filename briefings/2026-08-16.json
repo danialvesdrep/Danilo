@@ -1,0 +1,95 @@
+{
+  "date": "2026-08-16",
+  "weekday": "domingo",
+  "draft": true,
+  "generated_at": "2026-08-15T20:15:06.740888-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Augusto Cury tem maior patrimônio entre presidenciáveis, e Lula registra queda de bens",
+          "summary": "O escritor Augusto Cury (Avante) tem o maior patrimônio declarado à Justiça Eleitoral entre os presidenciáveis de 2026, com R$ 242,2 milhões, seguido por <a href=\"https://www1.folha.uol.com.br/folha-topicos/romeu-zema/\">Romeu Zema</a> (Novo), o segundo mais ri",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/augusto-cury-tem-maior-patrimonio-entre-presidenciaveis-e-lula-registra-queda-de-bens.shtml",
+          "published_at": "2026-08-15T16:41:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Morador de Juiz de Fora é alvo de busca e apreensão por suposta ameaça a Flávio Bolsonaro",
+          "summary": "Um morador de Juiz de Fora (MG) foi alvo de busca e apreensão neste sábado (15) e levado para prestar depoimento por suposta ameaça nas redes sociais contra o senador <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a> ",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/morador-de-juiz-de-fora-e-alvo-de-busca-e-apreensao-por-suposta-ameaca-a-flavio-bolsonaro.shtml",
+          "published_at": "2026-08-15T15:39:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Petista prevê que Tebet terá apoio no partido para ser candidata a prefeita de SP",
+          "summary": "Caso seja eleita senadora, <a href=\"https://www1.folha.uol.com.br/folha-topicos/simone-tebet/\">Simone Tebet</a> (PSB) deve contar com apoio significativo dentro do PT para ser candidata a prefeita de São Paulo em 2028, diz um cacique da legenda no estado.\n<a h",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/petista-preve-que-tebet-tera-apoio-no-partido-para-ser-candidata-a-prefeita-de-sp.shtml",
+          "published_at": "2026-08-15T15:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Confraria de interesses se une a Lula",
+          "summary": "<a href=\"https://www1.folha.uol.com.br/folha-topicos/gilberto-kassab/\">Gilberto Kassab</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/psd/\">PSD</a>) revelou um segredo de polichinelo quando disse que \"o centrão está com <a href=\"https://www1.folha.u",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/08/confraria-de-interesses-se-une-a-lula.shtml",
+          "published_at": "2026-08-15T12:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Romário deixa PL, fica sem partido e anuncia apoio a Eduardo Paes para Governo do RJ",
+          "summary": "O senador <a href=\"https://www1.folha.uol.com.br/folha-topicos/romario/\">Romário</a> anunciou sua saída do <a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a> neste sábado (15) e declarou apoio a <a href=\"https://www1.folha.uol.com.br/folha-topico",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/romario-deixa-pl-fica-sem-partido-e-anuncia-apoio-a-eduardo-paes-para-governo-do-rj.shtml",
+          "published_at": "2026-08-15T11:28:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Novo vídeo contradiz versão da campanha de Haddad sobre intimidação de PMs",
+          "summary": "Um novo vídeo divulgado pela SSP (Secretaria de Segurança Pública) de <a href=\"https://www1.folha.uol.com.br/folha-topicos/sao-paulo/\">São Paulo</a> parece contradizer a versão da campanha do ex-ministro <a href=\"https://www1.folha.uol.com.br/folha-topicos/fer",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/novo-video-contradiz-versao-da-campanha-de-haddad-sobre-intimidacao-de-pms.shtml",
+          "published_at": "2026-08-15T11:17:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
