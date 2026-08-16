@@ -1,0 +1,95 @@
+{
+  "date": "2026-08-17",
+  "weekday": "segunda-feira",
+  "draft": true,
+  "generated_at": "2026-08-16T20:12:40.735263-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "A estupidificação da espécie",
+          "summary": "Deparei-me, há dias, com um <a href=\"https://www.youtube.com/watch?v=DHnHeeLVUPg\" rel=\"\" target=\"_blank\">vídeo surreal na Casa Branca</a> que parecia uma cena de um filme de David Lynch. Enquanto <a href=\"https://www1.folha.uol.com.br/folha-topicos/donald-trum",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/mafalda-anjos/2026/08/a-estupidificacao-da-especie.shtml",
+          "published_at": "2026-08-16T20:06:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "No dia 1 de campanha, PT faz culto à personalidade de Lula e PL projeta Flávio como o \"anti-PT\"",
+          "summary": "De um lado, um presidente em seu terceiro mandato resgatando o passado de sindicalista, numa tentativa de reconexão com a militância (\"Um igual a vocês é capaz de fazer mais\"). Do outro, um senador buscando forjar personalidade própria, já que seu atributo mai",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/no-dia-1-de-campanha-pt-faz-culto-a-personalidade-de-lula-e-pl-projeta-flavio-como-o-anti-pt.shtml",
+          "published_at": "2026-08-16T20:01:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Autoridade do governo Trump acusa Brasil de censura após X alterar algoritmo para eleição",
+          "summary": "Uma alta funcionária do governo <a href=\"https://www1.folha.uol.com.br/folha-topicos/donald-trump/\">Donald Trump</a> classificou como \"censura imposta pelo Brasil\" uma regra eleitoral que levou o X (ex-<a href=\"https://www1.folha.uol.com.br/folha-topicos/twitt",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/autoridade-do-governo-trump-acusa-brasil-de-censura-apos-x-alterar-algoritmo-para-eleicao.shtml",
+          "published_at": "2026-08-16T18:50:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Eleição terá ao menos 20,5 mil candidatos pelo país, aponta balanço do TSE",
+          "summary": "Ao menos 20.501 candidatos vão concorrer às <a href=\"https://www1.folha.uol.com.br/folha-topicos/eleicoes-2026/\">eleições 2026</a> no país, segundo dados parciais do <a href=\"https://www1.folha.uol.com.br/folha-topicos/tse/\">TSE</a> (Tribunal Superior Eleitora",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/eleicao-tera-o-menos-205-mil-candidatos-pelo-pais-aponta-balanco-do-tse.shtml",
+          "published_at": "2026-08-16T17:42:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Renan Santos inicia campanha com ato em São Paulo e discursa sobre segurança",
+          "summary": "O candidato do partido Missão à Presidência da República, <a href=\"https://www1.folha.uol.com.br/folha-topicos/renan-santos/\">Renan Santos</a>, realizou o ato de lançamento de sua campanha no largo São Francisco, no centro de São Paulo, na tarde deste domingo ",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/renan-santos-inicia-campanha-com-ato-em-sao-paulo-e-discursa-sobre-seguranca.shtml",
+          "published_at": "2026-08-16T17:34:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Governo Trump estuda impor novas sanções a Alexandre de Moraes, diz jornal inglês",
+          "summary": "O governo dos <a href=\"https://www1.folha.uol.com.br/folha-topicos/estados-unidos/\">Estados Unidos</a> estuda impor novas sanções ao ministro <a href=\"https://www1.folha.uol.com.br/folha-topicos/alexandre-de-moraes/\">Alexandre de Moraes</a>, do <a href=\"https:",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/governo-trump-estuda-impor-novas-sancoes-a-alexandre-de-moraes-diz-jornal-ingles.shtml",
+          "published_at": "2026-08-16T17:17:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
