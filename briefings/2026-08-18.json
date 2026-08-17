@@ -1,0 +1,95 @@
+{
+  "date": "2026-08-18",
+  "weekday": "terça-feira",
+  "draft": true,
+  "generated_at": "2026-08-17T20:15:26.655385-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Moraes autoriza Bolsonaro a ir ao dentista, mas nega atendimento na clínica de mulher de Flávio",
+          "summary": "O ministro <a href=\"https://www1.folha.uol.com.br/folha-topicos/alexandre-de-moraes/\">Alexandre de Moraes</a>, do <a href=\"https://www1.folha.uol.com.br/folha-topicos/stf/\">STF</a> (Supremo Tribunal Federal), autorizou o ex-presidente <a href=\"https://www1.fol",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/moraes-autoriza-bolsonaro-a-ir-ao-dentista-mas-nega-atendimento-na-clinica-de-mulher-de-flavio.shtml",
+          "published_at": "2026-08-17T20:08:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "STJ rejeita recurso e mantém decisão que condenou Hans River a indenizar jornalista da Folha",
+          "summary": "A Quarta Turma do <a href=\"https://www1.folha.uol.com.br/folha-topicos/stj/\">STJ</a> (Superior Tribunal de Justiça) rejeitou um recurso de Hans River do Rio Nascimento, ex-funcionário da empresa de disparo em massa Yacows, e manteve a decisão da Justiça de São",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/stj-rejeita-recurso-e-mantem-decisao-que-condenou-hans-river-a-indenizar-jornalista-da-folha.shtml",
+          "published_at": "2026-08-17T19:12:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Tarcísio propõe criar banco público com nome de agressores de mulheres",
+          "summary": "Candidato à reeleição, o governador <a href=\"https://www1.folha.uol.com.br/folha-topicos/tarcisio-de-freitas/\" rel=\"\" target=\"\">Tarcísio de Freitas (Republicanos</a>) inseriu em seu plano de governo a criação de um cadastro que reúne nomes e dados de criminoso",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/tarcisio-propoe-criar-banco-publico-com-nome-de-agressores-de-mulheres.shtml",
+          "published_at": "2026-08-17T18:59:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Equipes de Lula e Flávio Bolsonaro vão a reunião na Band, mesmo não confirmando presença em debate",
+          "summary": "As campanhas do presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> (PT) e do candidato à Presidência do <a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>, <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-b",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/equipes-de-lula-e-flavio-bolsonaro-vao-a-reuniao-na-band-mesmo-nao-confirmando-presenca-em-debate.shtml",
+          "published_at": "2026-08-17T18:58:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Caiado chama de estupidez possibilidade de governo Lula retaliar EUA por tarifaço",
+          "summary": "O candidato do <a href=\"https://www1.folha.uol.com.br/folha-topicos/psd/\">PSD</a> à Presidência, <a href=\"https://www1.folha.uol.com.br/folha-topicos/ronaldo-caiado/\">Ronaldo Caiado</a>, criticou o governo <a href=\"https://www1.folha.uol.com.br/folha-topicos/l",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/caiado-chama-de-estupidez-possibilidade-de-governo-lula-retaliar-eua-por-tarifaco.shtml",
+          "published_at": "2026-08-17T18:49:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Cury troca de marqueteiro a dez dias do início da propaganda de TV",
+          "summary": "A dez dias do início do programa eleitoral de TV e rádio, o candidato presidencial <a href=\"https://www1.folha.uol.com.br/folha-topicos/augusto-cury/\">Augusto Cury</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/avante/\">Avante</a>) trocou seu marque",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/cury-troca-de-marqueteiro-a-dez-dias-do-inicio-da-propaganda-de-tv.shtml",
+          "published_at": "2026-08-17T18:46:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
