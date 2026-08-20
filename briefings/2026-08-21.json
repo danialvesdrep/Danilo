@@ -1,0 +1,95 @@
+{
+  "date": "2026-08-21",
+  "weekday": "sexta-feira",
+  "draft": true,
+  "generated_at": "2026-08-20T20:21:02.564763-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Rivais usam crise da Casas Bahia para criticar governo Lula na disputa eleitoral",
+          "summary": "A crise na <a href=\"https://www1.folha.uol.com.br/folha-topicos/casas-bahia/\">Casas Bahia</a> foi parar na disputa eleitoral e é usada por candidatos contrários ao governo <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> (PT) para criticar ",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/crise-na-casas-bahia-vira-gancho-para-criticas-ao-governo-lula-na-disputa-eleitoral.shtml",
+          "published_at": "2026-08-20T19:45:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "PF aponta Lulinha como beneficiário indireto em ação de lobista no governo Lula",
+          "summary": "A <a href=\"https://www1.folha.uol.com.br/folha-topicos/policia-federal/\">Polícia Federal</a> aponta um dos filhos do presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> (PT) como beneficiário indireto da ação da empresária e lobista",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/pf-aponta-lulinha-como-beneficiario-indireto-em-acao-de-lobista-no-governo-lula.shtml",
+          "published_at": "2026-08-20T19:07:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Associação que defende o Estado laico aciona Ministério Público Eleitoral contra Igreja Universal",
+          "summary": "A PRE (Procuradoria Regional Eleitoral) de São Paulo recebeu nesta quarta (19) uma representação contra a Igreja Universal do Reino de Deus, por suposto uso da instituição religiosa para influenciar as eleições de 2026.\n<a href=\"https://redir.folha.com.br/redi",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/associacao-que-defende-o-estado-laico-aciona-ministerio-publico-eleitoral-contra-igreja-universal.shtml",
+          "published_at": "2026-08-20T17:30:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Sem candidato ao Senado em SP, DC declara apoio a Simone Tebet",
+          "summary": "Sem candidato ao Senado, o <a href=\"https://www1.folha.uol.com.br/colunas/monicabergamo/2026/07/joaquim-barbosa-diz-que-nao-sera-candidato-a-presidencia-da-republica.shtml\" rel=\"\" target=\"\">DC (Democracia Cristã) </a>irá apoiar <a href=\"https://www1.folha.uol.",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/sem-candidato-ao-senado-em-sp-dc-declara-apoio-a-simone-tebet.shtml",
+          "published_at": "2026-08-20T16:55:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Mendonça e Dino planejam manter investigações sobre Lulinha no STF",
+          "summary": "O ministro <a href=\"https://www1.folha.uol.com.br/folha-topicos/andre-mendonca/\">André Mendonça</a>, do <a href=\"https://www1.folha.uol.com.br/folha-topicos/stf/\">STF</a> (Supremo Tribunal Federal), planeja manter sob sua relatoria o inquérito que apura se o e",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/mendonca-e-dino-planejam-manter-investigacoes-sobre-lulinha-no-stf.shtml",
+          "published_at": "2026-08-20T15:13:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Flávio Bolsonaro diz que olha para o STF com nojo e fala em ser 'presidente de transição'",
+          "summary": "O senador <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>), candidato à Presidência, afirmou nesta quinta-feira (20), durante almoço com empresários ",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/flavio-bolsonaro-diz-que-olha-para-o-stf-com-nojo-e-fala-em-ser-presidente-de-transicao.shtml",
+          "published_at": "2026-08-20T15:11:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
