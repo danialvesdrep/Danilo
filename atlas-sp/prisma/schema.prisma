@@ -1,0 +1,1312 @@
+// Atlas SP — schema de inteligência territorial
+// Princípio arquitetural: o MUNICÍPIO é a entidade central; tudo se conecta a ele,
+// e todo dado exibido carrega proveniência (DataSource + DataPoint).
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// ─────────────────────────────────────────────────────────────
+// PROVENIÊNCIA — nenhum número aparece na interface sem origem
+// ─────────────────────────────────────────────────────────────
+
+enum SourceTier {
+  OFICIAL // IBGE, SEADE, Tesouro, TSE, Banco Central
+  INSTITUCIONAL // universidades, agências, federações setoriais
+  JORNALISTICA // veículos de imprensa
+  SECUNDARIA // agregadores, bases derivadas
+  DEMONSTRACAO // dados sintéticos de demonstração — sempre rotulados
+}
+
+enum DataStatus {
+  PUBLICADO
+  EM_INTEGRACAO // fonte mapeada, ingestão ainda não conectada
+  INDISPONIVEL
+  DEPRECIADO
+}
+
+model DataSource {
+  id           String     @id @default(cuid())
+  slug         String     @unique
+  name         String
+  organization String
+  tier         SourceTier
+  url          String?
+  apiUrl       String?
+  license      String?
+  description  String?
+  methodology  String?
+  /// Cadência esperada de atualização em horas (para o painel de qualidade)
+  refreshHours Int?
+  isDemo       Boolean    @default(false)
+  active       Boolean    @default(true)
+  lastSyncAt   DateTime?
+  lastSyncOk   Boolean?
+  createdAt    DateTime   @default(now())
+  updatedAt    DateTime   @updatedAt
+
+  dataPoints    DataPoint[]
+  newsSources   NewsSource[]
+  ingestionRuns IngestionRun[]
+  documents     Document[]
+  qualityChecks DataQualityCheck[]
+
+  @@index([tier, active])
+}
+
+/// Unidade atômica de dado observável. Tudo que a plataforma afirma
+/// numericamente vive aqui, com período de referência e fonte.
+model DataPoint {
+  id             String          @id @default(cuid())
+  sourceId       String
+  source         DataSource      @relation(fields: [sourceId], references: [id], onDelete: Cascade)
+  sourceUrl      String?
+  indicatorId    String?
+  indicator      Indicator?      @relation(fields: [indicatorId], references: [id], onDelete: Cascade)
+  municipalityId String?
+  municipality   Municipality?   @relation(fields: [municipalityId], references: [id], onDelete: Cascade)
+  regionId       String?
+  region         Region?         @relation(fields: [regionId], references: [id], onDelete: Cascade)
+  sectorId       String?
+  sector         EconomicSector? @relation(fields: [sectorId], references: [id], onDelete: SetNull)
+
+  rawValue        String?
+  normalizedValue Decimal?   @db.Decimal(20, 6)
+  unit            String?
+  referenceStart  DateTime
+  referenceEnd    DateTime
+  referenceLabel  String
+  publishedAt     DateTime?
+  retrievedAt     DateTime   @default(now())
+  methodology     String?
+  /// 0..1 — confiança declarada na medição
+  confidence      Decimal    @default(1.0) @db.Decimal(3, 2)
+  status          DataStatus @default(PUBLICADO)
+  isDemo          Boolean    @default(false)
+  notes           String?
+  createdAt       DateTime   @default(now())
+
+  @@unique([indicatorId, municipalityId, referenceLabel, sourceId], name: "uniq_series_point")
+  @@index([municipalityId, indicatorId, referenceStart])
+  @@index([indicatorId, referenceStart])
+  @@index([regionId, indicatorId])
+}
+
+enum IndicatorCategory {
+  DEMOGRAFIA
+  ECONOMIA
+  TRABALHO
+  RENDA
+  FINANCAS_PUBLICAS
+  EDUCACAO
+  SAUDE
+  INFRAESTRUTURA
+  SEGURANCA
+  MEIO_AMBIENTE
+  EMPRESAS
+  COMERCIO_EXTERIOR
+  PRECOS
+  POLITICA
+}
+
+enum IndicatorAggregation {
+  ULTIMO_VALOR
+  SOMA
+  MEDIA
+  TAXA
+}
+
+/// Definição de um indicador (metadado). As observações ficam em DataPoint.
+model Indicator {
+  id             String               @id @default(cuid())
+  slug           String               @unique
+  name           String
+  shortName      String
+  category       IndicatorCategory
+  unit           String
+  /// Casas decimais para formatação
+  precision      Int                  @default(0)
+  higherIsBetter Boolean?
+  description    String
+  methodology    String
+  aggregation    IndicatorAggregation @default(ULTIMO_VALOR)
+  /// Periodicidade nominal: ANUAL, TRIMESTRAL, MENSAL...
+  periodicity    String
+  /// Existe série no recorte municipal?
+  municipalLevel Boolean              @default(true)
+  displayOrder   Int                  @default(100)
+  active         Boolean              @default(true)
+  createdAt      DateTime             @default(now())
+  updatedAt      DateTime             @updatedAt
+
+  dataPoints  DataPoint[]
+  indexInputs IndexComponent[]
+
+  @@index([category, displayOrder])
+}
+
+// ─────────────────────────────────────────────────────────────
+// TERRITÓRIO
+// ─────────────────────────────────────────────────────────────
+
+enum RegionKind {
+  ESTADO
+  MESORREGIAO
+  MICRORREGIAO
+  REGIAO_METROPOLITANA
+  REGIAO_ADMINISTRATIVA
+  AGLOMERADO_URBANO
+  PERSONALIZADA
+}
+
+model Region {
+  id        String     @id @default(cuid())
+  slug      String     @unique
+  name      String
+  kind      RegionKind
+  ibgeCode  String?
+  parentId  String?
+  parent    Region?    @relation("RegionHierarchy", fields: [parentId], references: [id], onDelete: SetNull)
+  children  Region[]   @relation("RegionHierarchy")
+  summary   String?
+  createdAt DateTime   @default(now())
+  updatedAt DateTime   @updatedAt
+
+  memberships  RegionMembership[]
+  dataPoints   DataPoint[]
+  radarSignals RadarSignal[]
+
+  @@unique([kind, ibgeCode])
+  @@index([kind])
+}
+
+model RegionMembership {
+  id             String       @id @default(cuid())
+  regionId       String
+  region         Region       @relation(fields: [regionId], references: [id], onDelete: Cascade)
+  municipalityId String
+  municipality   Municipality @relation(fields: [municipalityId], references: [id], onDelete: Cascade)
+
+  @@unique([regionId, municipalityId])
+  @@index([municipalityId])
+}
+
+/// A CIDADE — entidade central do produto.
+model Municipality {
+  id         String   @id @default(cuid())
+  ibgeCode   String   @unique
+  name       String
+  slug       String   @unique
+  uf         String   @default("SP")
+  ufCode     String   @default("35")
+  latitude   Float
+  longitude  Float
+  /// Área territorial em km² calculada a partir da malha do IBGE
+  areaKm2    Float?
+  ddd        String?
+  isCapital  Boolean  @default(false)
+  mesoCode   String?
+  mesoName   String?
+  microCode  String?
+  microName  String?
+  /// Bounding box [minLon, minLat, maxLon, maxLat] para enquadrar o mapa
+  bbox       Float[]
+  /// Resumo editorial/IA do panorama municipal (rastreável via AIAnalysis)
+  overview   String?
+  websiteUrl String?
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+
+  geometry          MunicipalityGeometry?
+  neighborsFrom     MunicipalityNeighbor[] @relation("NeighborFrom")
+  neighborsTo       MunicipalityNeighbor[] @relation("NeighborTo")
+  regionMemberships RegionMembership[]
+  dataPoints        DataPoint[]
+  government        MunicipalGovernment?
+  council           Council?
+  companies         Company[]
+  sectorProfiles    MunicipalitySector[]
+  newsArticles      ArticleMunicipality[]
+  radarSignals      RadarSignal[]
+  timelineEvents    TimelineEvent[]
+  investments       Investment[]
+  documents         Document[]
+  mandates          Mandate[]
+  aiAnalyses        AIAnalysis[]
+  alerts            Alert[]
+  savedBy           SavedMunicipality[]
+  indexScores       IndexScore[]
+  aliases           EntityAlias[]
+
+  @@index([mesoCode])
+  @@index([name])
+}
+
+/// Geometria separada da entidade: payloads grandes não devem poluir queries de listagem.
+model MunicipalityGeometry {
+  municipalityId String       @id
+  municipality   Municipality @relation(fields: [municipalityId], references: [id], onDelete: Cascade)
+  /// GeoJSON Polygon/MultiPolygon em resolução completa disponível
+  geometry       Json
+  /// Versão simplificada (Douglas-Peucker) para o mapa estadual
+  simplified     Json
+  source         String
+  updatedAt      DateTime     @updatedAt
+}
+
+model MunicipalityNeighbor {
+  id         String       @id @default(cuid())
+  fromId     String
+  from       Municipality @relation("NeighborFrom", fields: [fromId], references: [id], onDelete: Cascade)
+  toId       String
+  to         Municipality @relation("NeighborTo", fields: [toId], references: [id], onDelete: Cascade)
+  /// Extensão aproximada da fronteira compartilhada, em km
+  borderKm   Float?
+  /// Distância entre centroides, em km
+  centroidKm Float
+
+  @@unique([fromId, toId])
+  @@index([toId])
+}
+
+// ─────────────────────────────────────────────────────────────
+// SETORES E EMPRESAS
+// ─────────────────────────────────────────────────────────────
+
+model EconomicSector {
+  id           String  @id @default(cuid())
+  slug         String  @unique
+  name         String
+  /// Agrupamento macro: INDUSTRIA, SERVICOS, COMERCIO, AGROPECUARIA, PUBLICO
+  macroSector  String
+  cnaeSection  String?
+  description  String?
+  color        String?
+  displayOrder Int     @default(100)
+
+  companies      Company[]
+  municipalities MunicipalitySector[]
+  radarSignals   RadarSignal[]
+  articles       ArticleSector[]
+  investments    Investment[]
+  dataPoints     DataPoint[]
+
+  @@index([macroSector])
+}
+
+enum TrendDirection {
+  FORTE_ALTA
+  ALTA
+  ESTAVEL
+  QUEDA
+  FORTE_QUEDA
+  INDISPONIVEL
+}
+
+/// Perfil de um setor dentro de um município (o "DNA econômico").
+model MunicipalitySector {
+  id             String         @id @default(cuid())
+  municipalityId String
+  municipality   Municipality   @relation(fields: [municipalityId], references: [id], onDelete: Cascade)
+  sectorId       String
+  sector         EconomicSector @relation(fields: [sectorId], references: [id], onDelete: Cascade)
+  /// Participação estimada no valor adicionado (0..100)
+  sharePct       Decimal?       @db.Decimal(6, 3)
+  employmentPct  Decimal?       @db.Decimal(6, 3)
+  trend          TrendDirection @default(INDISPONIVEL)
+  /// Índice proprietário 0..100 de relevância do setor na cidade
+  relevance      Decimal?       @db.Decimal(6, 2)
+  rationale      String?
+  referenceLabel String?
+  isDemo         Boolean        @default(false)
+  updatedAt      DateTime       @updatedAt
+
+  @@unique([municipalityId, sectorId])
+  @@index([sectorId])
+}
+
+model Company {
+  id             String          @id @default(cuid())
+  slug           String          @unique
+  name           String
+  legalName      String?
+  cnpjRoot       String?
+  sectorId       String?
+  sector         EconomicSector? @relation(fields: [sectorId], references: [id], onDelete: SetNull)
+  municipalityId String?
+  municipality   Municipality?   @relation(fields: [municipalityId], references: [id], onDelete: SetNull)
+  description    String?
+  websiteUrl     String?
+  employeeBand   String?
+  foundedYear    Int?
+  isDemo         Boolean         @default(false)
+  createdAt      DateTime        @default(now())
+  updatedAt      DateTime        @updatedAt
+
+  investments  Investment[]
+  radarSignals RadarSignal[]
+  articles     ArticleCompany[]
+  aliases      EntityAlias[]
+  social       SocialProfile[]
+
+  @@index([municipalityId])
+  @@index([sectorId])
+}
+
+enum InvestmentStatus {
+  ANUNCIADO
+  EM_IMPLANTACAO
+  CONCLUIDO
+  SUSPENSO
+  CANCELADO
+}
+
+model Investment {
+  id             String           @id @default(cuid())
+  slug           String           @unique
+  title          String
+  municipalityId String
+  municipality   Municipality     @relation(fields: [municipalityId], references: [id], onDelete: Cascade)
+  companyId      String?
+  company        Company?         @relation(fields: [companyId], references: [id], onDelete: SetNull)
+  sectorId       String?
+  sector         EconomicSector?  @relation(fields: [sectorId], references: [id], onDelete: SetNull)
+  amountBRL      Decimal?         @db.Decimal(18, 2)
+  jobsAnnounced  Int?
+  status         InvestmentStatus @default(ANUNCIADO)
+  announcedAt    DateTime
+  expectedAt     DateTime?
+  description    String
+  sourceUrl      String?
+  isDemo         Boolean          @default(false)
+  createdAt      DateTime         @default(now())
+  updatedAt      DateTime         @updatedAt
+
+  radarSignals RadarSignal[]
+
+  @@index([municipalityId, announcedAt])
+  @@index([sectorId])
+}
+
+// ─────────────────────────────────────────────────────────────
+// POLÍTICA E GOVERNANÇA
+// ─────────────────────────────────────────────────────────────
+
+model PoliticalParty {
+  id        String  @id @default(cuid())
+  slug      String  @unique
+  acronym   String  @unique
+  name      String
+  tseNumber Int?
+  color     String?
+
+  mandates     Mandate[]
+  councilSeats CouncilMember[]
+  people       Person[]
+}
+
+model Person {
+  id         String          @id @default(cuid())
+  slug       String          @unique
+  name       String
+  fullName   String?
+  partyId    String?
+  party      PoliticalParty? @relation(fields: [partyId], references: [id], onDelete: SetNull)
+  birthYear  Int?
+  biography  String?
+  photoUrl   String?
+  /// Somente URLs públicas oficiais. LGPD: nunca dados pessoais sensíveis.
+  websiteUrl String?
+  isDemo     Boolean         @default(false)
+  createdAt  DateTime        @default(now())
+  updatedAt  DateTime        @updatedAt
+
+  mandates      Mandate[]
+  councilSeats  CouncilMember[]
+  social        SocialProfile[]
+  articles      ArticlePerson[]
+  aliases       EntityAlias[]
+  timelineItems TimelineEvent[]
+
+  @@index([name])
+}
+
+enum OfficeKind {
+  PREFEITO
+  VICE_PREFEITO
+  SECRETARIO
+  VEREADOR
+  PRESIDENTE_CAMARA
+  OUTRO
+}
+
+model Mandate {
+  id             String          @id @default(cuid())
+  personId       String
+  person         Person          @relation(fields: [personId], references: [id], onDelete: Cascade)
+  municipalityId String
+  municipality   Municipality    @relation(fields: [municipalityId], references: [id], onDelete: Cascade)
+  office         OfficeKind
+  officeLabel    String?
+  partyId        String?
+  party          PoliticalParty? @relation(fields: [partyId], references: [id], onDelete: SetNull)
+  startDate      DateTime
+  endDate        DateTime?
+  isCurrent      Boolean         @default(true)
+  sourceUrl      String?
+  isDemo         Boolean         @default(false)
+
+  @@index([municipalityId, office, isCurrent])
+  @@index([personId])
+}
+
+model MunicipalGovernment {
+  municipalityId     String       @id
+  municipality       Municipality @relation(fields: [municipalityId], references: [id], onDelete: Cascade)
+  websiteUrl         String?
+  transparencyUrl    String?
+  officialGazetteUrl String?
+  updatedAt          DateTime     @updatedAt
+
+  departments GovernmentDepartment[]
+}
+
+model GovernmentDepartment {
+  id           String              @id @default(cuid())
+  governmentId String
+  government   MunicipalGovernment @relation(fields: [governmentId], references: [municipalityId], onDelete: Cascade)
+  name         String
+  area         String?
+  headName     String?
+  websiteUrl   String?
+  isDemo       Boolean             @default(false)
+
+  @@index([governmentId])
+}
+
+model Council {
+  municipalityId String       @id
+  municipality   Municipality @relation(fields: [municipalityId], references: [id], onDelete: Cascade)
+  seats          Int
+  websiteUrl     String?
+  legislature    String?
+  updatedAt      DateTime     @updatedAt
+
+  members  CouncilMember[]
+  projects CouncilProject[]
+}
+
+model CouncilMember {
+  id         String          @id @default(cuid())
+  councilId  String
+  council    Council         @relation(fields: [councilId], references: [municipalityId], onDelete: Cascade)
+  personId   String
+  person     Person          @relation(fields: [personId], references: [id], onDelete: Cascade)
+  partyId    String?
+  party      PoliticalParty? @relation(fields: [partyId], references: [id], onDelete: SetNull)
+  role       String?
+  committees String[]
+  startDate  DateTime
+  endDate    DateTime?
+  isCurrent  Boolean         @default(true)
+  isDemo     Boolean         @default(false)
+
+  @@unique([councilId, personId, startDate])
+  @@index([personId])
+}
+
+enum ProjectStatus {
+  APRESENTADO
+  EM_COMISSAO
+  APROVADO
+  REJEITADO
+  ARQUIVADO
+  SANCIONADO
+}
+
+model CouncilProject {
+  id          String        @id @default(cuid())
+  councilId   String
+  council     Council       @relation(fields: [councilId], references: [municipalityId], onDelete: Cascade)
+  code        String
+  title       String
+  summary     String?
+  theme       String?
+  status      ProjectStatus @default(APRESENTADO)
+  presentedAt DateTime
+  decidedAt   DateTime?
+  sourceUrl   String?
+  isDemo      Boolean       @default(false)
+
+  @@unique([councilId, code])
+  @@index([councilId, presentedAt])
+}
+
+enum SocialPlatform {
+  SITE
+  INSTAGRAM
+  FACEBOOK
+  X
+  YOUTUBE
+  LINKEDIN
+  TIKTOK
+}
+
+/// Somente perfis públicos oficiais. Nada de dados privados (LGPD).
+model SocialProfile {
+  id        String         @id @default(cuid())
+  platform  SocialPlatform
+  handle    String
+  url       String
+  verified  Boolean        @default(false)
+  personId  String?
+  person    Person?        @relation(fields: [personId], references: [id], onDelete: Cascade)
+  companyId String?
+  company   Company?       @relation(fields: [companyId], references: [id], onDelete: Cascade)
+
+  @@unique([platform, url])
+  @@index([personId])
+}
+
+// ─────────────────────────────────────────────────────────────
+// NOTÍCIAS
+// ─────────────────────────────────────────────────────────────
+
+model NewsSource {
+  id           String      @id @default(cuid())
+  slug         String      @unique
+  name         String
+  homepage     String
+  feedUrl      String?
+  tier         SourceTier  @default(JORNALISTICA)
+  scope        String      @default("ESTADUAL")
+  active       Boolean     @default(true)
+  dataSourceId String?
+  dataSource   DataSource? @relation(fields: [dataSourceId], references: [id], onDelete: SetNull)
+  lastFetchAt  DateTime?
+
+  articles NewsArticle[]
+}
+
+enum NewsCategory {
+  POLITICA
+  ECONOMIA
+  EMPRESAS
+  INDUSTRIA
+  AGRO
+  INFRAESTRUTURA
+  SAUDE
+  EDUCACAO
+  SEGURANCA
+  JUSTICA
+  MEIO_AMBIENTE
+  TURISMO
+  COMERCIO
+  TECNOLOGIA
+  TRABALHO
+}
+
+/// Agregador: indexamos título, resumo próprio e link. Nunca o texto integral.
+model NewsArticle {
+  id          String       @id @default(cuid())
+  slug        String       @unique
+  title       String
+  /// Resumo produzido pela plataforma (não é cópia do texto original)
+  summary     String
+  url         String       @unique
+  sourceId    String
+  source      NewsSource   @relation(fields: [sourceId], references: [id], onDelete: Cascade)
+  category    NewsCategory
+  publishedAt DateTime
+  indexedAt   DateTime     @default(now())
+  /// Índice proprietário de importância editorial 0..100
+  importance  Int          @default(50)
+  language    String       @default("pt-BR")
+  isDemo      Boolean      @default(false)
+
+  municipalities ArticleMunicipality[]
+  sectors        ArticleSector[]
+  companies      ArticleCompany[]
+  people         ArticlePerson[]
+  radarSignals   RadarSignalSource[]
+
+  @@index([publishedAt])
+  @@index([category, publishedAt])
+}
+
+model ArticleMunicipality {
+  articleId      String
+  article        NewsArticle  @relation(fields: [articleId], references: [id], onDelete: Cascade)
+  municipalityId String
+  municipality   Municipality @relation(fields: [municipalityId], references: [id], onDelete: Cascade)
+  /// 0..1 — confiança da resolução de entidade
+  confidence     Decimal      @default(1.0) @db.Decimal(3, 2)
+
+  @@id([articleId, municipalityId])
+  @@index([municipalityId])
+}
+
+model ArticleSector {
+  articleId String
+  article   NewsArticle    @relation(fields: [articleId], references: [id], onDelete: Cascade)
+  sectorId  String
+  sector    EconomicSector @relation(fields: [sectorId], references: [id], onDelete: Cascade)
+
+  @@id([articleId, sectorId])
+}
+
+model ArticleCompany {
+  articleId String
+  article   NewsArticle @relation(fields: [articleId], references: [id], onDelete: Cascade)
+  companyId String
+  company   Company     @relation(fields: [companyId], references: [id], onDelete: Cascade)
+
+  @@id([articleId, companyId])
+}
+
+model ArticlePerson {
+  articleId String
+  article   NewsArticle @relation(fields: [articleId], references: [id], onDelete: Cascade)
+  personId  String
+  person    Person      @relation(fields: [personId], references: [id], onDelete: Cascade)
+
+  @@id([articleId, personId])
+}
+
+// ─────────────────────────────────────────────────────────────
+// RADAR — camada de inteligência
+// ─────────────────────────────────────────────────────────────
+
+enum SignalCategory {
+  INVESTIMENTO
+  EMPREGO
+  INDUSTRIA
+  COMERCIO
+  SERVICOS
+  AGRONEGOCIO
+  TECNOLOGIA
+  INFRAESTRUTURA
+  OBRAS
+  POLITICA
+  GOVERNO
+  CAMARA
+  EMPRESAS
+  SAUDE
+  EDUCACAO
+  LOGISTICA
+  PORTOS
+  ENERGIA
+  TURISMO
+  MEIO_AMBIENTE
+  JUSTICA
+  REGULACAO
+  CLIMA
+  ARRECADACAO
+  FINANCAS_PUBLICAS
+}
+
+enum SignalStatus {
+  RASCUNHO
+  PUBLICADO
+  EM_REVISAO
+  ARQUIVADO
+}
+
+/// Um movimento relevante detectado em um município.
+model RadarSignal {
+  id             String          @id @default(cuid())
+  slug           String          @unique
+  headline       String
+  /// Descrição factual do movimento — apenas o que as fontes sustentam
+  description    String
+  municipalityId String
+  municipality   Municipality    @relation(fields: [municipalityId], references: [id], onDelete: Cascade)
+  regionId       String?
+  region         Region?         @relation(fields: [regionId], references: [id], onDelete: SetNull)
+  category       SignalCategory
+  sectorId       String?
+  sector         EconomicSector? @relation(fields: [sectorId], references: [id], onDelete: SetNull)
+  companyId      String?
+  company        Company?        @relation(fields: [companyId], references: [id], onDelete: SetNull)
+  investmentId   String?
+  investment     Investment?     @relation(fields: [investmentId], references: [id], onDelete: SetNull)
+
+  occurredAt DateTime
+  detectedAt DateTime @default(now())
+
+  // Índices proprietários 0..100 — nunca apresentados como indicadores oficiais
+  importance      Int
+  urgency         Int
+  economicImpact  Int
+  politicalImpact Int
+  regionalImpact  Int
+  /// Score composto derivado dos cinco eixos (ver metodologia)
+  score           Int
+  /// Explicação de como o score foi montado (rastreabilidade)
+  scoreRationale  Json
+
+  status    SignalStatus @default(PUBLICADO)
+  isDemo    Boolean      @default(false)
+  createdAt DateTime     @default(now())
+  updatedAt DateTime     @updatedAt
+
+  sources      RadarSignalSource[]
+  analyses     AIAnalysis[]
+  timelineItem TimelineEvent[]
+
+  @@index([occurredAt])
+  @@index([municipalityId, occurredAt])
+  @@index([score, occurredAt])
+  @@index([category])
+}
+
+model RadarSignalSource {
+  signalId  String
+  signal    RadarSignal @relation(fields: [signalId], references: [id], onDelete: Cascade)
+  articleId String
+  article   NewsArticle @relation(fields: [articleId], references: [id], onDelete: Cascade)
+  role      String      @default("EVIDENCIA")
+
+  @@id([signalId, articleId])
+}
+
+// ─────────────────────────────────────────────────────────────
+// LINHA DO TEMPO E EVENTOS
+// ─────────────────────────────────────────────────────────────
+
+enum TimelineKind {
+  ECONOMIA
+  POLITICA
+  EMPRESA
+  INFRAESTRUTURA
+  INVESTIMENTO
+  ELEICAO
+  INDICADOR
+  NOTICIA
+  RADAR
+}
+
+model TimelineEvent {
+  id             String       @id @default(cuid())
+  municipalityId String
+  municipality   Municipality @relation(fields: [municipalityId], references: [id], onDelete: Cascade)
+  personId       String?
+  person         Person?      @relation(fields: [personId], references: [id], onDelete: SetNull)
+  signalId       String?
+  signal         RadarSignal? @relation(fields: [signalId], references: [id], onDelete: SetNull)
+  kind           TimelineKind
+  title          String
+  description    String?
+  occurredAt     DateTime
+  sourceUrl      String?
+  importance     Int          @default(50)
+  isDemo         Boolean      @default(false)
+
+  @@index([municipalityId, occurredAt])
+  @@index([kind])
+}
+
+enum DocumentKind {
+  DIARIO_OFICIAL
+  LEI
+  DECRETO
+  CONTRATO
+  EDITAL
+  RELATORIO
+  ATA
+  ORCAMENTO
+  OUTRO
+}
+
+model Document {
+  id             String        @id @default(cuid())
+  slug           String        @unique
+  title          String
+  kind           DocumentKind
+  municipalityId String?
+  municipality   Municipality? @relation(fields: [municipalityId], references: [id], onDelete: Cascade)
+  sourceId       String?
+  source         DataSource?   @relation(fields: [sourceId], references: [id], onDelete: SetNull)
+  url            String
+  publishedAt    DateTime
+  summary        String?
+  isDemo         Boolean       @default(false)
+
+  @@index([municipalityId, publishedAt])
+}
+
+// ─────────────────────────────────────────────────────────────
+// GRAFO DE ENTIDADES E RESOLUÇÃO
+// ─────────────────────────────────────────────────────────────
+
+enum EntityType {
+  MUNICIPIO
+  REGIAO
+  PESSOA
+  EMPRESA
+  SETOR
+  PARTIDO
+  NOTICIA
+  INVESTIMENTO
+  SINAL
+  INDICADOR
+  DOCUMENTO
+  ORGAO
+}
+
+/// Resolução de entidades: "Campinas", "Campinas/SP", "Município de Campinas"
+/// apontam para a mesma entidade através de uma chave normalizada.
+model EntityAlias {
+  id             String        @id @default(cuid())
+  entityType     EntityType
+  /// Chave normalizada (minúscula, sem acento, sem pontuação)
+  normalizedKey  String
+  alias          String
+  /// 0..1 — quão distintivo é o alias (evita falsos positivos como "Santa Cruz")
+  weight         Decimal       @default(1.0) @db.Decimal(3, 2)
+  municipalityId String?
+  municipality   Municipality? @relation(fields: [municipalityId], references: [id], onDelete: Cascade)
+  personId       String?
+  person         Person?       @relation(fields: [personId], references: [id], onDelete: Cascade)
+  companyId      String?
+  company        Company?      @relation(fields: [companyId], references: [id], onDelete: Cascade)
+  createdAt      DateTime      @default(now())
+
+  @@unique([entityType, normalizedKey, municipalityId, personId, companyId], name: "uniq_alias")
+  @@index([normalizedKey])
+  @@index([entityType, normalizedKey])
+}
+
+enum RelationKind {
+  LOCALIZADA_EM
+  ATUA_EM
+  PERTENCE_A
+  VIZINHO_DE
+  MENCIONA
+  INVESTE_EM
+  GOVERNA
+  REPRESENTA
+  EMPREGA
+  IMPACTA
+  DERIVA_DE
+  RELACIONADO_A
+}
+
+/// Arestas do grafo de entidades. Tabela polimórfica: qualquer entidade
+/// tipada pode se conectar a qualquer outra com um tipo de relação e um peso.
+model Relationship {
+  id        String       @id @default(cuid())
+  fromType  EntityType
+  fromId    String
+  toType    EntityType
+  toId      String
+  kind      RelationKind
+  weight    Decimal      @default(1.0) @db.Decimal(5, 3)
+  /// Como a aresta foi derivada (ingestão, resolução, cálculo)
+  origin    String       @default("derivado")
+  metadata  Json?
+  createdAt DateTime     @default(now())
+
+  @@unique([fromType, fromId, toType, toId, kind], name: "uniq_edge")
+  @@index([fromType, fromId])
+  @@index([toType, toId])
+  @@index([kind])
+}
+
+// ─────────────────────────────────────────────────────────────
+// ÍNDICES PROPRIETÁRIOS
+// ─────────────────────────────────────────────────────────────
+
+model ProprietaryIndex {
+  id          String  @id @default(cuid())
+  slug        String  @unique
+  name        String
+  description String
+  methodology String
+  /// Aviso obrigatório de que não se trata de indicador oficial
+  disclaimer  String
+  active      Boolean @default(true)
+
+  components IndexComponent[]
+  scores     IndexScore[]
+}
+
+model IndexComponent {
+  id          String           @id @default(cuid())
+  indexId     String
+  index       ProprietaryIndex @relation(fields: [indexId], references: [id], onDelete: Cascade)
+  indicatorId String?
+  indicator   Indicator?       @relation(fields: [indicatorId], references: [id], onDelete: SetNull)
+  /// Componentes não-indicador: RADAR_VOLUME, NEWS_MOMENTUM, INVESTIMENTOS
+  signalKey   String?
+  label       String
+  weight      Decimal          @db.Decimal(5, 3)
+
+  @@index([indexId])
+}
+
+model IndexScore {
+  id             String           @id @default(cuid())
+  indexId        String
+  index          ProprietaryIndex @relation(fields: [indexId], references: [id], onDelete: Cascade)
+  municipalityId String
+  municipality   Municipality     @relation(fields: [municipalityId], references: [id], onDelete: Cascade)
+  value          Decimal          @db.Decimal(6, 2)
+  /// Posição entre os 645 municípios
+  rank           Int?
+  trend          TrendDirection   @default(INDISPONIVEL)
+  /// Contribuição de cada componente — permite abrir a "caixa preta"
+  breakdown      Json
+  referenceLabel String
+  computedAt     DateTime         @default(now())
+
+  @@unique([indexId, municipalityId, referenceLabel])
+  @@index([indexId, value])
+}
+
+// ─────────────────────────────────────────────────────────────
+// IA
+// ─────────────────────────────────────────────────────────────
+
+enum AnalysisKind {
+  PANORAMA_MUNICIPAL
+  POR_QUE_IMPORTA
+  CONTEXTO_ECONOMICO
+  COMPARACAO
+  RESPOSTA_PERGUNTA
+  MOMENTO_ECONOMICO
+}
+
+/// Toda saída de IA é armazenada com as evidências que a sustentam.
+model AIAnalysis {
+  id               String        @id @default(cuid())
+  kind             AnalysisKind
+  municipalityId   String?
+  municipality     Municipality? @relation(fields: [municipalityId], references: [id], onDelete: Cascade)
+  signalId         String?
+  signal           RadarSignal?  @relation(fields: [signalId], references: [id], onDelete: Cascade)
+  question         String?
+  /// Separação obrigatória: fatos / interpretação / hipóteses
+  facts            Json
+  interpretation   String?
+  hypotheses       Json
+  /// Citações: cada uma aponta para um DataPoint, notícia ou documento
+  citations        Json
+  /// Identificador do provedor que gerou (anthropic, openai, grounded-local)
+  provider         String
+  model            String?
+  promptHash       String?
+  confidence       Decimal       @default(0.5) @db.Decimal(3, 2)
+  insufficientData Boolean       @default(false)
+  createdAt        DateTime      @default(now())
+  expiresAt        DateTime?
+
+  @@index([kind, municipalityId])
+  @@index([signalId])
+}
+
+model AIConversation {
+  id        String   @id @default(cuid())
+  userId    String?
+  user      User?    @relation(fields: [userId], references: [id], onDelete: Cascade)
+  title     String?
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  messages AIMessage[]
+
+  @@index([userId, updatedAt])
+}
+
+model AIMessage {
+  id             String         @id @default(cuid())
+  conversationId String
+  conversation   AIConversation @relation(fields: [conversationId], references: [id], onDelete: Cascade)
+  role           String
+  content        String
+  citations      Json?
+  facts          Json?
+  hypotheses     Json?
+  provider       String?
+  createdAt      DateTime       @default(now())
+
+  @@index([conversationId, createdAt])
+}
+
+// ─────────────────────────────────────────────────────────────
+// USUÁRIOS, ASSINATURA, ALERTAS
+// ─────────────────────────────────────────────────────────────
+
+enum UserRole {
+  USER
+  EDITOR
+  ADMIN
+}
+
+enum PlanTier {
+  FREE
+  PRO
+  ENTERPRISE
+}
+
+enum SubscriptionStatus {
+  TRIALING
+  ACTIVE
+  PAST_DUE
+  CANCELED
+  INCOMPLETE
+  NAO_CONFIGURADO
+}
+
+model User {
+  id            String    @id @default(cuid())
+  email         String    @unique
+  name          String?
+  passwordHash  String
+  role          UserRole  @default(USER)
+  emailVerified DateTime?
+  /// Preferências de exibição (tema, densidade, cidades favoritas)
+  preferences   Json      @default("{}")
+  lastLoginAt   DateTime?
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+
+  sessions      Session[]
+  subscription  Subscription?
+  alerts        Alert[]
+  saved         SavedMunicipality[]
+  conversations AIConversation[]
+  analytics     AnalyticsEvent[]
+  resetTokens   PasswordResetToken[]
+  auditLogs     AuditLog[]
+}
+
+model Session {
+  id         String   @id @default(cuid())
+  userId     String
+  user       User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  tokenHash  String   @unique
+  userAgent  String?
+  ipHash     String?
+  expiresAt  DateTime
+  createdAt  DateTime @default(now())
+  lastSeenAt DateTime @default(now())
+
+  @@index([userId])
+}
+
+model PasswordResetToken {
+  id        String    @id @default(cuid())
+  userId    String
+  user      User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  tokenHash String    @unique
+  expiresAt DateTime
+  usedAt    DateTime?
+  createdAt DateTime  @default(now())
+
+  @@index([userId])
+}
+
+model Plan {
+  id                   String   @id @default(cuid())
+  tier                 PlanTier @unique
+  name                 String
+  description          String
+  /// Em centavos de BRL. Nulo = sob consulta.
+  priceMonthly         Int?
+  priceYearly          Int?
+  currency             String   @default("BRL")
+  trialDays            Int      @default(0)
+  features             Json
+  /// Limites por recurso: cidades salvas, alertas, perguntas de IA/dia, exportações
+  limits               Json
+  stripePriceIdMonthly String?
+  stripePriceIdYearly  String?
+  mercadoPagoPlanId    String?
+  displayOrder         Int      @default(0)
+  active               Boolean  @default(true)
+
+  subscriptions Subscription[]
+}
+
+model Subscription {
+  id                 String             @id @default(cuid())
+  userId             String             @unique
+  user               User               @relation(fields: [userId], references: [id], onDelete: Cascade)
+  planId             String
+  plan               Plan               @relation(fields: [planId], references: [id])
+  status             SubscriptionStatus @default(ACTIVE)
+  provider           String             @default("none")
+  providerCustomerId String?
+  providerSubId      String?
+  interval           String             @default("monthly")
+  currentPeriodEnd   DateTime?
+  trialEndsAt        DateTime?
+  cancelAtPeriodEnd  Boolean            @default(false)
+  createdAt          DateTime           @default(now())
+  updatedAt          DateTime           @updatedAt
+
+  @@index([status])
+}
+
+enum AlertScope {
+  MUNICIPIO
+  PESSOA
+  EMPRESA
+  SETOR
+  ASSUNTO
+  INVESTIMENTO
+}
+
+model Alert {
+  id              String           @id @default(cuid())
+  userId          String
+  user            User             @relation(fields: [userId], references: [id], onDelete: Cascade)
+  scope           AlertScope
+  municipalityId  String?
+  municipality    Municipality?    @relation(fields: [municipalityId], references: [id], onDelete: Cascade)
+  targetId        String?
+  keyword         String?
+  label           String
+  /// Categorias de sinal que disparam o alerta
+  categories      SignalCategory[]
+  minScore        Int              @default(60)
+  channel         String           @default("in_app")
+  active          Boolean          @default(true)
+  createdAt       DateTime         @default(now())
+  lastTriggeredAt DateTime?
+
+  deliveries AlertDelivery[]
+
+  @@index([userId, active])
+}
+
+model AlertDelivery {
+  id        String    @id @default(cuid())
+  alertId   String
+  alert     Alert     @relation(fields: [alertId], references: [id], onDelete: Cascade)
+  signalId  String?
+  title     String
+  body      String
+  url       String?
+  readAt    DateTime?
+  createdAt DateTime  @default(now())
+
+  @@index([alertId, createdAt])
+}
+
+model SavedMunicipality {
+  userId         String
+  user           User         @relation(fields: [userId], references: [id], onDelete: Cascade)
+  municipalityId String
+  municipality   Municipality @relation(fields: [municipalityId], references: [id], onDelete: Cascade)
+  position       Int          @default(0)
+  createdAt      DateTime     @default(now())
+
+  @@id([userId, municipalityId])
+}
+
+// ─────────────────────────────────────────────────────────────
+// OPERAÇÃO: INGESTÃO, QUALIDADE, ANALYTICS, AUDITORIA
+// ─────────────────────────────────────────────────────────────
+
+enum RunStatus {
+  EXECUTANDO
+  SUCESSO
+  FALHA
+  PARCIAL
+}
+
+model IngestionRun {
+  id           String      @id @default(cuid())
+  jobKey       String
+  sourceId     String?
+  source       DataSource? @relation(fields: [sourceId], references: [id], onDelete: SetNull)
+  status       RunStatus   @default(EXECUTANDO)
+  startedAt    DateTime    @default(now())
+  finishedAt   DateTime?
+  itemsRead    Int         @default(0)
+  itemsWritten Int         @default(0)
+  itemsSkipped Int         @default(0)
+  error        String?
+  stats        Json?
+
+  issues IngestionIssue[]
+
+  @@index([jobKey, startedAt])
+}
+
+enum IssueSeverity {
+  INFO
+  AVISO
+  ERRO
+}
+
+model IngestionIssue {
+  id         String        @id @default(cuid())
+  runId      String
+  run        IngestionRun  @relation(fields: [runId], references: [id], onDelete: Cascade)
+  severity   IssueSeverity
+  code       String
+  message    String
+  context    Json?
+  resolvedAt DateTime?
+  createdAt  DateTime      @default(now())
+
+  @@index([runId, severity])
+}
+
+model DataQualityCheck {
+  id          String      @id @default(cuid())
+  key         String      @unique
+  name        String
+  description String
+  sourceId    String?
+  source      DataSource? @relation(fields: [sourceId], references: [id], onDelete: SetNull)
+  status      String      @default("OK")
+  detail      String?
+  metric      Decimal?    @db.Decimal(12, 4)
+  threshold   Decimal?    @db.Decimal(12, 4)
+  lastRunAt   DateTime?
+}
+
+model AnalyticsEvent {
+  id         String      @id @default(cuid())
+  userId     String?
+  user       User?       @relation(fields: [userId], references: [id], onDelete: SetNull)
+  /// Sessão anônima (hash) — não guardamos IP em claro (LGPD)
+  anonId     String?
+  name       String
+  path       String?
+  entityType EntityType?
+  entityId   String?
+  properties Json?
+  createdAt  DateTime    @default(now())
+
+  @@index([name, createdAt])
+  @@index([entityType, entityId])
+}
+
+model AuditLog {
+  id        String   @id @default(cuid())
+  userId    String?
+  user      User?    @relation(fields: [userId], references: [id], onDelete: SetNull)
+  action    String
+  target    String?
+  detail    Json?
+  ipHash    String?
+  createdAt DateTime @default(now())
+
+  @@index([createdAt])
+}
+
+model SiteSetting {
+  key       String   @id
+  value     Json
+  updatedAt DateTime @updatedAt
+}
