@@ -1,0 +1,95 @@
+{
+  "date": "2026-08-24",
+  "weekday": "segunda-feira",
+  "draft": true,
+  "generated_at": "2026-08-23T20:13:35.008685-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Debate começa com protestos de Renan e Cury contra ausências de Lula e Flávio; assista",
+          "summary": "O primeiro debate eleitoral entre presidenciáveis das eleições de 2026 começou com crítica aos ausentes já na chegada dos candidatos.\n<a href=\"https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/candidatos-comecam-",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/candidatos-comecam-a-chegar-para-debate-renan-leva-fraldas-para-criticar-ausencias-de-lula-e-flavio.shtml",
+          "published_at": "2026-08-23T18:40:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Convenções que já não decidem",
+          "summary": "Idas e vindas na definição de candidaturas ganharam destaque no noticiário recentemente. Dois exemplos são o senador mineiro <a href=\"https://www1.folha.uol.com.br/folha-topicos/cleitinho/\">Cleitinho</a>, do <a href=\"https://www1.folha.uol.com.br/folha-topicos",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/lara-mesquita/2026/08/convencoes-que-ja-nao-decidem.shtml",
+          "published_at": "2026-08-23T17:06:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Sem Lula, Flávio e Zema, eleição presidencial terá debate de estreia com menor quórum desde 1989",
+          "summary": "O primeiro<a href=\"https://www1.folha.uol.com.br/folha-topicos/debate-eleitoral/\" rel=\"\" target=\"\"> debate presidencial</a> da eleição de 2026 acontece neste domingo (23) com apenas três candidatos confirmados: <a href=\"https://www1.folha.uol.com.br/folha-topi",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/sem-lula-flavio-e-zema-eleicao-presidencial-tera-debate-de-estreia-com-menor-quorum-desde-1989.shtml",
+          "published_at": "2026-08-23T17:02:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Lula diz que Lulinha precisa se defender e nega blindagem contra a PF",
+          "summary": "O presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\" rel=\"\" target=\"\">Lula (PT)</a> afirmou que ninguém está acima da lei e que seu filho mais velho, <a href=\"https://www1.folha.uol.com.br/poder/2026/08/lulinha-tinha-comunhao-de-interesses-",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-diz-que-lulinha-precisa-se-defender-e-nega-blindagem-a-pf.shtml",
+          "published_at": "2026-08-23T16:16:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Quando os árbitros entram no jogo: o jantar da desordem institucional",
+          "summary": "O escândalo do Banco Master pareceu provocar no <a href=\"https://www1.folha.uol.com.br/folha-topicos/stf/\">STF</a> um instinto de autopreservação. A magnitude das revelações e a reação da opinião pública teriam aparentemente convencido seus ministros de que er",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2026/08/quando-os-arbitros-entram-no-jogo-o-jantar-da-desordem-institucional.shtml",
+          "published_at": "2026-08-23T14:30:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Ausente de debate, Zema não cogita desistir de candidatura, diz partido",
+          "summary": "Apesar de <a href=\"https://www1.folha.uol.com.br/poder/2026/08/zema-desiste-e-amplia-esvaziamento-do-primeiro-debate-presidencial-na-tv.shtml\" rel=\"\" target=\"\">ter desistido de comparecer ao debate da TV Bandeirantes </a>na noite deste domingo (23), <a href=\"h",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/ausente-de-debate-zema-nao-cogita-desistir-de-candidatura-diz-partido.shtml",
+          "published_at": "2026-08-23T14:24:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
