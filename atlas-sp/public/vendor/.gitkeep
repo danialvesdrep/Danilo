@@ -1,0 +1,2 @@
+# Os arquivos do worker do MapLibre são copiados pelo script pré-build.
+# Ver scripts/copy-map-worker.mjs.

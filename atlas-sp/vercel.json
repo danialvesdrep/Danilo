@@ -1,0 +1,11 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "crons": [
+    { "path": "/api/cron/news-ingestion", "schedule": "10 * * * *" },
+    { "path": "/api/cron/radar-recomputar-scores", "schedule": "0 * * * *" },
+    { "path": "/api/cron/alertas-disparar", "schedule": "5 * * * *" },
+    { "path": "/api/cron/qualidade-dados", "schedule": "0 * * * *" },
+    { "path": "/api/cron/indices-proprietarios", "schedule": "30 3 * * *" },
+    { "path": "/api/cron/ibge-sidra", "schedule": "0 4 1 * *" }
+  ]
+}
