@@ -1,0 +1,95 @@
+{
+  "date": "2026-08-28",
+  "weekday": "sexta-feira",
+  "draft": true,
+  "generated_at": "2026-08-27T01:12:12.558023-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Trump amplia importação de carne para baixar preços nos EUA",
+          "summary": "Medida vale de 1º de setembro a 30 de novembro e permite até 100.000 toneladas por mês; Casa Branca projeta queda de 25% nos preços",
+          "source": "Poder360",
+          "url": "https://www.poder360.com.br/poder-internacional/trump-amplia-importacao-de-carne-para-baixar-precos-nos-eua/",
+          "published_at": "2026-08-27T00:13:09-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Motorista é parado em blitz, agente solicita a habilitação e o celular descarrega antes de abrir a CNH Digital, condutor diz que não levou a carteira física e questiona se pode ser multado",
+          "summary": "<p><img alt=\"Motorista é parado em blitz, agente solicita a habilitação e o celular descarrega antes de abrir a CNH Digital, condutor diz que não levou a carteira física e questiona se pode ser multado\" class=\"attachment-full size-full wp-post-image\" height=\"1",
+          "source": "O Antagonista",
+          "url": "https://oantagonista.com.br/economia/motorista-e-parado-em-blitz-agente-solicita-a-habilitacao-e-o-celular-descarrega-antes-de-abrir-a-cnh-digital-condutor-diz-que-nao-levou-a-carteira-fisica-e-questiona-se-pode-ser-multado/",
+          "published_at": "2026-08-27T00:13:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "O fator 'Triângulo das Bermudas' para o resultado da eleição presidencial - O Assunto #1792",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/0i_a-Oi8F7qe1tyxlaOWdYXWI2w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/M/fpJS9MRcyDNFowTYUVPA/whatsapp-image-2026-08-25-at-18.30.59-1-.jpeg\" /><br />     A soma dos eleitores de Minas ",
+          "source": "G1 Política",
+          "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/08/27/o-fator-triangulo-das-bermudas-para-o-resultado-da-eleicao-presidencial-o-assunto-1792.ghtml",
+          "published_at": "2026-08-27T00:30:15-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Lula participa de entrevista da Globo nesta quinta-feira; saiba como assistir",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/1sWvuQ1Z05IXv-rrKW_HohhyW5Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/s/yF47vyRkyuv0oGhKwqoA/lula-1-.jpg\" /><br />     Lula, candidato à Presidência da República pelo PT\nYuri Murakami",
+          "source": "G1 Política",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/27/lula-entrevista-globo-como-assistir.ghtml",
+          "published_at": "2026-08-27T00:02:09-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Governo não espera solução rápida para tarifaço, mesmo com retomada das negociações com os EUA",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/724RuzZtjPEWA2pW-5_2hrQGAh0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/v/HXVXuJTN658ZUWuSybcQ/globo-canal-4-20260810-2000-frame-105167.jpeg\" /><br />     Apesar da retomada das negocia",
+          "source": "G1 Política",
+          "url": "https://g1.globo.com/economia/noticia/2026/08/27/governo-nao-espera-solucao-rapida-para-tarifaco-mesmo-com-retomada-das-negociacoes-com-os-eua.ghtml",
+          "published_at": "2026-08-27T00:00:48-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "STF pode retomar nesta quinta julgamento sobre vínculo entre plataformas e trabalhadores e trecho do Marco Civil da internet",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/FmW77CyojJRPp_JKKQ2XR6Z99_Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/O/z5wEVCTISAzUS1yB0QZw/luiz-silveira-stf.jpg\" /><br />     O Supremo Tribunal Federal (STF) pode retomar nesta qu",
+          "source": "G1 Política",
+          "url": "https://g1.globo.com/politica/noticia/2026/08/27/stf-pode-retomar-nesta-quinta-julgamento-sobre-vinculo-entre-plataformas-e-trabalhadores-e-trecho-do-marco-civil-da-internet.ghtml",
+          "published_at": "2026-08-27T00:00:25-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
