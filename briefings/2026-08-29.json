@@ -1,0 +1,95 @@
+{
+  "date": "2026-08-29",
+  "weekday": "sábado",
+  "draft": true,
+  "generated_at": "2026-08-28T03:26:55.577758-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Leia a íntegra das perguntas da “Globo” e as respostas de Lula",
+          "summary": "Durante sabatina, presidente foi questionado sobre inquéritos contra o filho, relação com lobista, caso Master, INSS, segurança pública, economia e educação",
+          "source": "Poder360",
+          "url": "https://www.poder360.com.br/poder-eleicoes-2026/leia-a-integra-das-perguntas-da-globo-e-as-respostas-de-lula/",
+          "published_at": "2026-08-28T00:11:17-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Quaest no DF: mais da metade dos eleitores segue indecisa sobre voto para governador e senadores",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/A13r7nSGM0OcBJq44etQoj75D7Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/r/71r4bCRUGq7MbxjTEYmQ/260825-grafico-intencao-de-voto-para-governador-no-1-turno-no-df.jpg\" /><br />     Quaest ",
+          "source": "G1 Política",
+          "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/08/28/quaest-df-indecisos-25-agosto.ghtml",
+          "published_at": "2026-08-28T01:00:17-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "De Bíblia a Apple Watch: candidatos ao Senado direcionam anúncios a públicos específicos na Meta",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/g9-2qhvELTe9iWGz1_gkfjg2aA4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/k/UKlnWsS6O8SkQBcakoGg/foto-e-montagem-vertical-59-.png\" /><br />     Anúncios de Vander Loubet e Alexandre Curi ",
+          "source": "G1 Política",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/28/segmentacao-anuncios-candidatos-senado-meta-eleicoes-2026.ghtml",
+          "published_at": "2026-08-28T00:01:23-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Propaganda eleitoral no rádio e na TV começa nesta sexta (28); veja horários e tempo dos candidatos",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/dWlmeb-v2SC5A_AxePwFzcC692U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/e/BH5MAcRWCEpBTtvhFY9g/montagem-horizontal-1280x720px.jpg\" /><br />     Lula, Flávio Bolsonaro, Augusto Cury e Ro",
+          "source": "G1 Política",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/28/propaganda-eleitoral-no-radio-e-na-tv-comeca-nesta-sexta-28-veja-horarios-e-tempo-dos-candidatos.ghtml",
+          "published_at": "2026-08-28T00:01:09-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Quaest: veja os números da eleição para presidente em 23 estados e no DF",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/uorct7P7DC_Dqv899gqUdPjnd-U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/7/7Kve48TdS07WVpJCrsOg/design-sem-nome-20-.png\" /><br />     Uma série de pesquisas Quaest divulgadas nesta seman",
+          "source": "G1 Política",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/28/quaest-eleicao-presidente-23-estados-df.ghtml",
+          "published_at": "2026-08-28T00:00:47-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Flávio Bolsonaro participa de entrevista da Globo nesta sexta-feira; saiba como assistir",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/k3jTIbZd5HRIgHlEoJbNOAIduEQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/n/y8HhswQfaHIcWV7MMAFA/odr20260801034.jpg\" /><br />     O candidato a presidência da República, Flávio Bolsonaro,",
+          "source": "G1 Política",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/28/flavio-bolsonaro-entrevista-globo-como-assistir.ghtml",
+          "published_at": "2026-08-28T00:00:39-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
