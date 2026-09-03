@@ -1,0 +1,95 @@
+{
+  "date": "2026-09-03",
+  "weekday": "quinta-feira",
+  "draft": true,
+  "generated_at": "2026-09-02T21:53:30.994475-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "PGR pede arquivamento de depoimento de denúncias de Vorcaro sobre maus-tratos",
+          "summary": "A <a href=\"https://www1.folha.uol.com.br/folha-topicos/pgr/\">PGR</a> (Procuradoria-Geral da República) pediu nesta quarta-feira (2) o arquivamento da denúncia feita por <a href=\"https://www1.folha.uol.com.br/folha-topicos/daniel-vorcaro/\">Daniel Vorcaro</a> em",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pgr-pede-arquivamento-de-depoimento-de-denuncias-de-vorcaro-sobre-maus-tratos.shtml",
+          "published_at": "2026-09-02T21:23:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Augusto Cury atribui alta em pesquisa a 'movimento de pacificação' do país",
+          "summary": "Destaque em pesquisas eleitorais nos últimos dias, o presidenciável <a href=\"https://www1.folha.uol.com.br/folha-topicos/augusto-cury/\">Augusto Cury</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/avante/\">Avante</a>) atribuiu nesta quarta-feira (2) ",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/augusto-cury-atribui-alta-em-pesquisa-a-movimento-de-pacificacao-do-pais.shtml",
+          "published_at": "2026-09-02T19:57:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Lula fala com Fachin sobre crise no STF, se distancia de Moraes e define discurso do 'ninguém acima da lei'",
+          "summary": "O presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> (PT) conversou com o chefe do <a href=\"https://www1.folha.uol.com.br/folha-topicos/stf/\">STF</a> (Supremo Tribunal Federal), Edson Fachin, na terça-feira (1º), sobre o <a href=\"h",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-fala-com-fachin-sobre-crise-no-stf-se-distancia-de-moraes-e-define-discurso-do-ninguem-acima-da-lei.shtml",
+          "published_at": "2026-09-02T19:44:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Alcolumbre cita dinheiro para 'Dark Horse' para responder à pressão por impeachment de Moraes",
+          "summary": "O presidente do <a href=\"https://www1.folha.uol.com.br/folha-topicos/senado/\">Senado</a>, <a href=\"https://www1.folha.uol.com.br/folha-topicos/davi-alcolumbre/\">Davi Alcolumbre</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/uniao-brasil/\">União </a>",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/alcolumbre-cita-dinheiro-para-dark-horse-para-responder-a-pressao-por-impeachment-de-moraes.shtml",
+          "published_at": "2026-09-02T19:41:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Governistas pressionam por fim da 6x1, mas evitam ataques a Alcolumbre após retomada de relação",
+          "summary": "O governo <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> não pretende atacar o comando do Congresso Nacional, em especial o presidente do <a href=\"https://www1.folha.uol.com.br/folha-topicos/senado/\">Senado</a>, <a href=\"https://www1.folh",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/governistas-pressionam-por-fim-da-6x1-mas-evitam-ataques-a-alcolumbre-apos-retomada-de-relacao.shtml",
+          "published_at": "2026-09-02T19:38:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Duas propostas para a segurança pública",
+          "summary": "A segurança disputa com a saúde o primeiro lugar entre as preocupações dos brasileiros.Com razão: a <a href=\"https://www1.folha.uol.com.br/folha-topicos/violencia/\">violência</a> faz parte da áspera experiência cotidiana da população, especialmente dos pobres,",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/maria-herminia-tavares/2026/09/duas-propostas-para-a-seguranca-publica.shtml",
+          "published_at": "2026-09-02T18:42:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
