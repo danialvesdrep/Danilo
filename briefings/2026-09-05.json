@@ -1,0 +1,95 @@
+{
+  "date": "2026-09-05",
+  "weekday": "sábado",
+  "draft": true,
+  "generated_at": "2026-09-04T21:33:04.903516-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "AGU chama pedido da PF contra medidas de Mendonça de 'intervenção processual' sem precedente",
+          "summary": "A <a href=\"https://www1.folha.uol.com.br/folha-topicos/agu/\">AGU</a> (Advocacia-Geral da União) chamou nesta sexta-feira (4) a tentativa da <a href=\"https://www1.folha.uol.com.br/folha-topicos/policia-federal/\">Polícia Federal</a> de que o órgão entrasse com u",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/agu-chama-pedido-da-pf-contra-medidas-de-mendonca-de-intervencao-processual-sem-precedente.shtml",
+          "published_at": "2026-09-04T21:23:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Tucano faz evento com Prado e Derrite, ignora Soninha e gera crise na federação com Cidadania",
+          "summary": "Presidente do PSDB do estado de São Paulo e candidato a deputado federal, <a href=\"https://www1.folha.uol.com.br/colunas/painel/2026/06/federacao-psdb-e-cidadania-em-sp-vive-crise-as-vesperas-da-eleicao.shtml\" rel=\"\" target=\"\">Paulo Serra</a> promoverá um café",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/tucano-faz-evento-com-prado-e-derrite-ignora-soninha-e-gera-crise-na-federacao-com-cidadania.shtml",
+          "published_at": "2026-09-04T19:40:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Entenda a escalada da crise no STF, provocada por revelações de elos entre ministros e Vorcaro",
+          "summary": "As investigações sobre o <a href=\"https://www1.folha.uol.com.br/folha-topicos/banco-master/\">Banco Master</a> por fraudes ao sistema financeiro expuseram conexões entre o ex-banqueiro <a href=\"https://www1.folha.uol.com.br/folha-topicos/daniel-vorcaro/\">Daniel",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/entenda-a-escalada-da-crise-no-stf-provocada-por-revelacoes-de-elos-entre-ministros-e-vorcaro.shtml",
+          "published_at": "2026-09-04T19:01:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Igreja de André Mendonça cita cortes fora de contexto e exclui vídeos",
+          "summary": "No dia 16 de agosto, o ministro do <a href=\"https://www1.folha.uol.com.br/folha-topicos/stf/\">STF</a> (Supremo Tribunal Federal) <a href=\"https://www1.folha.uol.com.br/folha-topicos/andre-mendonca/\">André Mendonça</a> pregou na IPP (Igreja Presbiteriana de Pin",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/igreja-de-andre-mendonca-cita-cortes-fora-de-contexto-e-exclui-videos.shtml",
+          "published_at": "2026-09-04T18:47:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Alcolumbre considera votar fim da 6x1 antes do segundo turno",
+          "summary": "Apesar de ter dito que não votará a PEC que prevê o fim da 6x1 antes das <a href=\"https://www1.folha.uol.com.br/folha-topicos/eleicoes/\">eleições</a>, o presidente do <a href=\"https://www1.folha.uol.com.br/folha-topicos/senado/\">Senado</a>, <a href=\"https://ww",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/alcolumbre-considera-votar-fim-da-6x1-antes-do-segundo-turno.shtml",
+          "published_at": "2026-09-04T18:38:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Deputado aciona Supremo para investigar doação de campanha de Vorcaro a Tarcísio",
+          "summary": "O deputado federal Alencar Santana (PT-SP) pediu ao STF (Supremo Tribunal Federal) nesta sexta-feira (4) que investigue a informação dada pelo ex-banqueiro <a href=\"https://www1.folha.uol.com.br/folha-topicos/daniel-vorcaro/\">Daniel Vorcaro</a>, do Master, de ",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/deputado-aciona-supremo-para-investigar-doacao-de-campanha-de-vorcaro-a-tarcisio.shtml",
+          "published_at": "2026-09-04T17:13:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
