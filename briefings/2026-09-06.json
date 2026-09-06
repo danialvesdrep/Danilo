@@ -1,0 +1,95 @@
+{
+  "date": "2026-09-06",
+  "weekday": "domingo",
+  "draft": true,
+  "generated_at": "2026-09-05T21:28:31.952131-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Deltan anexa dados de sigilo fiscal de Zanin na Justiça Eleitoral, e ministro pede responsabilização",
+          "summary": "O ex-procurador <a href=\"https://www1.folha.uol.com.br/folha-topicos/deltan-dallagnol/\">Deltan Dallagnol</a> (Novo-PR) apresentou em seu registro de candidatura à <a href=\"https://www1.folha.uol.com.br/folha-topicos/justica-eleitoral/\">Justiça Eleitoral</a> do",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/deltan-anexa-dados-de-sigilo-fiscal-de-zanin-na-justica-eleitoral-e-ministro-pede-responsabilizacao.shtml",
+          "published_at": "2026-09-05T19:54:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Gilmar formaliza proposta para vetar membros da PF e das Forças Armadas em gabinetes do STF",
+          "summary": "O ministro <a href=\"https://www1.folha.uol.com.br/folha-topicos/gilmar-mendes/\">Gilmar Mendes</a>, do <a href=\"https://www1.folha.uol.com.br/folha-topicos/stf/\">STF</a> (Supremo Tribunal Federal) formalizou neste sábado (5) a <a href=\"https://www1.folha.uol.co",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/gilmar-formaliza-proposta-para-vetar-membros-da-pf-e-das-forcas-armadas-em-gabinetes-do-stf.shtml",
+          "published_at": "2026-09-05T18:01:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Gestão Nunes pede aval ao governo Lula para criar mais 84 km de faixas azuis para motos",
+          "summary": "A gestão do prefeito <a href=\"https://www1.folha.uol.com.br/folha-topicos/ricardo-nunes/\">Ricardo Nunes</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/mdb/\">MDB</a>) fez novo pedido à Senatran (Secretaria Nacional de <a href=\"https://www1.folha.uol.",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/gestao-nunes-pede-aval-ao-governo-lula-para-criar-mais-84-km-de-faixas-azuis-para-motos.shtml",
+          "published_at": "2026-09-05T18:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Flávio Bolsonaro chama Moraes de 'laranja podre do STF' em visita a condenado por trama golpista",
+          "summary": "O senador <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>), candidato à Presidência, chamou o ministro <a href=\"https://www1.folha.uol.com.br/folha-t",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-chama-moraes-de-laranja-podre-do-stf-em-visita-a-condenado-por-trama-golpista.shtml",
+          "published_at": "2026-09-05T17:30:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "PL aposta em mulheres conservadoras e candidata trans na TV para atrair eleitoras em SP",
+          "summary": "Na primeira semana de <a href=\"https://www1.folha.uol.com.br/folha-topicos/propaganda-eleitoral/\">propaganda eleitoral</a> na TV, o <a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a> de São Paulo colocou o holofote sobre candidaturas femininas. N",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pl-aposta-em-mulheres-conservadoras-e-candidata-trans-na-tv-para-atrair-eleitoras-em-sp.shtml",
+          "published_at": "2026-09-05T16:32:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Zema vai surfar em crise no STF e reforça discurso de que fez alertas sobre ministros antes",
+          "summary": "O candidato à Presidência <a href=\"https://www1.folha.uol.com.br/folha-topicos/romeu-zema/\">Romeu Zema</a> (Novo) vai tentar surfar na crise aberta no <a href=\"https://www1.folha.uol.com.br/folha-topicos/stf/\">STF</a> (Supremo Tribunal Federal) para reforçar o",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/zema-vai-surfar-em-crise-no-stf-e-reforca-discurso-de-que-fez-alertas-sobre-ministros-antes.shtml",
+          "published_at": "2026-09-05T15:00:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
