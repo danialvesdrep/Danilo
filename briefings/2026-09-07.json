@@ -1,0 +1,95 @@
+{
+  "date": "2026-09-07",
+  "weekday": "segunda-feira",
+  "draft": true,
+  "generated_at": "2026-09-06T21:35:29.866070-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Lula adota soberania como tema de pronunciamento do 7 de Setembro na TV às vésperas da eleição",
+          "summary": "O presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> (PT) usou o tradicional pronunciamento presidencial do <a href=\"https://www1.folha.uol.com.br/folha-topicos/7-de-setembro/\">7 de Setembro</a> para reforçar <a href=\"https://www1.",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-adota-soberania-como-tema-de-pronunciamento-do-7-de-setembro-na-tv-as-vesperas-da-eleicao.shtml",
+          "published_at": "2026-09-06T20:33:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "MPF reforça pedido do governo federal e cobra medidas urgentes do Discord",
+          "summary": "O MPF (Ministério Público Federal) reforçou o pedido feito ao governo à Justiça para que o <a href=\"https://www1.folha.uol.com.br/folha-topicos/discord/\">Discord</a> adote <a href=\"https://www1.folha.uol.com.br/cotidiano/2026/08/justica-marca-audiencia-entre-g",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/mpf-reforca-pedido-do-governo-federal-e-cobra-medidas-urgentes-do-discord.shtml",
+          "published_at": "2026-09-06T18:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "A República à venda",
+          "summary": "<em>Urbem venalem et mature perituram, si emptorem invenerit</em> (uma cidade à venda e condenada a perecer rapidamente, caso encontrasse um comprador). A frase, atribuída por Salústio a Jugurta, rei da <a href=\"https://www1.folha.uol.com.br/colunas/demetrioma",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2026/09/a-republica-a-venda.shtml",
+          "published_at": "2026-09-06T16:34:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Mendonça libera para julgamento relatório da PF que aponta elo entre Moraes e Vorcaro",
+          "summary": "O ministro André Mendonça, do <a href=\"https://www1.folha.uol.com.br/folha-topicos/stf/\">STF</a> (Supremo Tribunal Federal), liberou para julgamento o <a href=\"https://www1.folha.uol.com.br/tec/2026/09/entenda-como-a-pf-ligou-mensagens-de-vorcaro-no-whatsapp-a",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mendonca-libera-para-julgamento-relatorio-da-pf-que-aponta-elo-entre-moraes-e-vorcaro.shtml",
+          "published_at": "2026-09-06T15:58:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Dino questiona promessa de fim de inquérito das fake news, sem citar Fachin",
+          "summary": "Dois dias após o presidente do <a href=\"https://www1.folha.uol.com.br/folha-topicos/stf/\">STF</a> (Supremo Tribunal Federal), <a href=\"https://www1.folha.uol.com.br/folha-topicos/edson-fachin/\">Edson Fachin</a>, defender a necessidade de encerramento do inquér",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/sem-citar-fachin-dino-questiona-promessa-de-fim-de-inquerito-das-fake-news.shtml",
+          "published_at": "2026-09-06T14:27:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Flávio Bolsonaro cobra voto de Cármen contra Moraes e diz que ela deve se preocupar com biografia",
+          "summary": "O senador e candidato à Presidência <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>) cobrou neste domingo (6) voto da ministra <a href=\"https://www1.",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-cobra-voto-de-carmen-contra-moraes-e-diz-que-ela-deve-se-preocupar-com-biografia.shtml",
+          "published_at": "2026-09-06T10:44:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
