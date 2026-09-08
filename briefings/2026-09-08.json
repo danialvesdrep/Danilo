@@ -1,0 +1,95 @@
+{
+  "date": "2026-09-08",
+  "weekday": "terça-feira",
+  "draft": true,
+  "generated_at": "2026-09-07T21:52:39.691197-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Candidatos à Presidência surfam na onda das redes, atacam STF, mas abraçam Mendonça",
+          "summary": "Os candidatos à Presidência da República usaram a crise no <a href=\"https://www1.folha.uol.com.br/folha-topicos/stf/\">STF</a> (Supremo Tribunal Federal) para reforçar o discurso contra os ministros da corte em atos do 7 de Setembro, mas apoiaram o ministro <a ",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/candidatos-a-presidencia-surfam-na-onda-das-redes-atacam-stf-mas-abracam-mendonca.shtml",
+          "published_at": "2026-09-07T20:32:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Quaest: Lula e Flávio Bolsonaro empatam numericamente em cenário de 2º turno",
+          "summary": "O presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pt/\">PT</a>) e o senador Flávio Bolsonaro (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>) estão numericam",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-lula-e-flavio-bolsonaro-empatam-numericamente-em-cenario-de-2o-turno.shtml",
+          "published_at": "2026-09-07T18:17:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Governo e setor produtivo esperam voltar a exportar frango e mel em até dois meses",
+          "summary": "Após a auditoria feita pela <a href=\"https://www1.folha.uol.com.br/folha-topicos/uniao-europeia/\">União Europeia</a> no Brasil, o governo <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> e o setor produtivo esperam retomar as exportações de",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/governo-e-setor-produtivo-esperam-voltar-a-exportar-frango-e-mel-em-ate-dois-meses.shtml",
+          "published_at": "2026-09-07T18:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Duelo do 7/9 traz Flávio no ataque e Lula na defesa",
+          "summary": "No duelo proposto pela oposição para este <a href=\"https://www1.folha.uol.com.br/folha-topicos/7-de-setembro/\">7 de Setembro</a>, os dois principais rivais na corrida presidencial fizeram apostas distintas usando o mesmo material: a crise institucional envolve",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/duelo-do-79-traz-flavio-no-ataque-e-lula-na-defesa.shtml",
+          "published_at": "2026-09-07T17:55:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Quando a escolha é pelo menos mau",
+          "summary": "Vota porque gosta ou vota porque não gosta? Em eleições, o combustível político pode ser a simpatia por um candidato, ou outro sentimento talvez ainda mais poderoso: a repugnância. E quando se olha para as taxas de <a href=\"https://www1.folha.uol.com.br/poder/",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/mafalda-anjos/2026/09/quando-a-escolha-e-pelo-menos-mau.shtml",
+          "published_at": "2026-09-07T17:47:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Tarcísio diz em ato com Flávio que Senado não pode se omitir em crise no STF",
+          "summary": "O governador de <a href=\"https://www1.folha.uol.com.br/folha-topicos/sao-paulo/\">São Paulo</a>, <a href=\"https://www1.folha.uol.com.br/folha-topicos/tarcisio-de-freitas/\">Tarcísio de Freitas</a> (Republicanos), disse em ato político na avenida Paulista, nesta ",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tarcisio-diz-em-ato-com-flavio-que-senado-nao-pode-se-omitir-em-crise-no-stf.shtml",
+          "published_at": "2026-09-07T16:20:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
