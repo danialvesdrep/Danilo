@@ -1,0 +1,95 @@
+{
+  "date": "2026-09-10",
+  "weekday": "quinta-feira",
+  "draft": true,
+  "generated_at": "2026-09-09T21:44:12.873027-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "The Supremos, a série",
+          "summary": "Se alguém duvidava de que o maior risco à autoridade da instituição do <a href=\"https://www1.folha.uol.com.br/folha-topicos/stf/\">STF</a> morava nos gabinetes do próprio tribunal, ministros estão nos oferecendo, hora após hora, prova incontornável.\n<a href=\"ht",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2026/09/the-supremos-a-serie.shtml",
+          "published_at": "2026-09-09T21:12:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Casal Estevam e Sonia Hernandes, da Renascer, fecha apoio a Flávio Bolsonaro",
+          "summary": "O <a href=\"https://www1.folha.uol.com.br/cotidiano/2026/06/apostolo-estevam-hernandes-pede-respeito-a-todas-as-diferencas-e-todas-crencas-em-marcha-para-jesus.shtml\" rel=\"\" target=\"\">apóstolo Estevam Hernandes</a> declarou nesta quarta (9) que vai votar em <a ",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/casal-estevam-e-sonia-hernandes-da-renascer-fecha-apoio-a-flavio-bolsonaro.shtml",
+          "published_at": "2026-09-09T21:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Decisão de Dino é manobra jurídica questionável que sucede erros de Mendonça, dizem especialistas",
+          "summary": "A decisão do ministro <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-dino/\">Flávio Dino</a>, do <a href=\"https://www1.folha.uol.com.br/folha-topicos/stf/\">STF</a> (Supremo Tribunal Federal), que reintegrou <a href=\"https://www1.folha.uol.com.br/fo",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/decisao-de-dino-e-manobra-juridica-questionavel-que-sucede-erros-de-mendonca-dizem-especialistas.shtml",
+          "published_at": "2026-09-09T20:48:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Oposição pressiona e pede a Fachin arquivamento do inquérito das fake news",
+          "summary": "Em nova ofensiva, a oposição pediu ao presidente do <a href=\"https://www1.folha.uol.com.br/folha-topicos/stf/\">STF</a> (Supremo Tribunal Federal), ministro <a href=\"https://www1.folha.uol.com.br/folha-topicos/edson-fachin/\">Edson Fachin</a>, que arquive <a hre",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/oposicao-pressiona-e-pede-a-fachin-arquivamento-do-inquerito-das-fake-news.shtml",
+          "published_at": "2026-09-09T20:09:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Decisões de Dino e de Mendonça sobre chefe da PF anuladas por Fachin tinham hierarquia? Entenda",
+          "summary": "Decisões monocráticas de ministros do <a href=\"https://www1.folha.uol.com.br/folha-topicos/stf/\">STF</a> (Supremo Tribunal Federal) não têm hierarquia entre si, mesmo quando uma reverte a outra na prática, afirmam especialistas ouvidos pela <strong>Folha</stro",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/decisoes-de-dino-e-de-mendonca-sobre-chefe-da-pf-anuladas-por-fachin-tinham-hierarquia-entenda.shtml",
+          "published_at": "2026-09-09T19:56:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Decisão de Fachin de cancelar sessão não foi informada antes a ministros do STF",
+          "summary": "A decisão do presidente do <a href=\"https://www1.folha.uol.com.br/folha-topicos/stf/\">STF (Supremo Tribunal Federal), Edson Fachin</a>, de cancelar a sessão marcada para esta quarta-feira (9), pegou integrantes da corte de surpresa.\n<a href=\"https://redir.folh",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/decisao-de-fachin-de-cancelar-sessao-nao-foi-informada-antes-a-ministros-do-stf.shtml",
+          "published_at": "2026-09-09T19:36:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
