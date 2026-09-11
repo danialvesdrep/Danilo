@@ -1,0 +1,95 @@
+{
+  "date": "2026-09-11",
+  "weekday": "sexta-feira",
+  "draft": true,
+  "generated_at": "2026-09-10T21:43:22.743160-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "STF debate rito para sessão sobre conversas de Vorcaro com Moraes; leia perguntas e respostas",
+          "summary": "O <a href=\"https://www1.folha.uol.com.br/folha-topicos/stf/\">STF</a> (Supremo Tribunal Federal) terá na próxima semana mais um momento marcante na história da corte: a sessão na qual o plenário vai debater o <a href=\"https://www1.folha.uol.com.br/poder/2026/09",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/stf-debate-rito-para-sessao-sobre-conversas-de-vorcaro-com-moraes-leia-perguntas-e-respostas.shtml",
+          "published_at": "2026-09-10T20:58:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Flávio diz que operação sobre 'Dark Horse' é tentativa de golpe e fala em acionar Fachin contra Dino",
+          "summary": "O presidenciável <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>) chamou de \"fajuta\" a operação da Polícia Federal deflagrada nesta quinta-feira (10)",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-diz-que-operacao-sobre-dark-horse-e-tentativa-de-golpe-e-fala-em-acionar-fachin-contra-dino.shtml",
+          "published_at": "2026-09-10T20:26:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Lula diz que Fachin colocou 'um pouco de ordem na casa', mas que espera mais de presidente do STF",
+          "summary": "O presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> (PT) afirmou nesta quinta-feira (10) que o presidente do <a href=\"https://www1.folha.uol.com.br/folha-topicos/stf/\" rel=\"\" target=\"\">STF</a>, <a href=\"https://www1.folha.uol.com.",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-fachin-colocou-um-pouco-de-ordem-na-casa-mas-que-espera-mais-de-presidente-do-stf.shtml",
+          "published_at": "2026-09-10T20:17:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Cármen Lúcia cancela ida à Bienal do Livro em meio a crise no STF",
+          "summary": "A ministra <a href=\"https://www1.folha.uol.com.br/folha-topicos/carmen-lucia/\">Cármen Lúcia</a>, do Supremo Tribunal Federal (<a href=\"https://www1.folha.uol.com.br/folha-topicos/stf/\">STF</a>), cancelou a participação que faria nesta sexta-feira (11) na <a hr",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/carmen-lucia-cancela-ida-a-bienal-do-livro-em-meio-a-crise-no-stf.shtml",
+          "published_at": "2026-09-10T19:53:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "PF cita envio de R$ 645 mil de Mario Frias a produtora de 'Dark Horse' e questiona origem de recursos",
+          "summary": "Documento da <a href=\"https://www1.folha.uol.com.br/folha-topicos/policia-federal/\">Polícia Federal</a> divulgado nesta quinta-feira (10) aponta que o deputado federal <a href=\"https://www1.folha.uol.com.br/folha-topicos/mario-frias/\">Mario Frias</a> (<a href=",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pf-cita-envio-de-r-645-mil-de-mario-frias-a-produtora-de-dark-horse-e-questiona-origem-de-recursos.shtml",
+          "published_at": "2026-09-10T18:52:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Entenda o que se sabe sobre o caso 'Dark Horse' e a relação com o Banco Master",
+          "summary": "A Polícia Federal deflagrou <a href=\"https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/pf-deflagra-operacao-sobre-dinheiro-de-vorcaro-para-filme-de-bolsonaro.shtml\" rel=\"\" target=\"\">uma operação nesta quinta-feira (10)</a> contra 29 pessoas ligadas a",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/entenda-o-que-se-sabe-sobre-o-caso-dark-horse-e-a-relacao-com-o-banco-master.shtml",
+          "published_at": "2026-09-10T18:46:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
