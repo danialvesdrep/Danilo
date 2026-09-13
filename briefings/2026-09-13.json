@@ -1,0 +1,95 @@
+{
+  "date": "2026-09-13",
+  "weekday": "domingo",
+  "draft": true,
+  "generated_at": "2026-09-12T21:35:19.676655-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Ex-senador tucano diz que votou contra Mendonça ao STF por falta de cultura e saber jurídico",
+          "summary": "O ex-senador José Aníbal (<a href=\"https://www1.folha.uol.com.br/folha-topicos/psdb/\">PSDB</a>-SP) diz que votou contra a indicação de André Mendonça para ministro do Supremo Tribunal Federal, em 2021, e que, à luz da atual crise na corte, não se arrepende.\n<a",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/ex-senador-tucano-diz-que-votou-contra-mendonca-ao-stf-por-falta-de-cultura-e-saber-juridico.shtml",
+          "published_at": "2026-09-12T21:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Fachin afasta Mendonça de caso contra Moraes e manda parar apurações de Master e INSS",
+          "summary": "O presidente do <a href=\"https://www1.folha.uol.com.br/folha-topicos/stf/\">STF</a> (Supremo Tribunal Federal), <a href=\"https://www1.folha.uol.com.br/folha-topicos/edson-fachin/\">Edson Fachin</a>, determinou neste sábado (12) a troca da relatoria do procedimen",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fachin-tira-de-mendonca-relatoria-de-caso-moraes-e-abre-caminho-para-assumir-inqueritos-do-master-e-inss.shtml",
+          "published_at": "2026-09-12T20:49:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Fachin dá 24 horas para PF informar sobre custódia e estado de celular de Vorcaro",
+          "summary": "O presidente do <a href=\"https://www1.folha.uol.com.br/folha-topicos/stf/\">STF</a> (Supremo Tribunal Federal), ministro <a href=\"https://www1.folha.uol.com.br/folha-topicos/edson-fachin/\">Edson Fachin</a>, determinou que a Polícia Federal apresente em até 24 h",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fachin-da-24-horas-para-pf-informar-sobre-custodia-e-estado-de-celular-de-vorcaro.shtml",
+          "published_at": "2026-09-12T19:26:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Julgamento sobre relação de Moraes com Vorcaro será transmitido pela TV Justiça",
+          "summary": "A sessão do <a href=\"https://www1.folha.uol.com.br/folha-topicos/stf/\">STF</a> (Supremo Tribunal Federal) para avaliar o <a href=\"https://www1.folha.uol.com.br/poder/2026/09/mendonca-envia-a-pgr-mensagem-em-que-vorcaro-pede-protecao-de-gonet-e-de-chefe-da-pf.s",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/julgamento-sobre-relacao-de-moraes-com-vorcaro-sera-transmitido-pela-tv-justica.shtml",
+          "published_at": "2026-09-12T19:25:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Avaliação positiva de Lula vai de 46% em PE a 25% em SP, mostra Datafolha",
+          "summary": "Nova pesquisa <a href=\"https://www1.folha.uol.com.br/folha-topicos/datafolha/\">Datafolha</a> divulgada neste sábado (12) revela que Pernambuco é o estado que melhor avalia o governo do presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/avaliacao-positiva-de-lula-vai-de-46-no-pe-a-25-em-sp-mostra-datafolha.shtml",
+          "published_at": "2026-09-12T18:14:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "PF encontra na churrasqueira de Ciro Nogueira lista de deputados e fala em prováveis valores",
+          "summary": "A <a href=\"https://www1.folha.uol.com.br/folha-topicos/policia-federal/\" rel=\"\" target=\"\">Polícia Federal</a> encontrou uma lista escrita à mão na churrasqueira do senador <a href=\"https://www1.folha.uol.com.br/folha-topicos/ciro-nogueira/\" rel=\"\" target=\"\">Ci",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pf-encontra-na-churrasqueira-de-ciro-nogueira-lista-de-deputados-e-fala-em-provaveis-valores.shtml",
+          "published_at": "2026-09-12T18:02:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
