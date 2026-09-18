@@ -1,0 +1,95 @@
+{
+  "date": "2026-09-18",
+  "weekday": "sexta-feira",
+  "draft": true,
+  "generated_at": "2026-09-17T21:55:11.029364-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Datafolha: Lula ainda escapa de crise no STF, e Flávio tem sua melhor fase",
+          "summary": "A corrida pela Presidência entra na reta final com um movimento de consolidação simultâneo nas duas principais campanhas. A nova pesquisa do <a href=\"https://www1.folha.uol.com.br/folha-topicos/datafolha/\">Datafolha</a> mostra que <a href=\"https://www1.folha.u",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-ainda-escapa-de-crise-no-stf-e-flavio-tem-sua-melhor-fase.shtml",
+          "published_at": "2026-09-17T21:06:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Lula defende caneta emagrecedora de graça no SUS no mesmo dia de anúncio de reajuste para Bolsa Família",
+          "summary": "O presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pt/\">PT</a>) afirmou nesta quinta-feira (17) que canetas para emagrecimento deverão ser oferecidas gratuitamente pelo <a hre",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-defende-caneta-emagrecedora-de-graca-no-sus-no-mesmo-dia-de-anuncio-de-reajuste-para-bolsa-familia.shtml",
+          "published_at": "2026-09-17T20:55:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Flávio Bolsonaro repete Jair e diz que vai recrutar apoiadores para fiscalizar urnas",
+          "summary": "O senador e candidato à Presidência <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>-RJ) afirmou, nesta quinta-feira (17), que vai recrutar voluntário",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-repete-jair-e-diz-que-vai-recrutar-apoiadores-para-fiscalizar-urnas.shtml",
+          "published_at": "2026-09-17T20:54:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Campanha de Flávio Bolsonaro mantém liderança em doações eleitorais e recebe 17% mais que Lula",
+          "summary": "A campanha à Presidência do senador <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>-RJ) acumula, até esta quinta-feira (17), R$ 48,4 milhões em doaçõ",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/campanha-de-flavio-bolsonaro-mantem-lideranca-em-doacoes-eleitorais-e-recebe-17-mais-que-lula.shtml",
+          "published_at": "2026-09-17T19:57:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Datafolha: Lula tem 53% entre beneficiários do Bolsa Família, e Flávio Bolsonaro, 28%",
+          "summary": "Entre quem recebe <a href=\"https://www1.folha.uol.com.br/folha-topicos/bolsa-familia/\" rel=\"\" target=\"\">Bolsa Família</a> ou mora numa residência com beneficiários do programa, 53% votariam em <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\" rel=\"\" ",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-tem-53-entre-beneficiarios-do-bolsa-familia-e-flavio-bolsonaro-28.shtml",
+          "published_at": "2026-09-17T19:49:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Datafolha: Flávio Bolsonaro e Lula são rejeitados por 47% dos eleitores",
+          "summary": "Reflexo da polarização extrema do eleitorado brasileiro, os líderes da campanha presidencial continuam empatados no quesito rejeição. Dizem não votar de forma alguma em <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-flavio-bolsonaro-e-lula-sao-rejeitados-por-47-dos-eleitores.shtml",
+          "published_at": "2026-09-17T19:15:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
