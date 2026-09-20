@@ -1,0 +1,95 @@
+{
+  "date": "2026-09-20",
+  "weekday": "domingo",
+  "draft": true,
+  "generated_at": "2026-09-19T21:33:43.323391-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Advogada que recebeu R$ 33 mi do Master foi tratada como 'sócia' de Gilmar em mensagem, diz jornal",
+          "summary": "A advogada Dalide Corrêa, que recebeu R$ 33 milhões do <a href=\"https://www1.folha.uol.com.br/folha-topicos/banco-master/\">Banco Master</a>, foi citada em mensagem ao ex-banqueiro <a href=\"https://www1.folha.uol.com.br/folha-topicos/daniel-vorcaro/\">Daniel Vor",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/advogada-que-recebeu-r-33-mi-do-master-foi-tratada-como-socia-de-gilmar-em-mensagem-diz-jornal.shtml",
+          "published_at": "2026-09-19T18:08:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "PT votou em bloco contra indicação de Moraes em 2017 e reclamou de sua atitude militante",
+          "summary": "Hoje defensor do ministro <a href=\"https://www1.folha.uol.com.br/folha-topicos/alexandre-de-moraes/\">Alexandre de Moraes</a>, o <a href=\"https://www1.folha.uol.com.br/folha-topicos/pt/\">PT</a> votou em peso contra a indicação dele ao Supremo Tribunal Federal e",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/pt-votou-em-bloco-contra-indicacao-de-moraes-em-2017-e-reclamou-de-sua-atitude-militante.shtml",
+          "published_at": "2026-09-19T18:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Mendonça e Fux dizem que não conseguiram acessar conteúdo de celular de Vorcaro e pedem ajuda à PF",
+          "summary": "Os ministros do <a href=\"https://www1.folha.uol.com.br/folha-topicos/stf/\">STF</a> (Supremo Tribunal Federal) <a href=\"https://www1.folha.uol.com.br/folha-topicos/andre-mendonca/\" rel=\"\" target=\"\">André Mendonça</a> e <a href=\"https://www1.folha.uol.com.br/fol",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/mendonca-diz-que-gabinete-nao-conseguiu-acessar-conteudo-de-celular-de-vorcaro-e-pede-ajuda-a-pf.shtml",
+          "published_at": "2026-09-19T16:29:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Flávio Bolsonaro diz que Lula tenta comprar os pobres e aumentou Bolsa Família por desespero",
+          "summary": "O candidato à Presidência <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>) afirmou neste sábado (19), em ato de campanha em Joinville (SC), que o pre",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-diz-que-lula-tenta-comprar-os-pobres-e-aumentou-bolsa-familia-por-desespero.shtml",
+          "published_at": "2026-09-19T16:21:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Presidente do PT ameaça punir quem omitir Lula e majoritários em material de campanha",
+          "summary": "O presidente do <a href=\"https://www1.folha.uol.com.br/folha-topicos/pt/\">PT</a>, Edinho Silva, cobrou, na noite de sexta-feira (18), a inclusão do nome do presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> (PT) e de candidatos maj",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/presidente-do-pt-ameaca-punir-quem-omitir-lula-e-majoritarios-em-material-de-campanha.shtml",
+          "published_at": "2026-09-19T15:35:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Lula e Flávio vão concentrar agendas de campanha no Nordeste e Sudeste na reta final",
+          "summary": "O presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> (PT) e o senador <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>) v",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/lula-e-flavio-vao-concentrar-agendas-de-campanha-no-nordeste-e-sudeste-na-reta-final.shtml",
+          "published_at": "2026-09-19T15:00:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
