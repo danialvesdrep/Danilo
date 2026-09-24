@@ -1,0 +1,95 @@
+{
+  "date": "2026-09-24",
+  "weekday": "quinta-feira",
+  "draft": true,
+  "generated_at": "2026-09-23T21:59:04.633376-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Avanço de Flávio Bolsonaro faz Lula reavaliar estratégia, e presidente deve ir a debate da Globo",
+          "summary": "Antes <a href=\"https://www1.folha.uol.com.br/poder/2026/07/lula-avalia-faltar-a-debates-na-tv-durante-a-campanha-e-tema-divide-cupula-do-pt.shtml\" rel=\"\" target=\"\">propenso a participar apenas no segundo turno</a> das eleições, o presidente <a href=\"https://ww",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/avanco-de-flavio-bolsonaro-faz-lula-reavaliar-estrategia-e-presidente-deve-ir-a-debate-da-globo.shtml",
+          "published_at": "2026-09-23T21:50:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Na reta final de propaganda na TV, Flávio se diz alvo de ataques, e Lula mira governo Bolsonaro",
+          "summary": "A menos de duas semanas do primeiro turno,<a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\" rel=\"\" target=\"\"> Flávio Bolsonaro</a> (PL) usou a propaganda na TV desta terça-feira (22) para se colocar como alvo de ataques de<a href=\"https:/",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/na-reta-final-de-propaganda-na-tv-flavio-se-diz-alvo-de-ataques-e-lula-mira-governo-bolsonaro.shtml",
+          "published_at": "2026-09-23T20:54:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Campanha de Lula aciona STF e TSE por possível interferência dos EUA nas eleições",
+          "summary": "O jurídico da campanha do presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> (PT) acionou nesta quarta-feira (23) o <a href=\"https://www1.folha.uol.com.br/folha-topicos/stf/\">STF</a> (Supremo Tribunal Federal) para pedir a adoção d",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/campanha-de-lula-aciona-stf-e-tse-por-possivel-interferencia-dos-eua-nas-eleicoes.shtml",
+          "published_at": "2026-09-23T19:57:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Flávio Bolsonaro, investigado no caso 'Dark Horse', pede que Mendonça apure relação entre Lula e Vorcaro",
+          "summary": "O senador <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>), candidato à Presidência, pediu ao ministro <a href=\"https://www1.folha.uol.com.br/folha-t",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-investigado-no-caso-dark-horse-pede-que-mendonca-apure-relacao-entre-lula-e-vorcaro.shtml",
+          "published_at": "2026-09-23T19:36:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Quem é Newton Ramos, ex-juiz auxiliar de Kassio que arrastou ministro do STF para crise do Master",
+          "summary": "Apontado como<a href=\"https://www1.folha.uol.com.br/poder/2026/09/vorcaro-tinha-contrato-de-r-427-mi-com-turma-de-kassio-e-negociava-favores-diz-portal.shtml\" rel=\"\" target=\"\"> integrante da \"Turma do KN\"</a>, o juiz federal do TRF-1 (Tribunal Regional Federal",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quem-e-newton-ramos-ex-juiz-auxiliar-de-kassio-que-arrastou-ministro-do-stf-para-crise-do-master.shtml",
+          "published_at": "2026-09-23T19:06:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Datafolha divulga nova pesquisa presidencial nesta quinta (24); live comenta resultados",
+          "summary": "O <a href=\"https://www1.folha.uol.com.br/folha-topicos/datafolha/\">Datafolha</a> divulga nesta quinta-feira (24) nova rodada de pesquisa sobre a intenção de voto para presidente e para os governos de <a href=\"https://www1.folha.uol.com.br/folha-topicos/sao-pau",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-divulga-nova-pesquisa-presidencial-nesta-quinta-24-live-comenta-resultados.shtml",
+          "published_at": "2026-09-23T19:02:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
