@@ -1,0 +1,95 @@
+{
+  "date": "2026-09-25",
+  "weekday": "sexta-feira",
+  "draft": true,
+  "generated_at": "2026-09-24T22:03:21.649288-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Marçal é condenado a pagar R$ 10 mil por soprar farinha no rosto de dirigente da Rede",
+          "summary": "A Justiça de São Paulo condenou o influenciador <a href=\"https://www1.folha.uol.com.br/folha-topicos/pablo-marcal/\">Pablo Marçal</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/prtb/\">PRTB</a>) a pagar R$ 10 mil de indenização por dano moral ao dirig",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/marcal-e-condenado-a-pagar-r-10-mil-por-soprar-farinha-no-rosto-de-dirigente-da-rede.shtml",
+          "published_at": "2026-09-24T20:53:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Mensagens apontam relação de proximidade entre Alcolumbre e Vorcaro",
+          "summary": "Mensagens extraídas pela <a href=\"https://www1.folha.uol.com.br/folha-topicos/policia-federal/\">Polícia Federal</a> mostram que o presidente do <a href=\"https://www1.folha.uol.com.br/folha-topicos/senado/\">Senado</a>, <a href=\"https://www1.folha.uol.com.br/fol",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mensagens-apontam-relacao-de-proximidade-entre-alcolumbre-e-vorcaro.shtml",
+          "published_at": "2026-09-24T20:42:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Entre Lula e Flávio, Brasil dá as costas ao futuro, e Renan é candidato mais adequado, diz The Economist",
+          "summary": "Em <a href=\"https://www.economist.com/leaders/2026/09/24/brazil-turns-its-back-on-the-future\" rel=\"nofollow\" target=\"_blank\">editorial publicado nesta quinta-feira (24),</a> a revista britânica <a href=\"https://www1.folha.uol.com.br/folha-topicos/the-economist",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/entre-lula-e-flavio-brasil-da-as-costas-ao-futuro-e-renan-e-candidato-mais-adequado-diz-the-economist.shtml",
+          "published_at": "2026-09-24T20:38:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Quaest: Marcos Rogério lidera disputa em Rondônia com 37%, ante 21% de Adailton Fúria",
+          "summary": "O senador <a href=\"https://www1.folha.uol.com.br/ambiente/2025/05/senador-que-discutiu-com-marina-assinou-jabutis-que-elevam-conta-de-luz-e-poluicao.shtml\">Marcos Rogério (PL)</a> lidera a corrida eleitoral para o Governo de Rondônia, aponta pesquisa Quaest di",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-marcos-rogerio-lidera-disputa-em-rondonia-com-37-ante-21-de-adailton-furia.shtml",
+          "published_at": "2026-09-24T20:09:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Para além da inconveniência: distorções informacionais nas eleições",
+          "summary": "Nos últimos dias, esta <strong>Folha</strong> noticiou um estudo da organização Eko, baseada no Reino Unido,<a href=\"https://www1.folha.uol.com.br/poder/2026/09/meta-aprova-anuncios-politicos-falsos-com-ia-pagos-dos-eua-para-publico-brasileiro-mostra-estudo.sh",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/para-alem-da-inconveniencia-distorcoes-informacionais-nas-eleicoes.shtml",
+          "published_at": "2026-09-24T19:58:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Quaest: Aziz tem 29% e Maria do Carmo e Cidade estão empatados tecnicamente no Amazonas",
+          "summary": "O senador Omar Aziz (<a href=\"https://www1.folha.uol.com.br/folha-topicos/psd/\">PSD</a>) lidera a disputa pelo Governo do <a href=\"https://www1.folha.uol.com.br/folha-topicos/amazonas-estado/\" rel=\"\" target=\"\">Amazonas</a> com 29% das intenções de voto, segund",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-aziz-tem-29-e-maria-do-carmo-e-cidade-estao-empatados-tecnicamente-no-amazonas.shtml",
+          "published_at": "2026-09-24T19:42:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
