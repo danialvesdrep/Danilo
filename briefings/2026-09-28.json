@@ -1,0 +1,95 @@
+{
+  "date": "2026-09-28",
+  "weekday": "segunda-feira",
+  "draft": true,
+  "generated_at": "2026-09-27T22:20:00.468632-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Lula diz que não sabe se polêmica envolvendo Flávio Bolsonaro e Nossa Senhora é notícia falsa",
+          "summary": "O presidente Lula (PT) afirmou em entrevista à BandNews neste domingo (27) que mexer com Nossa Senhora Aparecida não é aceitável, em reação à onda de notícias falsas que afirmaram que <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Fláv",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-nao-sabe-se-polemica-envolvendo-flavio-bolsonaro-e-nossa-senhora-e-noticia-falsa.shtml",
+          "published_at": "2026-09-27T22:08:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Em Goiânia, Flávio Bolsonaro acusa CNBB de ajudar PT com fake news",
+          "summary": "O senador <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>), candidato à Presidência, acusou integrantes da CNBB (Conferência Nacional dos Bispos do B",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/em-goiania-flavio-bolsonaro-acusa-cnbb-de-ajudar-pt-com-fake-news.shtml",
+          "published_at": "2026-09-27T21:42:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Notícia falsa sobre Nossa Senhora tem impacto menor que Dark Horse",
+          "summary": "A propagação da notícia falsa de que o senador <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>) vai revogar o título de padroeira do Brasil de Nossa ",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/noticia-falsa-sobre-nossa-senhora-tem-impacto-menor-que-dark-horse.shtml",
+          "published_at": "2026-09-27T21:30:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Lula defende conselho para indicação de nomes ao STF e mandato para ministros",
+          "summary": "O presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> (PT) defendeu que ministros do <a href=\"https://www1.folha.uol.com.br/folha-topicos/stf/\">STF</a> (Supremo Tribunal Federal) tenham mandatos para concluir sua atuação na corte e ",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-defende-conselho-para-indicacao-de-nomes-ao-stf-e-mandato-para-ministros.shtml",
+          "published_at": "2026-09-27T21:26:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Evangélicos veem Nossa Senhora como serva de Deus, e não como objeto de culto",
+          "summary": "O protestantismo não cultua santos. Por isso, há tanta discordância entre evangélicos e católicos a respeito da devoção a Nossa Senhora, que veio à baila na semana passada diante da notícia falsa envolvendo Flávio Bolsonaro (PL) e Nossa Senhora Aparecida, padr",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/evangelicos-veem-nossa-senhora-como-serva-de-deus-e-nao-como-objeto-de-culto.shtml",
+          "published_at": "2026-09-27T21:12:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Especialistas apoiam decisão de Dino e alertam sobre intervenção judicial",
+          "summary": "A escalada do caso sobre a notícia falsa envolvendo <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>) e Nossa Senhora Aparecida levanta questionamento",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/especialistas-apoiam-decisao-de-dino-e-alertam-sobre-intervencao-judicial.shtml",
+          "published_at": "2026-09-27T20:59:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
