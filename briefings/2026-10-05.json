@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-05",
+  "weekday": "segunda-feira",
+  "draft": true,
+  "generated_at": "2026-10-04T22:26:33.537206-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Lula tem pior percentual de votos em 1º turno desde 1998",
+          "summary": "O presidente Luiz Inácio <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> da Silva (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pt/\">PT</a>) terminou o primeiro turno das eleições com o pior percentual de votos válidos para o perío",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-tem-pior-percentual-de-votos-em-1o-turno-desde-1998.shtml",
+          "published_at": "2026-10-04T22:20:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Tarcísio domina São Paulo e Haddad vence só em seis cidades; veja lista e mapas",
+          "summary": "O governador <a href=\"https://www1.folha.uol.com.br/folha-topicos/tarcisio-de-freitas/\">Tarcísio de Freitas</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/republicanos/\">Republicanos</a>), <a href=\"https://www1.folha.uol.com.br/poder/2026/10/tarcisi",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tarcisio-domina-sao-paulo-e-haddad-vence-so-em-seis-cidades-veja-lista-e-mapas.shtml",
+          "published_at": "2026-10-04T22:19:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Condenado na Lava Jato, Eduardo Cunha fracassa em voltar à Câmara por MG",
+          "summary": "O ex-presidente da <a href=\"https://www1.folha.uol.com.br/folha-topicos/camara-dos-deputados/\">Câmara dos Deputados</a>, <a href=\"https://www1.folha.uol.com.br/folha-topicos/eduardo-cunha/\">Eduardo Cunha</a> (Republicanos-MG), conquistou 31.634 votos nas urnas",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/condenado-na-lava-jato-eduardo-cunha-fracassa-em-voltar-a-camara-por-mg.shtml",
+          "published_at": "2026-10-04T22:14:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Veja os senadores eleitos em Sergipe",
+          "summary": "Rogerio Carvalho (PT) e Delegado Alessandro (MDB) foram eleitos senadores por Sergipe (SE).\n<a href=\"https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-os-senadores-eleitos-em-sergipe.shtml\">Leia mais</a> (10",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-os-senadores-eleitos-em-sergipe.shtml",
+          "published_at": "2026-10-04T22:14:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Eleições 2026: Não votou? Veja prazo e como justificar a ausência",
+          "summary": "Quem não conseguiu votar neste domingo (4), no <a href=\"https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-e-lula-estao-no-2o-turno-projeta-datafolha.shtml\" rel=\"\" target=\"\">primeiro turno das eleições 2026</a>, ainda tem tempo para regularizar a sit",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/eleicoes-2026-nao-votou-veja-prazo-e-como-justificar-a-ausencia.shtml",
+          "published_at": "2026-10-04T22:10:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "'Termina a primeira fase do campeonato brasileiro', diz Lula",
+          "summary": "O presidente Lula afirmou neste domingo (4) que &quot;termina a primeira fase do Campeonato Brasileiro&quot;, em referência ao fim do primeiro turno, que o conduziu à segunda rodada do pleito ao lado da Flávio Bolsonaro (PL).\n<a href=\"https://redir.folha.com.b",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://aovivo.folha.uol.com.br/poder/2026/10/03/6564-eleicoes-2026-acompanhe-as-principais-noticias-sobre-o-primeiro-turno.shtml#post467370",
+          "published_at": "2026-10-04T22:00:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
