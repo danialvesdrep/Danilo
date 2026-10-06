@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-06",
+  "weekday": "terça-feira",
+  "draft": true,
+  "generated_at": "2026-10-05T23:37:12.904830-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Missão aposta em expansão nacional, mas elege só dois deputados",
+          "summary": "Em sua primeira eleição como partido oficialmente registrado, o <a href=\"https://www1.folha.uol.com.br/folha-topicos/partido-missao/\" rel=\"\" target=\"\">Missão</a>, liderado pelo candidato à Presidência <a href=\"https://www1.folha.uol.com.br/folha-topicos/renan-",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/missao-aposta-em-expansao-nacional-mas-elege-so-dois-deputados.shtml",
+          "published_at": "2026-10-05T23:03:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Kassab vê PSD encolher no Congresso e perder estados após aposta em Caiado",
+          "summary": "Uma brincadeira recorrente da classe política diz que a melhor estratégia para decidir sobre alianças eleitorais é ver, antes, o que fez <a href=\"https://www1.folha.uol.com.br/folha-topicos/gilberto-kassab/\">Gilberto Kassab</a>, 66, presidente do <a href=\"http",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/kassab-ve-psd-encolher-no-congresso-e-perder-estados-apos-aposta-em-caiado.shtml",
+          "published_at": "2026-10-05T23:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Flávio Bolsonaro consolida apoios na direita e no centrão enquanto Lula sobe tom contra STF e mira quem não votou",
+          "summary": "O candidato do <a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a> à Presidência, <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>), rece",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-consolida-apoios-na-direita-e-no-centrao-enquanto-lula-sobe-tom-contra-stf-e-mira-quem-nao-votou.shtml",
+          "published_at": "2026-10-05T23:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Campanha de Lula avalia que MP das bets pode ter sido um erro",
+          "summary": "Integrantes da campanha de <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pt/\">PT</a>) avaliam que a<a href=\"https://www1.folha.uol.com.br/esporte/2026/09/clubes-paulistas-se-unem-cont",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/campanha-de-lula-avalia-que-mp-das-bets-pode-ter-sido-um-erro.shtml",
+          "published_at": "2026-10-05T21:48:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Entidades europeias veem riscos geopolítico, ambiental e comercial se Flávio Bolsonaro vencer",
+          "summary": "O jornal alemão Die Zeit gastou 11 linhas para dar a ficha corrida do ex-presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/jair-bolsonaro/\">Jair Bolsonaro</a> na abertura de uma reportagem publicada nesta segunda-feira (5). A intenção era pergunt",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/entidades-europeias-veem-riscos-geopolitico-ambiental-e-comercial-se-flavio-bolsonaro-vencer.shtml",
+          "published_at": "2026-10-05T20:58:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Flávio Bolsonaro busca Republicanos para ampliar onda de apoios no 2º turno",
+          "summary": "A campanha do presidenciável <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>) busca o apoio do Republicanos e espera consolidar o embarque do partido",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-busca-republicanos-para-ampliar-onda-de-apoios-no-2o-turno.shtml",
+          "published_at": "2026-10-05T20:49:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
