@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-07",
+  "weekday": "quarta-feira",
+  "draft": true,
+  "generated_at": "2026-10-06T22:55:22.507998-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Michelle Bolsonaro articula ida ao Amazonas para impulsionar candidata do PL",
+          "summary": "A ex-primeira-dama <a href=\"https://www1.folha.uol.com.br/folha-topicos/michelle-bolsonaro/\">Michelle Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>) quer ir ao Amazonas <a href=\"https://www1.folha.uol.com.br/poder/2026/10/omar",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/michelle-bolsonaro-articula-ida-ao-amazonas-para-impulsionar-candidata-do-pl.shtml",
+          "published_at": "2026-10-06T22:32:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Empresários se mobilizam no Congresso e alertam senadores sobre riscos do fim da 6x1",
+          "summary": "Com a retomada das discussões sobre o fim da <a href=\"https://www1.folha.uol.com.br/folha-topicos/escala-6x1/\">escala 6x1</a>, a <a href=\"https://www1.folha.uol.com.br/colunas/painelsa/2025/07/idiota-e-quem-trabalha-com-carteira-assinada-diz-presidente-da-fiem",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/empresarios-se-mobilizam-no-congresso-e-alertam-senadores-sobre-riscos-do-fim-da-6x1.shtml",
+          "published_at": "2026-10-06T22:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Flávio Bolsonaro diz que fim da reeleição não é para volta do pai à Presidência em 2030",
+          "summary": "O senador e candidato à Presidência <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>) afirmou nesta terça-feira (6) que vai <a href=\"https://www1.folh",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-diz-que-fim-da-reeleicao-nao-e-para-volta-do-pai-a-presidencia-em-2030.shtml",
+          "published_at": "2026-10-06T21:40:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Tereza Cristina deve ser ouvida na escolha do chanceler em eventual governo Flávio",
+          "summary": "A campanha de <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>) já passou a mapear nomes para ocupar ministérios em um eventual governo do bolsonarist",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/tereza-cristina-deve-ser-ouvida-na-escolha-do-chanceler-em-eventual-governo-flavio.shtml",
+          "published_at": "2026-10-06T21:38:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Campanha de Lula eleva o tom contra STF após revés no 1º turno",
+          "summary": "Após <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pt/\">PT</a>) ficar atrás de <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a> (<a href=\"h",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/campanha-de-lula-eleva-o-tom-contra-stf-apos-reves-no-1o-turno.shtml",
+          "published_at": "2026-10-06T20:55:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Moraes arquiva investigação contra bolsonaristas Marcos do Val, Allan dos Santos e Oswaldo Eustáquio",
+          "summary": "O ministro <a href=\"https://www1.folha.uol.com.br/folha-topicos/alexandre-de-moraes/\">Alexandre de Moraes</a>, do <a href=\"https://www1.folha.uol.com.br/folha-topicos/stf/\">STF</a> (Supremo Tribunal Federal), arquivou uma investigação contra o senador <a href=",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/moraes-arquiva-investigacao-contra-bolsonaristas-marcos-do-val-allan-dos-santos-e-oswaldo-eustaquio.shtml",
+          "published_at": "2026-10-06T20:50:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
