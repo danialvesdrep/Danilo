@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-10",
+  "weekday": "sábado",
+  "draft": true,
+  "generated_at": "2026-10-09T23:00:36.436644-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Lula dramatiza com IA criança levando arma à escola, e Flávio adota tom de eleito na TV",
+          "summary": "Na retomada da propaganda eleitoral de TV, nesta sexta-feira (9), os presidenciáveis <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a> (PL) e Luiz Inácio <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lul",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-dramatiza-com-ia-crianca-levando-arma-a-escola-e-flavio-adota-tom-de-eleito-na-tv.shtml",
+          "published_at": "2026-10-09T21:21:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Nome forte de Lula para campanha online, deputada eleita Ana Elisa sofre ataques racistas nas redes",
+          "summary": "A deputada federal eleita Ana Elisa (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pt/\">PT</a>), 21, mulher mais jovem a conquistar o cargo na história do Brasil, vem sofrendo ataques racistas nas redes sociais desde que foi escolhida pelo presidente <a",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/nome-forte-de-lula-para-campanha-online-deputada-eleita-ana-elisa-sofre-ataques-racistas-nas-redes.shtml",
+          "published_at": "2026-10-09T21:08:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Ministra do TSE manda tirar do ar site com esquema de criptomoedas pró-Flávio",
+          "summary": "A ministra Estela Aranha, do<a href=\"https://www1.folha.uol.com.br/folha-topicos/tse/\"> TSE</a> (Tribunal Superior Eleitoral), mandou derrubar nesta sexta-feira (9) o site de venda de criptomoedas que hospeda um esquema que distribui tokens para usuários media",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ministra-do-tse-tira-do-ar-site-com-esquema-de-criptomoedas-pro-flavio.shtml",
+          "published_at": "2026-10-09T21:03:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Receita para eleger um Bolsonaro",
+          "summary": "1. Faça como Biden e Kamala: prometa mais do mesmo, a continuidade de um governo mal avaliado. Exiba-se como candidato da ordem, do status quo, forjando alianças com o Centrão de Alcolumbre e Motta. Na véspera do voto, despeje bondades, tratando os cidadãos co",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2026/10/receita-para-eleger-um-bolsonaro.shtml",
+          "published_at": "2026-10-09T20:25:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Flávio propõe superministério social com Bolsa Família e 'nova mentalidade'",
+          "summary": "Anunciado por <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>) na reestreia de seu programa de TV, nesta sexta-feira (9), o Ministério da Prosperidad",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/flavio-propoe-superministerio-social-com-bolsa-familia-e-nova-mentalidade.shtml",
+          "published_at": "2026-10-09T20:22:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Entidades pedem suspensão de criptomoeda que paga por posts pelo voto 22",
+          "summary": "Quatro organizações da sociedade civil protocolaram nesta sexta-feira (9) uma representação à Procuradoria-Geral Eleitoral pedindo que sejam apuradas as <a href=\"https://www1.folha.uol.com.br/poder/2026/10/site-distribui-criptomoedas-em-troca-de-divulgacao-de-",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/entidades-pedem-suspensao-de-criptomoeda-que-paga-por-posts-pelo-voto-22.shtml",
+          "published_at": "2026-10-09T19:50:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
