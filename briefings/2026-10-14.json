@@ -2,7 +2,7 @@
   "date": "2026-10-14",
   "weekday": "quarta-feira",
   "draft": true,
-  "generated_at": "2026-10-13T00:18:04.551631-03:00",
+  "generated_at": "2026-10-13T22:30:01.171195-03:00",
   "headline_overall": "",
   "summary_top3": [],
   "sections": [
@@ -25,19 +25,51 @@
       "items": [
         {
           "urgency": "medium",
-          "headline": "Semana terá duas pesquisas eleitorais presidenciais para o 2º turno; veja quando saem Quaest e Datafolha",
-          "summary": "<img src=\"https://s2-g1.glbimg.com/r4EWrZnESA0gDM0hXMrn4YRdYFE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/O/c4G71pSPun6me3w9GAWA/montagens-home.png\" /><br />     Flávio Bolsonaro (PL) e Lula (PT) disputam o 2º turno\nDie",
-          "source": "G1 Política",
-          "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/13/novas-pesquisas-eleitorais-presidenciais-2o-turno-quaest-e-datafolha.ghtml",
-          "published_at": "2026-10-13T00:00:00-03:00"
+          "headline": "Regra do governo Lula contra golpes prejudica pesquisas eleitorais por telefone",
+          "summary": "A nova regra criada pelo governo <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pt/\">PT</a>) <a href=\"https://www1.folha.uol.com.br/cotidiano/2026/10/governo-lula-determina-bloqueio-de",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/regra-do-governo-lula-contra-golpes-prejudica-pesquisas-eleitorais-por-telefone.shtml",
+          "published_at": "2026-10-13T22:23:00-03:00"
         },
         {
           "urgency": "medium",
-          "headline": "Papa Leão XIV será internado nesta terça para remover nódulo no pulmão; veja o que se sabe",
-          "summary": "<img src=\"https://s2-g1.glbimg.com/krMjtdt5EbVYN-KlCM5CCWVXMBg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/8/ZA5tuORaAfvDEuAKI4Qg/afp-20261011-d2wa2zn-v1-highres-vaticanreligionpopeangelus.jpg\" /><br />     Operação do p",
-          "source": "G1 Mundo",
-          "url": "https://g1.globo.com/mundo/noticia/2026/10/13/papa-leao-xiv-sera-internado-nesta-terca-para-remover-nodulo-no-pulmao-veja-o-que-se-sabe.ghtml",
-          "published_at": "2026-10-13T00:00:01-03:00"
+          "headline": "Ato a favor de Lula convocado por estudantes ocupa Esplanada dos Ministérios, em Brasília",
+          "summary": "Um <a href=\"https://www1.folha.uol.com.br/poder/2026/10/rio-tem-ato-de-apoiadores-de-lula-em-copacabana-durante-feriado-nacional.shtml\" rel=\"\" target=\"\">ato em apoio</a> à reeleição de <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\" rel=\"\" target=\"",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ato-a-favor-de-lula-convocado-por-estudantes-ocupa-esplanada-dos-ministerios-em-brasilia.shtml",
+          "published_at": "2026-10-13T22:17:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Van com marca do MEC busca estudantes em comitê de campanha após gravação com Lula",
+          "summary": "Uma van com identificação do <a href=\"https://www1.folha.uol.com.br/folha-topicos/mec/\">MEC</a> (Ministério da Educação) buscou, na tarde desta terça-feira (13), estudantes no comitê da campanha de reeleição do presidente Luiz Inácio <a href=\"https://www1.folh",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/van-com-marca-do-mec-busca-estudantes-em-comite-de-campanha-apos-gravacao-com-lula.shtml",
+          "published_at": "2026-10-13T21:13:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Tarcísio tinha expectativa de ser candidato a presidente, diz Flávio Bolsonaro",
+          "summary": "O senador <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>), que concorre com o presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\"",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tarcisio-tinha-expectativa-de-ser-candidato-a-presidente-diz-flavio-bolsonaro.shtml",
+          "published_at": "2026-10-13T20:50:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Novo ato pró-Lula em SP tem jovens eleitos, Haddad, Tebet e Marina após derrotas no 1° turno",
+          "summary": "A campanha pela reeleição do presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pt/\">PT</a>) mobilizou, nesta terça-feira (13), aliados derrotados e jovens eleitos no primeiro t",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/novo-ato-pro-lula-em-sp-tem-jovens-eleitos-haddad-tebet-e-marina-apos-derrotas-no-1-turno.shtml",
+          "published_at": "2026-10-13T20:40:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Campanha de Flávio não assina regras do debate da Globo e não garante presença",
+          "summary": "Após reunião nesta terça-feira (13), a campanha de <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>) não assinou o documento que contém as regras e di",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/campanha-de-flavio-nao-assina-regras-do-debate-da-globo-e-nao-garante-presenca.shtml",
+          "published_at": "2026-10-13T20:15:00-03:00"
         }
       ]
     },
