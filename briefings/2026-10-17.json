@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-17",
+  "weekday": "sábado",
+  "draft": true,
+  "generated_at": "2026-10-16T21:55:41.268215-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Flávio Bolsonaro nega Eduardo chanceler e diz que 'não está no radar' nomear Jair",
+          "summary": "O senador <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\" rel=\"\" target=\"\">Flávio Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>), candidato à Presidência, disse nesta sexta-feira (16) em sabatina na <a ",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-nega-eduardo-chanceler-e-diz-que-nao-esta-no-radar-nomear-jair.shtml",
+          "published_at": "2026-10-16T21:52:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Sabatina de Flávio Bolsonaro na Globo provoca panelaços de apoiadores de Lula",
+          "summary": "A entrevista do senador <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>), candidato à Presidência da República, à TV Globo nesta sexta-feira (16) ger",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/sabatina-de-flavio-bolsonaro-na-globo-provoca-panelacos-de-apoiadores-de-lula.shtml",
+          "published_at": "2026-10-16T21:26:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Lula diz que Globo está sob suspeição após almoço de Flávio Bolsonaro com direção da emissora",
+          "summary": "O presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pt/\">PT</a>) atacou a <a href=\"https://www1.folha.uol.com.br/folha-topicos/globo/\">Globo</a> nesta sexta-feira (16), durante",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-diz-que-globo-esta-sob-suspeicao-apos-almoco-de-flavio-bolsonaro-com-direcao-da-emissora.shtml",
+          "published_at": "2026-10-16T20:41:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Evento de Alckmin no interior de SP reúne prefeitos de PL, PP e União Brasil",
+          "summary": "O vice-presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/geraldo-alckmin/\">Geraldo Alckmin</a>, candidato à reeleição na chapa de <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> (<a href=\"https://www1.folha.uol.com.br/folha-t",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/evento-de-alckmin-no-interior-de-sp-reune-prefeitos-de-pl-pp-e-uniao-brasil.shtml",
+          "published_at": "2026-10-16T19:39:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Metrópoles publica reportagem mentirosa em retaliação a denúncia sobre o site revelada pelo UOL e reproduzida pela Folha",
+          "summary": "O portal Metrópoles, de propriedade do ex-senador Luiz Estevão, condenado a 31 anos de prisão por desvio de recursos públicos, depois indultado pelo então presidente Jair Bolsonaro, publica uma reportagem mentirosa em retaliação a denúncia revelada pelo UOL e ",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/metropoles-prepara-reportagem-em-retaliacao-a-denuncia-sobre-o-site-revelada-pelo-uol-e-republicada-pela-folha.shtml",
+          "published_at": "2026-10-16T19:25:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Meta diz não interferir em eleições no Brasil e descreve problemas como 'incidentes técnicos'",
+          "summary": "Em comunicado divulgado nesta sexta-feira (16), a Meta afirmou que não está interferindo nas eleições brasileiras e disse que os episódios relatados <a href=\"https://www1.folha.uol.com.br/poder/2026/10/em-mensagens-internas-meta-admite-que-contas-de-lula-foram",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/meta-diz-nao-interferir-em-eleicoes-no-brasil-e-descreve-problemas-como-incidentes-tecnicos.shtml",
+          "published_at": "2026-10-16T19:13:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
