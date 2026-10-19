@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-19",
+  "weekday": "segunda-feira",
+  "draft": true,
+  "generated_at": "2026-10-18T21:39:13.314332-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Senador eleito propõe regras mais rígidas para concessão de benefícios em ano eleitoral",
+          "summary": "O deputado federal e senador eleito Sanderson (PL-RS) apresentou um projeto de lei que impõe regras mais rigorosas à criação, ampliação e <a href=\"https://www1.folha.uol.com.br/mercado/2026/09/bolsonaro-tambem-ampliou-beneficios-em-ano-eleitoral-stf-invalidou-",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/senador-eleito-propoe-regras-mais-rigidas-para-concessao-de-beneficios-em-ano-eleitoral.shtml",
+          "published_at": "2026-10-18T21:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Míssil inflável levado a ato de Flávio Bolsonaro em SP pede ataque de Trump no Brasil",
+          "summary": "Um míssil inflável estampado com uma frase que pede que <a href=\"https://www1.folha.uol.com.br/folha-topicos/donald-trump/\">Donald Trump</a>, presidente dos <a href=\"https://www1.folha.uol.com.br/folha-topicos/estados-unidos/\">Estados Unidos</a>, faça um ataqu",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/missil-inflavel-levado-a-ato-de-flavio-bolsonaro-em-sp-pede-ataque-de-trump-no-brasil.shtml",
+          "published_at": "2026-10-18T19:41:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Flávio Bolsonaro é investigado no STF por suspeita de lavagem com advogado do caso INSS",
+          "summary": "A Polícia Federal enviou ao <a href=\"https://www1.folha.uol.com.br/folha-topicos/stf/\">STF</a> (Supremo Tribunal Federal) um pedido de inquérito contra o senador e candidato à Presidência <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-e-investigado-no-stf-por-suspeita-de-lavagem-com-advogado-do-caso-inss.shtml",
+          "published_at": "2026-10-18T18:44:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Ato a favor de Lula convocado por Caetano reúne artistas e ocupa orla do Rio",
+          "summary": "O ato pela democracia, marcado em apoio ao presidente Luiz Inácio <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> da Silva (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pt/\">PT</a>), ocupa pelo menos seis quarteirões da praia de Co",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ato-a-favor-de-lula-convocado-por-caetano-reune-artistas-e-ocupa-orla-do-rio.shtml",
+          "published_at": "2026-10-18T17:34:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Vantagem de Lula sobre os Bolsonaro cai em 98% das cidades do Nordeste",
+          "summary": "Na rodovia que leva ao centro de Dom Macedo Costa, município de 4.407 habitantes do Recôncavo Baiano, bandeiras verde e amarelas estão penduradas nas portas das casas. Um comitê instalado na praça central, junto à prefeitura, distribui adesivos a apoiadores de",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/vantagem-de-lula-sobre-os-bolsonaro-cai-em-98-das-cidades-do-nordeste.shtml",
+          "published_at": "2026-10-18T17:33:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Organizações cobram transparência e equilíbro após denúncias de restrições a conteúdos pró-Lula",
+          "summary": "Organizações de defesa dos direitos digitais e da liberdade de expressão estão organizando um ato em frente à sede da <a href=\"https://www1.folha.uol.com.br/folha-topicos/meta/\">Meta</a> no Brasil, na região da Faria Lima, em São Paulo, nesta segunda-feira (19",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/organizacoes-cobram-transparencia-e-equilibro-apos-denuncias-de-restricoes-a-conteudos-pro-lula.shtml",
+          "published_at": "2026-10-18T17:32:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
