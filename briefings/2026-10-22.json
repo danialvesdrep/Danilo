@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-22",
+  "weekday": "quinta-feira",
+  "draft": true,
+  "generated_at": "2026-10-21T22:07:19.316176-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Grupo de esquerda fará protesto em frente à Globo para exigir checagem em debate presidencial",
+          "summary": "A organização de esquerda Levante Popular da Juventude fará nesta quinta-feira (22) uma manifestação em frente à sede da TV Globo no Jardim Botânico, no Rio de Janeiro, para que a emissora faça <a href=\"https://www1.folha.uol.com.br/poder/2026/10/tarcisio-trei",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/grupo-de-esquerda-fara-protesto-em-frente-a-globo-para-exigir-checagem-em-debate-presidencial.shtml",
+          "published_at": "2026-10-21T22:01:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Ato de estudantes de direita em SP tem clima de Carnaval, bebida no gargalo e ligação de Tarcísio",
+          "summary": "A entrada do Insper da rua Quatá, na zona sul paulistana, foi tomada por estudantes em um ato de apoio a <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL<",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ato-de-estudantes-de-direita-em-sp-tem-clima-de-carnaval-bebida-no-gargalo-e-ligacao-de-tarcisio.shtml",
+          "published_at": "2026-10-21T21:44:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Lula compara desafio do sigilo a Flávio a truco e diz que terá celular para entrar no canal de Janones",
+          "summary": "O presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pt/\">PT</a>) comparou nesta quarta-feira (21) a disputa com <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bols",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-compara-desafio-do-sigilo-a-flavio-a-truco-e-diz-que-tera-celular-para-entrar-no-canal-de-janones.shtml",
+          "published_at": "2026-10-21T21:36:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Juristas e estudantes realizam ato pela democracia na USP e leem manifesto",
+          "summary": "Juristas, advogados, professores e estudantes de direito da <a href=\"https://www1.folha.uol.com.br/folha-topicos/usp/\">USP</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/universidade/\">Universidade</a> de São Paulo) realizaram um ato apartidário pró",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/juristas-e-estudantes-realizam-ato-pela-democracia-na-usp-e-leem-manifesto.shtml",
+          "published_at": "2026-10-21T21:05:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Tarcísio treinará Flávio Bolsonaro para debate na Globo em tática para diminuir papel de Marçal",
+          "summary": "O governador de São Paulo, <a href=\"https://www1.folha.uol.com.br/folha-topicos/tarcisio-de-freitas/\">Tarcísio de Freitas</a> (Republicanos), vai participar do treinamento do presidenciável <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tarcisio-treinara-flavio-bolsonaro-para-debate-na-globo-em-tatica-para-diminuir-papel-de-marcal.shtml",
+          "published_at": "2026-10-21T21:04:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Com PSB e PDT, apoio à reeleição de Motta ultrapassa metade dos deputados da Câmara",
+          "summary": "Com o <a href=\"https://www1.folha.uol.com.br/folha-topicos/psb/\">PSB</a> e o <a href=\"https://www1.folha.uol.com.br/folha-topicos/pdt/\">PDT</a>, o número de deputados que integram partidos que já declararam que vão apoiar a reeleição do presidente da <a href=\"",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/com-psb-e-pdt-apoio-a-reeleicao-de-motta-ultrapassa-metade-dos-deputados-da-camara.shtml",
+          "published_at": "2026-10-21T19:19:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
