@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-29",
+  "weekday": "quinta-feira",
+  "draft": true,
+  "generated_at": "2026-10-28T23:01:14.105695-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Moraes autoriza presidente do PL a visitar Bolsonaro após derrota e fuga de Flávio",
+          "summary": "O ministro do <a href=\"https://www1.folha.uol.com.br/folha-topicos/stf/\">STF</a> (Supremo Tribunal Federal) <a href=\"https://www1.folha.uol.com.br/folha-topicos/alexandre-de-moraes/\">Alexandre de Moraes</a> autorizou nesta quarta-feira (28) a visita do preside",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/moraes-autoriza-presidente-do-pl-a-visitar-bolsonaro-apos-derrota-e-fuga-de-flavio.shtml",
+          "published_at": "2026-10-28T22:44:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Eduardo e Ramagem publicam fotos com Flávio Bolsonaro após fuga de senador para os EUA",
+          "summary": "Os ex-deputados federais <a href=\"https://www1.folha.uol.com.br/folha-topicos/eduardo-bolsonaro/\">Eduardo Bolsonaro</a> e <a href=\"https://www1.folha.uol.com.br/folha-topicos/alexandre-ramagem/\">Alexandre Ramagem</a> publicaram em suas redes sociais, nesta qua",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/eduardo-e-ramagem-publicam-fotos-com-flavio-bolsonaro-apos-fuga-de-senador-para-os-eua.shtml",
+          "published_at": "2026-10-28T22:35:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Oposição da Argentina exige explicações de Milei sobre fuga de Flávio",
+          "summary": "A oposição na <a href=\"https://www1.folha.uol.com.br/folha-topicos/argentina/\">Argentina</a> impulsiona desde esta terça-feira (27) diversas iniciativas para pressionar o governo de <a href=\"https://www1.folha.uol.com.br/folha-topicos/javier-milei/\">Javier Mil",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/oposicao-da-argentina-exige-explicacoes-de-milei-sobre-fuga-de-flavio.shtml",
+          "published_at": "2026-10-28T22:10:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Flávio não é perseguido, não há ditadura judicial",
+          "summary": "A família Bolsonaro nunca se destacou pela coragem. Nem pela honestidade ou defesa da liberdade. Encontre na família uma virtude, um projeto de valor público, um gesto de civilidade. Uma ideia que não remeta à arma ou à tortura.\n<a href=\"https://redir.folha.co",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2026/10/flavio-nao-e-perseguido-nao-ha-ditadura-judicial.shtml",
+          "published_at": "2026-10-28T21:20:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Nunes não comenta carta golpista de Flávio e diz que oposição deve fiscalizar Lula",
+          "summary": "Após a divulgação da <a href=\"https://www1.folha.uol.com.br/poder/2026/10/em-carta-divulgada-por-aliados-flavio-bolsonaro-se-diz-presidente-eleito-do-brasil-apos-chegar-aos-eua-fugido.shtml\" rel=\"\" target=\"\">carta golpista de Flávio Bolsonaro (PL-RJ)</a>, o pr",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/nunes-nao-comenta-carta-golpista-de-flavio-e-diz-que-oposicao-deve-fiscalizar-lula.shtml",
+          "published_at": "2026-10-28T21:19:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Carta de Flávio Bolsonaro mente sobre 'fraude eleitoral' e distorce fatos; veja",
+          "summary": "A <a href=\"https://www1.folha.uol.com.br/poder/2026/10/em-carta-divulgada-por-aliados-flavio-bolsonaro-se-diz-presidente-eleito-do-brasil-apos-chegar-aos-eua-fugido.shtml\" rel=\"\" target=\"\">carta golpista divulgada</a> por <a href=\"https://www1.folha.uol.com.br",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/carta-de-flavio-bolsonaro-mente-sobre-fraude-eleitoral-e-distorce-fatos-veja.shtml",
+          "published_at": "2026-10-28T21:16:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
