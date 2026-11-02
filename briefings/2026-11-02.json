@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-02",
+  "weekday": "segunda-feira",
+  "draft": true,
+  "generated_at": "2026-11-01T22:59:53.504533-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Modelo da reforma eleitoral divide Câmara e ameaça implodir acordo para frear PL",
+          "summary": "O modelo da reforma eleitoral em discussão na Câmara para frear um possível crescimento do PL nas próximas eleições divide os deputados federais e <a href=\"https://www1.folha.uol.com.br/poder/2026/10/motta-define-com-centrao-proposta-de-reforma-eleitoral-e-que",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/modelo-da-reforma-eleitoral-divide-camara-e-ameaca-implodir-acordo-para-frear-pl.shtml",
+          "published_at": "2026-11-01T22:04:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Flávio Bolsonaro critica Moraes ao falar de 'juiz que acordou com vontade de fazer o mal'",
+          "summary": "O senador <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a> (PL-RJ), que <a href=\"https://www1.folha.uol.com.br/poder/2026/11/aliados-avisaram-flavio-bolsonaro-sobre-risco-de-prisao-e-de-ele-virar-novo-jair.shtml\" rel",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/flavio-bolsonaro-critica-moraes-ao-falar-de-juiz-que-acordou-com-vontade-de-fazer-o-mal.shtml",
+          "published_at": "2026-11-01T20:07:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Governadora do RN é cotada para ministério da área social de Lula",
+          "summary": "A governadora do Rio Grande do Norte, <a href=\"https://www1.folha.uol.com.br/folha-topicos/fatima-bezerra/\">Fátima Bezerra</a> (PT), tem sido citada na bolsa de apostas do Palácio do Planalto para compor o governo <a href=\"https://www1.folha.uol.com.br/folha-t",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/governadora-do-rn-e-cotada-para-ministerio-da-area-social-de-lula.shtml",
+          "published_at": "2026-11-01T19:38:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Defesa de Flávio Bolsonaro pede que Moraes seja impedido de relatar inquérito e quer troca por Mendonça",
+          "summary": "A defesa de <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a> (PL-RJ) pediu, nesta sexta-feira (30), que o ministro <a href=\"https://www1.folha.uol.com.br/folha-topicos/alexandre-de-moraes/\">Alexandre de Moraes</a> se",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/defesa-de-flavio-bolsonaro-pede-que-moraes-seja-impedido-de-relatar-inquerito-e-quer-troca-por-mendonca.shtml",
+          "published_at": "2026-11-01T17:42:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Aliados avisaram Flávio Bolsonaro sobre risco de prisão e de ele virar novo Jair",
+          "summary": "Quando o senador <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>-RJ) se reuniu com seus advogados e principais aliados políticos na segunda-feira (26",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/aliados-avisaram-flavio-bolsonaro-sobre-risco-de-prisao-e-de-ele-virar-novo-jair.shtml",
+          "published_at": "2026-11-01T17:36:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Atos estudantis têm críticas a Flávio Bolsonaro e atuação dos EUA nas eleições",
+          "summary": "Estudantes fizeram manifestações neste domingo (1º), em estados como <a href=\"https://www1.folha.uol.com.br/folha-topicos/sao-paulo-estado/\" rel=\"\" target=\"\">São Paulo</a> e <a href=\"https://www1.folha.uol.com.br/folha-topicos/rio-de-janeiro-estado/\" rel=\"\" ta",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/atos-estudantis-tem-criticas-a-flavio-bolsonaro-e-atuacao-dos-eua-nas-eleicoes.shtml",
+          "published_at": "2026-11-01T16:42:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
