@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-04",
+  "weekday": "quarta-feira",
+  "draft": true,
+  "generated_at": "2026-11-03T00:47:42.634178-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "EUA: Trump em xeque nas eleições de meio de mandato - O Assunto #1837",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/Lv-3U8URt_n76OGl2GcYiTITh0A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/I/q/XP2iyWRFemZ3yBhHnowA/afp-20250930-77ax7hx-v2-midres-deadlineforcongresstoadoptbudgetandavoidshutdown.jpg\" /><br",
+          "source": "G1 Política",
+          "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/03/eua-trump-em-xeque-nas-eleicoes-de-meio-de-mandato-o-assunto-1837.ghtml",
+          "published_at": "2026-11-03T00:30:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Senado deve votar nesta terça PEC da Segurança Pública",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/02p_OF8810XtqXbk0SN7NCy9-Ck=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/B/yPDrWCRMOuo3KZv0zBxQ/edicao-imagens-g1-2026-10-15t071017.344.png\" /><br />     Alcolumbre pauta votação da PEC ",
+          "source": "G1 Política",
+          "url": "https://g1.globo.com/politica/noticia/2026/11/03/senado-deve-votar-nesta-terca-pec-da-seguranca-publica.ghtml",
+          "published_at": "2026-11-03T00:00:01-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "EUA vão às urnas para renovar o Congresso; eleição é decisiva para Trump",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/vv50cPv5jrQP21Pn4HkVsIikR3I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/u/1TAnFkSb29msTUcLJ9ug/2026-10-23t202915z-729126688-rc289oay8dlx-rtrmadp-3-usa-trump.jpg\" /><br />     EUA vão às",
+          "source": "G1 Mundo",
+          "url": "https://g1.globo.com/mundo/ao-vivo/eleicoes-nos-eua-2026-acompanhe-as-ultimas-noticias-sobre-as-midterms.ghtml",
+          "published_at": "2026-11-03T00:03:02-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Midterms 2026: Trump pode perder a maioria na Câmara dos EUA? Veja projeções",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/fY4gZHWB3QHPh8H_uDW9lextG-Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/6/rkDYmXSCeHG0mVMTbcWg/261102-grafico-eleicao-para-a-camara-dos-estados-unidos.jpg\" /><br />     Por que Trump es",
+          "source": "G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/03/midterms-2026-trump-pode-perder-a-maioria-na-camara-dos-eua-veja-projecoes.ghtml",
+          "published_at": "2026-11-03T00:00:01-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Eleições nos EUA: americanos vão às urnas em votação que pode redefinir o poder de Trump no Congresso",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/xEFF-Xfbvp8GscCYLTxV4MLzV9g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/w/O/PFSfA1TvyVd6BjHnOczg/2022-11-08t131839z-2077520762-rc2nhx94yqte-rtrmadp-3-usa-election-pennsylvania.jpg\" /><br ",
+          "source": "G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/03/eleicoes-nos-eua-americanos-vao-as-urnas-em-votacao-que-pode-redefinir-o-poder-de-trump-no-congresso.ghtml",
+          "published_at": "2026-11-03T00:00:01-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Por que as eleições nos EUA são sempre em uma terça-feira de novembro",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/csf6reyReZXoEXUBkHhNSPCxDc8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/c/eXDwxcQRmRnyJXSO44wQ/2026-11-01t204021z-1780929764-rc28foaz9ks3-rtrmadp-3-usa-election-ohio.jpg\" /><br />     P",
+          "source": "G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/03/por-que-as-eleicoes-nos-eua-sao-sempre-em-uma-terca-feira-de-novembro.ghtml",
+          "published_at": "2026-11-03T00:00:01-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
