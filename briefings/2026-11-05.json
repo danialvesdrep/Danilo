@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-05",
+  "weekday": "quinta-feira",
+  "draft": true,
+  "generated_at": "2026-11-04T23:58:54.043757-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Alcolumbre diz que analisará situação de Flávio Bolsonaro, que votou em sessão estando nos EUA",
+          "summary": "O presidente do <a href=\"https://www1.folha.uol.com.br/folha-topicos/senado/\">Senado</a> Federal, <a href=\"https://www1.folha.uol.com.br/folha-topicos/davi-alcolumbre/\">Davi Alcolumbre</a> (União-AP), afirmou nesta quarta-feira (4) que irá analisar questão de ",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/alcolumbre-diz-que-analisara-situacao-de-flavio-bolsonaro-que-votou-em-sessao-estando-nos-eua.shtml",
+          "published_at": "2026-11-04T23:36:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Tarcísio reorganiza secretariado de olho na sucessão na capital e em 2030",
+          "summary": "A equipe que <a href=\"https://www1.folha.uol.com.br/folha-topicos/tarcisio-de-freitas/\">Tarcísio de Freitas</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/republicanos/\">Republicanos</a>) está montando para seu segundo mandato mira criar condições p",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/tarcisio-reorganiza-secretariado-de-olho-na-sucessao-na-capital-e-em-2030.shtml",
+          "published_at": "2026-11-04T23:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Eleição nos EUA com revés de Trump tem celebração de lulistas e crítica de Nikolas a Janja",
+          "summary": "A <a href=\"https://www1.folha.uol.com.br/mundo/2026/11/comeca-apuracao-nos-eua-em-disputa-que-ameaca-maioria-pro-trump.shtml\" rel=\"\" target=\"\">vitória do Partido Democrata nas eleições de meio de mandato</a> dos <a href=\"https://www1.folha.uol.com.br/folha-top",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/eleicao-nos-eua-com-reves-de-trump-tem-celebracao-de-lulistas-e-critica-de-nikolas-a-janja.shtml",
+          "published_at": "2026-11-04T20:05:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Ex-secretário responsável pela PEC da Segurança diz que medidas populistas a desvirtuaram",
+          "summary": "Ex-secretário nacional de Segurança Pública no governo <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> (PT), <a href=\"https://www1.folha.uol.com.br/cotidiano/2026/02/faltou-comunicacao-mais-efetiva-dos-projetos-diz-sarrubbo-sobre-trabalho-",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/ex-secretario-responsavel-pela-pec-da-seguranca-diz-que-medidas-populistas-a-desvirtuaram.shtml",
+          "published_at": "2026-11-04T17:31:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Lula deve defender cuidado com contas públicas e agradecer por votos em 1º pronunciamento na TV após reeleição",
+          "summary": "O presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> (PT) deve defender o cuidado com as <a href=\"https://www1.folha.uol.com.br/folha-topicos/contas-publicas/\">contas públicas</a> em seu primeiro <a href=\"https://www1.folha.uol.com",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/lula-deve-defender-cuidado-com-contas-publicas-e-agradecer-por-votos-em-1o-pronunciamento-na-tv-apos-reeleicao.shtml",
+          "published_at": "2026-11-04T17:04:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Prêmio reconhece projetos e lideranças que transformam o Judiciário",
+          "summary": "A 7ª edição do Prêmio de Inovação <a href=\"http://j.ex\" target=\"_blank\">J.Ex</a>, que será entregue no dia 16 de novembro, reconhecerá projetos e profissionais que contribuem para a transformação da Justiça por meio de tecnologia, novas práticas de gestão e me",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/premio-reconhece-projetos-e-liderancas-que-transformam-o-judiciario.shtml",
+          "published_at": "2026-11-04T16:19:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
