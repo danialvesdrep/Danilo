@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-07",
+  "weekday": "sábado",
+  "draft": true,
+  "generated_at": "2026-11-06T23:29:21.965632-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Senador eleito, presidente da Alesp tenta emplacar novato como sucessor e gera racha no PL",
+          "summary": "Eleito senador com apoio de <a href=\"https://www1.folha.uol.com.br/folha-topicos/tarcisio-de-freitas/\" rel=\"\" target=\"\">Tarcísio de Freitas</a> (Republicanos), o presidente da Assembleia Legislativa de <a href=\"https://www1.folha.uol.com.br/folha-topicos/sao-p",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/senador-eleito-presidente-da-alesp-tenta-emplacar-novato-como-sucessor-e-gera-racha-no-pl.shtml",
+          "published_at": "2026-11-06T23:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Lula critica Globo e questiona propaganda sobre crianças com fome",
+          "summary": "O presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> (PT) criticou nesta sexta-feira (6) a Rede <a href=\"https://www1.folha.uol.com.br/folha-topicos/globo/\">Globo</a> pela exibição de propaganda com crianças passando <a href=\"https",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/lula-critica-globo-e-questiona-propaganda-sobre-criancas-com-fome.shtml",
+          "published_at": "2026-11-06T22:50:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "PGR e Judiciário querem crédito extra de R$ 533 mi para pagar penduricalhos, e AGU envia caso ao STF",
+          "summary": "A <a href=\"https://www1.folha.uol.com.br/folha-topicos/pgr/\">PGR</a> (Procuradoria-Geral da República) e o CJF (Conselho da Justiça Federal) querem que o governo abra um crédito extraordinário de R$ 533 milhões para <a href=\"https://www1.folha.uol.com.br/poder",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pgr-e-judiciario-querem-credito-extra-de-r-533-mi-para-pagar-penduricalhos-e-agu-envia-caso-ao-stf.shtml",
+          "published_at": "2026-11-06T22:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Alunos de medicina compartilham ofensas e ameaças contra eleitores de Lula em grupos após eleição",
+          "summary": "Alunos de <a href=\"https://www1.folha.uol.com.br/folha-topicos/medicina/\">medicina</a> da Faculdade São Leopoldo Mandic, em Campinas (SP), afirmam ter sido alvo de ofensas e intimidações em grupos de <a href=\"https://www1.folha.uol.com.br/folha-topicos/whatsap",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/alunos-de-medicina-compartilham-ofensas-e-ameacas-contra-eleitores-de-lula-em-grupos-apos-eleicao.shtml",
+          "published_at": "2026-11-06T19:10:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Flávio admite não ter prova de fraude, critica volta de Jair ao Brasil e diz querer 2030 assim como Tarcísio",
+          "summary": "O senador <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>-RJ) disse, em entrevista exclusiva à <strong>Folha</strong>, a primeira a um veículo de imp",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/flavio-admite-nao-ter-prova-de-fraude-critica-volta-de-jair-ao-brasil-e-diz-querer-2030-assim-como-tarcisio.shtml",
+          "published_at": "2026-11-06T18:06:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Marqueteiros de PT e Flávio trocam elogios em grupo de WhatsApp",
+          "summary": "Marqueteiros que trabalharam nas campanhas do presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pt/\">PT</a>) e do candidato <a href=\"https://www1.folha.uol.com.br/folha-topicos",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/marqueteiros-de-lula-e-flavio-trocam-elogios-em-grupo-de-whatsapp.shtml",
+          "published_at": "2026-11-06T18:00:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
