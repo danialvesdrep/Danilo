@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-08",
+  "weekday": "domingo",
+  "draft": true,
+  "generated_at": "2026-11-07T22:58:01.146520-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Flávio Bolsonaro diz que Nunes Marques 'não sabe do que está falando' sobre a eleição",
+          "summary": "O senador <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a> (PL-RJ) disse ao <a href=\"https://www.washingtonpost.com/world/2026/11/07/why-bolsonaro-says-us-took-him-trump-convinced-brazil-is-no-longer-democracy/\" rel=",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/flavio-bolsonaro-diz-que-nunes-marques-nao-sabe-do-que-esta-falando-sobre-a-eleicao.shtml",
+          "published_at": "2026-11-07T18:54:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Derrite critica disputa por gabinetes no Senado e diz que ela só ajuda Alcolumbre",
+          "summary": "Senador eleito, <a href=\"https://www1.folha.uol.com.br/folha-topicos/guilherme-derrite/\">Guilherme Derrite</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pp/\">PP</a>-SP) critica a disputa por gabinetes na Casa para o próximo mandato, que vem sendo u",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/derrite-critica-disputa-por-gabinetes-no-senado-e-diz-que-ela-so-ajuda-alcolumbre.shtml",
+          "published_at": "2026-11-07T15:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Disputa no Senado impõe recuos à esquerda e à direita",
+          "summary": "A revisão nos métodos de ação e pensamento não se impõe só à esquerda na definição do panorama político daqui em diante. A <a href=\"https://www1.folha.uol.com.br/poder/2026/10/direita-amplia-forca-nos-estados-e-pt-mantem-os-quatro-governadores.shtml\" rel=\"\" ta",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/11/disputa-no-senado-impoe-recuos-a-esquerda-e-a-direita.shtml",
+          "published_at": "2026-11-07T13:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Três Poderes: Marinho é o vencedor da semana e advogado amigo de Flávio, o perdedor",
+          "summary": "<strong>Vencedor da semana</strong>: <a href=\"https://www1.folha.uol.com.br/folha-topicos/rogerio-marinho/\">Rogério Marinho</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>-RN), que deu uma demonstração de força ao lançar sua candidatura p",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/tres-poderes-marinho-e-o-vencedor-da-semana-e-advogado-amigo-de-flavio-o-perdedor.shtml",
+          "published_at": "2026-11-07T12:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Possível nomeação de Salles por Tarcísio contraria Nunes",
+          "summary": "A<a href=\"https://www1.folha.uol.com.br/poder/2026/11/apos-acordo-eleitoral-tarcisio-deve-dar-secretaria-a-ricardo-salles.shtml\" rel=\"\" target=\"\"> possível nomeação do deputado federal Ricardo Salles</a> (Novo-SP) como secretário de Justiça e Cidadania pelo go",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/possivel-nomeacao-de-salles-por-tarcisio-contraria-nunes.shtml",
+          "published_at": "2026-11-07T06:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "EUA acreditam que CEO da Nvidia teve relacionamento amoroso com suposta espiã chinesa",
+          "summary": "O governo dos <a href=\"https://www1.folha.uol.com.br/folha-topicos/estados-unidos/\">Estados Unidos</a> acredita que Jensen Huang, CEO da <a href=\"https://www1.folha.uol.com.br/folha-topicos/nvidia/\">Nvidia</a>, teve um relacionamento amoroso com uma chinesa re",
+          "source": "Folha (Mercado)",
+          "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/eua-acreditam-que-ceo-da-nvidia-teve-relacionamento-amoroso-com-suposta-espia-chinesa.shtml",
+          "published_at": "2026-11-07T15:23:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
