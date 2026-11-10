@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-11",
+  "weekday": "quarta-feira",
+  "draft": true,
+  "generated_at": "2026-11-10T01:26:05.560639-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Presidente do TST critica STF e defende lei para trabalho por app",
+          "summary": "Vieira de Mello diz que CLT não contempla particularidades do setor e defende proteção social aos entregadores",
+          "source": "Poder360",
+          "url": "https://www.poder360.com.br/poder-justica/presidente-do-tst-critica-stf-e-defende-lei-para-trabalho-por-app/",
+          "published_at": "2026-11-10T00:01:59-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Produtor vende 500 sacas de milho por R$ 35 mil como pessoa física, confere o depósito e descobre que o comprador reteve R$ 525 de Funrural direto na nota",
+          "summary": "<p><img alt=\"Produtor vende 500 sacas de milho por R$ 35 mil como pessoa física, confere o depósito e descobre que o comprador reteve R$ 525 de Funrural direto na nota\" class=\"attachment-full size-full wp-post-image\" height=\"1620\" src=\"https://cdn.oantagonista",
+          "source": "O Antagonista",
+          "url": "https://oantagonista.com.br/ladooa/entretenimento/produtor-vende-500-sacas-de-milho-por-r-35-mil-como-pessoa-fisica-confere-o-deposito-e-descobre-que-o-comprador-reteve-r-525-de-funrural-direto-na-nota/",
+          "published_at": "2026-11-10T01:23:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Quando a grávida deve tomar ácido fólico? Saiba em que momento iniciar a suplementação",
+          "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"683\" src=\"https://cdn.oantagonista.com/uploads/2026/11/mulhergravidaemconsultaprenatal-1024x683-1.png\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1024\" /></p>\n<div>Nutriente é esse",
+          "source": "O Antagonista",
+          "url": "https://oantagonista.com.br/ladooa/variedades/quando-a-gravida-deve-tomar-acido-folico-saiba-em-que-momento-iniciar-a-suplementacao/",
+          "published_at": "2026-11-10T00:30:06-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Após encerrar inquérito das fake news, STF avalia destino de mais de 100 procedimentos; relembre decisões",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/wDpX8UKtmHDxER8RbFcfILvTDRA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/t/AsfnzUTUq8ztPA0ASJMw/7-antonio-augusto-e1776990669570.jpg\" /><br />     A Presidência do Supremo Tribunal Feder",
+          "source": "G1 Política",
+          "url": "https://g1.globo.com/politica/noticia/2026/11/10/apos-encerrar-inquerito-das-fake-news-stf-avalia-destino-de-mais-de-100-procedimentos-relembre-decisoes.ghtml",
+          "published_at": "2026-11-10T00:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "'Não tenho nenhuma aspiração política', diz CEO do UFC a Trump após especulações sobre futuro como porta-voz dos EUA",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/2KbyNflXkm2OELKZgVrUA122TSc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/v/tkZhLGRWAHVbSVJEPALQ/2026-11-09t215516z-1166184860-rc2kkoayvhtm-rtrmadp-3-usa-trump.jpg\" /><br />     Trump: co",
+          "source": "G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/10/nao-tenho-nenhuma-aspiracao-politica-diz-ceo-do-ufc-a-trump-apos-especulacoes-sobre-futuro-como-porta-voz-dos-eua.ghtml",
+          "published_at": "2026-11-10T01:19:28-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Secretário de Guerra de Trump é alvo de pedido de impeachment: veja as 8 acusações apresentadas contra Hegseth",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/TpVbzp-8Rdi823jkHkViwLSbRf8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/W/fbd4ugRX6JBGaJNycDaQ/fotojet-2026-11-09t195440.660.jpg\" /><br />     Deputado Thomas Massie e o secretário de G",
+          "source": "G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/10/secretario-guerra-de-trump-e-alvo-de-pedido-de-impeachment-veja-as-8-acusacoes-apresentadas-contra-hegseth.ghtml",
+          "published_at": "2026-11-10T00:00:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
