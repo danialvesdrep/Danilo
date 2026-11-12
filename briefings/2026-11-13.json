@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-13",
+  "weekday": "sexta-feira",
+  "draft": true,
+  "generated_at": "2026-11-12T00:30:20.829733-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Bolsonaristas e aliados de Lula criticam gasto com Iphones pelo Senado e põem Alcolumbre sob pressão",
+          "summary": "A licitação do Senado para contratar serviços de telefonia, que<a href=\"https://www1.folha.uol.com.br/poder/2026/11/senado-preve-95-iphones-e-330-outros-celulares-a-parlamentares-e-servidores.shtml\" rel=\"\" target=\"\"> prevê o fornecimento de 95 iPhones 18 Pro e",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/bolsonaristas-e-aliados-de-lula-criticam-gasto-com-iphones-pelo-senado-e-poem-alcolumbre-sob-pressao.shtml",
+          "published_at": "2026-11-12T00:06:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Senado deve votar pacote de medidas fiscais nesta quinta; governo fala em um impacto de até R$ 60 bi",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/aFyt9atNwn8z10EZHJs52x38SCQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/J/du7getRTiSIxK0RB3KeA/globo-canal-4-20261111-2000-frame-56675.jpeg\" /><br />     Governo envia ao Senado projeto",
+          "source": "G1 Política",
+          "url": "https://g1.globo.com/politica/noticia/2026/11/12/senado-deve-votar-pacote-de-medidas-fiscais-nesta-quinta-governo-fala-em-um-impacto-de-ate-r-60-bi.ghtml",
+          "published_at": "2026-11-12T00:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Governo busca apoio de empresas para destravar projeto que trata da regulação econômica das big techs",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/tqDdIMd7wFo5DTXkxSzZMLRMYsQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/i/e/NeUAnNR5AebDAtb1tTCg/thumbnail-image001.png\" /><br />     cO governo do presidente Luiz Inácio Lula da Silva (P",
+          "source": "G1 Política",
+          "url": "https://g1.globo.com/politica/noticia/2026/11/12/governo-busca-apoio-de-empresas-para-destravar-projeto-que-trata-da-regulacao-economica-das-big-techs.ghtml",
+          "published_at": "2026-11-12T00:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Prisões de imigrantes continuam nos EUA após derrota republicana nas midterms, apesar de críticas de Trump",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/9gRtKJnaS1MQNQ3QAK8Q-kvaEZs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/s/rwICQoQ2qv2HYdZ8AHMw/fotojet-2026-08-13t100322.416.jpg\" /><br />     Agente do ICE aponta arma para mulher nos ",
+          "source": "G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/12/prisoes-de-imigrantes-continuam-nos-eua-apos-derrota-republicana-nas-midterms-apesar-de-criticas-de-trump.ghtml",
+          "published_at": "2026-11-12T00:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Jensen Huang: O papel do CEO da Nvidia investigado por caso com suposta espiã na guerra tecnológica entre EUA e China",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/syQtF8PUAIAxeZgCKgNfpQvQNOQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/z/zqDGJ3TaSj5GQbIxI8gQ/2026-06-01t145412z-1083488031-rc2sklabxlh9-rtrmadp-3-computex-nvidia-keynote.jpg\" /><br />",
+          "source": "G1 Economia",
+          "url": "https://g1.globo.com/tecnologia/noticia/2026/11/12/jensen-huang-o-papel-do-ceo-da-nvidia-investigado-por-caso-com-suposta-espia-na-guerra-tecnologica-entre-eua-e-china.ghtml",
+          "published_at": "2026-11-12T00:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Mega-Sena pode pagar R$ 20 milhões nesta quinta-feira; g1 transmite ao vivo",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/qy4fKjxagQL_B-wFUYEdO2hUGeg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/j/P/SWmVpCSYe2ZiGlHFWwmQ/mega.jpeg\" /><br />     Como funciona a Mega-Sena?\nO concurso 3.085 da Mega-Sena pode paga",
+          "source": "G1 Economia",
+          "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/12/mega-sena-pode-pagar-r-20-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
+          "published_at": "2026-11-12T00:00:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
