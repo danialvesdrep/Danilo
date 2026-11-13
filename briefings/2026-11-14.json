@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-14",
+  "weekday": "sábado",
+  "draft": true,
+  "generated_at": "2026-11-13T00:03:46.412252-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Lula, Milei e líderes de mais de 20 países defendem que próximo secretário-geral da ONU seja latino",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/DuwJfcf4bNf3JhbDhQgZgehXWrI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/N/rUJXXBR4i3J8vIAm7IAg/2026-09-21t171724z-991394771-rc2rnna5v79d-rtrmadp-3-un-assembly.jpg\" /><br />     Os presi",
+          "source": "G1 Política",
+          "url": "https://g1.globo.com/politica/noticia/2026/11/13/lula-milei-e-lideres-de-mais-de-20-paises-defendem-que-proximo-secretario-geral-da-onu-seja-latino.ghtml",
+          "published_at": "2026-11-13T00:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Trava extra para gastos, mudanças no piso da saúde e corte em benefícios tributários: entenda ajuste fiscal aprovado pelo Senado",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/aFyt9atNwn8z10EZHJs52x38SCQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/J/du7getRTiSIxK0RB3KeA/globo-canal-4-20261111-2000-frame-56675.jpeg\" /><br />     O texto-base do projeto de ajus",
+          "source": "G1 Política",
+          "url": "https://g1.globo.com/politica/noticia/2026/11/13/trava-extra-para-gastos-mudancas-no-piso-da-saude-e-corte-em-beneficios-tributarios-entenda-ajuste-fiscal-aprovado-pelo-senado.ghtml",
+          "published_at": "2026-11-13T00:00:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
