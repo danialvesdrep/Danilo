@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-18",
+  "weekday": "quarta-feira",
+  "draft": true,
+  "generated_at": "2026-11-17T01:54:47.583817-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Aluguel continua a subir acima da inflação; veja onde está mais caro",
+          "summary": "O aluguel residencial continua a subir em ritmo superior ao da <a href=\"https://www1.folha.uol.com.br/folha-topicos/inflacao/\">inflação</a>, embora os reajustes tenham perdido força nos últimos meses.\n<a href=\"https://redir.folha.com.br/redir/online/mercado/rs",
+          "source": "Folha (Mercado)",
+          "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/aluguel-continua-a-subir-acima-da-inflacao-veja-onde-esta-mais-caro.shtml",
+          "published_at": "2026-11-17T00:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Os desafios de Lula na volta ao Brasil: formação do ministério e ajuste fiscal - O Assunto #1847",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/f-nOqPZsG93YNPRI2oJm28aa4s4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/n/iHfDgETQOTBUa5dzPk0A/edicao-imagens-g1-2026-11-13t102653.948.jpg\" /><br />     No domingo (15), o vice-presiden",
+          "source": "G1 Política",
+          "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/17/os-desafios-de-lula-na-volta-ao-brasil-formacao-do-ministerio-e-ajuste-fiscal-o-assunto-1847.ghtml",
+          "published_at": "2026-11-17T00:30:01-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Caso Master completa um ano com Vorcaro preso, expectativa de denúncia e crise no STF",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/fB_m2gbnoIG1bDYTj509yUd2QrI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/W/jvZKQ8SHuurUcBjeb97A/vorcaro.jpg\" /><br />     O caso Master completa um ano nesta terça-feira (17), com o banq",
+          "source": "G1 Política",
+          "url": "https://g1.globo.com/politica/noticia/2026/11/17/caso-master-completa-um-ano-com-vorcaro-preso-expectativa-de-denuncia-e-crise-no-stf.ghtml",
+          "published_at": "2026-11-17T00:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Ajuste fiscal: Senado vota destaques ao projeto do governo nesta terça; veja o que pode mudar no texto",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/YeSKn-qmTVpq6xhpfisF9KcjXwg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/p/B2UrCXQDeyS5FWTwQjlA/55649772539-eccc8e95e3-o.jpg\" /><br />     Senado aprova texto-base de projeto que prevê a",
+          "source": "G1 Política",
+          "url": "https://g1.globo.com/politica/noticia/2026/11/17/ajuste-fiscal-senado-vota-destaques-ao-projeto-do-governo-nesta-terca-veja-o-que-pode-mudar-no-texto.ghtml",
+          "published_at": "2026-11-17T00:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Big techs: Câmara deve votar nesta terça projeto que regulamenta mercados digitais; entenda",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/IwJCLx2SMeklEX2QM_eIkFHyOX8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/d/bwdCtwSfCBi8h2U0uLCA/fachada-cade.png\" /><br />     Depois de mais de um ano, a Câmara dos Deputados deve anali",
+          "source": "G1 Política",
+          "url": "https://g1.globo.com/politica/noticia/2026/11/17/big-techs-camara-deve-votar-nesta-terca-projeto-que-regulamenta-mercados-digitais-entenda.ghtml",
+          "published_at": "2026-11-17T00:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Série de falhas alimenta teoria de 'apagão mundial' no dia 17: saiba por que é improvável que aconteça",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/PsejTvjwMci-UpZZWwu-f4AC50o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/D/cRXBOZRiSYIMbj0ViemA/simpsons2.jpg\" /><br />     Alertas de suposto 'apagão mundial' em 17 de novembro: veja pe",
+          "source": "G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/17/falhas-teoria-apagao-mundial-17-novembro.ghtml",
+          "published_at": "2026-11-17T00:00:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
