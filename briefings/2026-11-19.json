@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-19",
+  "weekday": "quinta-feira",
+  "draft": true,
+  "generated_at": "2026-11-18T00:58:59.679645-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Custo Brasil chega a R$ 3,5 trilhões por ano, aponta estudo",
+          "summary": "O chamado custo Brasil chega a R$ 3,5 trilhões por ano, o equivalente a 27,5% do <a href=\"https://www1.folha.uol.com.br/folha-topicos/pib/\">PIB</a> (Produto Interno Bruto) de 2025, segundo estudo que será apresentado nesta quarta-feira (18) pelo grupo de empre",
+          "source": "Folha (Mercado)",
+          "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/custo-brasil-chega-a-r-35-trilhoes-por-ano-aponta-estudo.shtml",
+          "published_at": "2026-11-18T00:01:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Diferença da carga tributária entre Brasil e OCDE dobrou em 7 anos",
+          "summary": "Tributos pagos pelo setor privado chegaram a 17,5% do PIB em 2025, 2,8 pontos percentuais acima da referência da OCDE",
+          "source": "Poder360",
+          "url": "https://www.poder360.com.br/poder-economia/diferenca-da-carga-tributaria-entre-brasil-e-ocde-dobrou-em-7-anos/",
+          "published_at": "2026-11-18T00:01:02-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Senado deve ouvir nesta quarta ministro da Justiça sobre troca de delegados; diretor da PF não confirma presença",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/vNH4qi_TXkGswaOftrhCSU3kt6g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/F/HYONlBSFCouObIOcdgVQ/gnews-celulares-frame-71100.jpeg\" /><br />     A Comissão de Constituição e Justiça (CCJ) ",
+          "source": "G1 Política",
+          "url": "https://g1.globo.com/politica/noticia/2026/11/18/senado-deve-ouvir-nesta-quarta-ministro-da-justica-sobre-troca-de-delegados-diretor-da-pf-nao-confirma-presenca.ghtml",
+          "published_at": "2026-11-18T00:00:01-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Fachin recebe nesta quarta relatório da PF sobre ministros no caso Master e deve avaliar modelo para definir próximos passos",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/8ZKQ_e_6YAIZXzUMPB8QpAEfsR0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/A/GYxzdGTpCBKkNT9RABbA/55632812910-36e9d60a0b-k.jpg\" /><br />     O presidente do Supremo Tribunal Federal (STF),",
+          "source": "G1 Política",
+          "url": "https://g1.globo.com/politica/noticia/2026/11/18/fachin-recebe-nesta-quarta-relatorio-da-pf-sobre-ministros-no-caso-master-e-deve-avaliar-modelo-para-definir-proximos-passos.ghtml",
+          "published_at": "2026-11-18T00:00:01-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Secretários defendem ministro da Segurança com experiência na 'linha de frente' e sem indicação política e querem combate a líderes de facções",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/emxFjrPnOlJI_k8IVr-MlCnAlX8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/t/dFoTk8RAy0U9kfu2VEOg/design-sem-nome-2026-10-30t093612.648.png\" /><br />     Comando Vermelho domina o crime na",
+          "source": "G1 Política",
+          "url": "https://g1.globo.com/politica/noticia/2026/11/18/secretarios-defendem-ministro-da-seguranca-com-experiencia-na-linha-de-frente.ghtml",
+          "published_at": "2026-11-18T00:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "STF julga nesta quarta (18) regra sobre nepotismo em cargos políticos; entenda",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/fyg47X71j-9c40nKRu8whCRTsV8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/X/4APWJaT0ANik5ovIvb4w/50969871752-3ac84c4596-k.jpg\" /><br />     O Supremo Tribunal Federal (STF) julga nesta qu",
+          "source": "G1 Política",
+          "url": "https://g1.globo.com/politica/noticia/2026/11/18/stf-nepotismo-entenda.ghtml",
+          "published_at": "2026-11-18T00:00:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
