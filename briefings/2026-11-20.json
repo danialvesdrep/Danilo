@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-20",
+  "weekday": "sexta-feira",
+  "draft": true,
+  "generated_at": "2026-11-19T00:55:38.243241-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Uma hidrelétrica possui 34 geradores e capacidade de 22.500 MW, mas sua construção também criou um reservatório que mudou a paisagem de um dos maiores rios da Ásia",
+          "summary": "<p><img alt=\"Usina de Três Gargantas possui capacidade instalada de 22.500 megawatts\" class=\"attachment-full size-full wp-post-image\" height=\"1607\" src=\"https://cdn.oantagonista.com/uploads/2026/11/Usina_Hidreletrica_de_Tres_Garga…_fc17e414.jpg\" style=\"float: ",
+          "source": "O Antagonista",
+          "url": "https://oantagonista.com.br/ladooa/entretenimento/uma-hidreletrica-possui-34-geradores-e-capacidade-de-22-500-mw-mas-sua-construcao-tambem-criou-um-reservatorio-que-mudou-a-paisagem-de-um-dos-maiores-rios-da-asia/",
+          "published_at": "2026-11-19T00:46:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Ajuste fiscal: Moretti diz que texto aprovado pelo Senado preserva políticas sociais essenciais em 2027",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/Po7nuyLhz0m7jX9gpJ_RUnTPpjQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/Y/2Ofwy1SUeB8AhSWFTKGw/54841143876-e5619e96d1-b.jpg\" /><br />     Bruno Moretti, ministro do Planejamento e Orçam",
+          "source": "G1 Política",
+          "url": "https://g1.globo.com/politica/noticia/2026/11/19/ajuste-fiscal-moretti-diz-que-texto-aprovado-pelo-senado-preserva-politicas-sociais-essenciais-em-2027.ghtml",
+          "published_at": "2026-11-19T00:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Posse de Lula: com hotéis caros e cheios, Planalto e governo do DF discutem camping para caravanas",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/1w3gVAPSbpxRu_CWFJ8sfKvtO0I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/B/W/az78j7TYAFx5wGqF6tFw/df1-hoteis-cheios-00002-frame-0.jpeg\" /><br />     Setor Hoteleiro Norte, em Brasília\nTV G",
+          "source": "G1 Política",
+          "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/19/posse-de-lula-com-hoteis-caros-e-cheios-planalto-e-governo-do-df-discutem-camping-para-caravanas.ghtml",
+          "published_at": "2026-11-19T00:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "PGR terá que analisar relatórios da PF sobre relação de Vorcaro com ministros do STF e apontar providências cabíveis; entenda",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/iwXnx6KJtR77vdIIcqRkWRK5ePE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/f/WA3W3WSYiQMTFGPzcXaA/globo-canal-4-20260407-2000-frame-104861.jpeg\" /><br />     A Procuradoria-Geral da Repúbl",
+          "source": "G1 Política",
+          "url": "https://g1.globo.com/politica/noticia/2026/11/19/pgr-tera-que-analisar-relatorios-da-pf-sobre-relacao-de-vorcaro-com-ministros-do-stf-e-apontar-providencias-cabiveis-entenda.ghtml",
+          "published_at": "2026-11-19T00:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "O encontro inédito de Trump, Putin e Xi Jinping, e o que o Brasil ganha com isso - O Assunto #1849",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/jT6sjZ4BSDdQXxgZChN10LNawoA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/q/ANMWTTT9A4VnbBnn0uhA/2026-11-18t115401z-1-lwd941118112026rp1-rtrwnev-c-9411-apec-summit-family-photo-ezgif.com-",
+          "source": "G1 Mundo",
+          "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/19/o-encontro-inedito-de-trump-putin-e-xi-jinping-e-o-que-o-brasil-ganha-com-isso-o-assunto-1849.ghtml",
+          "published_at": "2026-11-19T00:30:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Trump, Putin e Xi fazem encontro histórico nesta quinta; saiba o que cada um quer",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/XdZngvlncQCFLYOtausM0y_w-3U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/d/kRxXsCT8GRbKG3C9vAoA/2026-11-18t113906z-1386858333-rc2bqoaa6ep9-rtrmadp-3-apec-summit.jpg\" /><br />     Trump, ",
+          "source": "G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/19/trump-putin-e-xi-fazem-encontro-historico-nesta-quinta-saiba-o-que-cada-um-quer.ghtml",
+          "published_at": "2026-11-19T00:00:01-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
