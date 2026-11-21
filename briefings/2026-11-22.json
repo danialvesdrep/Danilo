@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-22",
+  "weekday": "domingo",
+  "draft": true,
+  "generated_at": "2026-11-21T00:40:03.923017-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Após dois anos de espera por carro adaptado, moradora de Ivinhema passa na prova da CNH",
+          "summary": "<p><img alt=\"Mulher sorri ao volante de carro branco em pátio de autoescola com cones\" class=\"attachment-full size-full wp-post-image\" height=\"1620\" src=\"https://cdn.oantagonista.com/uploads/2026/11/motorista-carro-adaptado-cnh.jpg\" style=\"float: right; margin",
+          "source": "O Antagonista",
+          "url": "https://oantagonista.com.br/ladooa/entretenimento/apos-dois-anos-de-espera-por-carro-adaptado-moradora-de-ivinhema-passa-na-prova-da-cnh/",
+          "published_at": "2026-11-21T00:33:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Câmeras com inteligência artificial já identificam motoristas sem cinto e usando celular, mesmo sem viatura por perto",
+          "summary": "<p><img alt=\"Motorista deixa o braço para fora da janela enquanto dirige e pode receber multa por um hábito comum nos dias de calor\" class=\"attachment-full size-full wp-post-image\" height=\"1607\" src=\"https://cdn.oantagonista.com/uploads/2026/11/Traffic_camera_",
+          "source": "O Antagonista",
+          "url": "https://oantagonista.com.br/economia/cameras-com-inteligencia-artificial-ja-identificam-motoristas-sem-cinto-e-usando-celular-mesmo-sem-viatura-por-perto/",
+          "published_at": "2026-11-21T00:10:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Agricultor recupera solo e volta a plantar hortaliças após chuvas atingirem Ibiúna",
+          "summary": "<p><img alt=\"Agricultor agachado planta mudas de hortaliças em canteiros de terra escura\" class=\"attachment-full size-full wp-post-image\" height=\"1620\" src=\"https://cdn.oantagonista.com/uploads/2026/11/agricultor-planta-mudas-hortalicas-ibiuna.jpg\" style=\"floa",
+          "source": "O Antagonista",
+          "url": "https://oantagonista.com.br/ladooa/entretenimento/agricultor-recupera-solo-e-volta-a-plantar-hortalicas-apos-chuvas-atingirem-ibiuna/",
+          "published_at": "2026-11-21T00:03:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "A um mês do recesso, Fachin tenta avançar com agenda de reformas no STF, mas enfrenta resistências",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/8ZKQ_e_6YAIZXzUMPB8QpAEfsR0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/A/GYxzdGTpCBKkNT9RABbA/55632812910-36e9d60a0b-k.jpg\" /><br />     O presidente do Supremo Tribunal Federal (STF),",
+          "source": "G1 Política",
+          "url": "https://g1.globo.com/politica/noticia/2026/11/21/a-um-mes-do-recesso-fachin-tenta-avancar-com-agenda-de-reformas-no-stf-mas-enfrenta-resistencias.ghtml",
+          "published_at": "2026-11-21T00:00:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
