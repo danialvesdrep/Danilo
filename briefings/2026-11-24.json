@@ -1,0 +1,71 @@
+{
+  "date": "2026-11-24",
+  "weekday": "terça-feira",
+  "draft": true,
+  "generated_at": "2026-11-23T00:23:39.403015-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Câmara vota projeto de ajuste fiscal nesta segunda; projeção de economia é de R$ 50 bilhões em 2027",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/F5kLWZW57wQ5PypB5c1b-TKzFJs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/A/LDKotmSA2jdLrNxE6g3A/plenario-camara-deputados.jpg\" /><br />     Ajuste fiscal deve ser votado na segunda-feira",
+          "source": "G1 Política",
+          "url": "https://g1.globo.com/politica/noticia/2026/11/23/camara-vota-projeto-de-ajuste-fiscal-nesta-segunda-projecao-de-economia-e-de-r-50-bilhoes-em-2027.ghtml",
+          "published_at": "2026-11-23T00:00:01-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Amante de CEO da Nvidia manteve contato com oficial da espionagem chinesa, segundo o NYT",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/V5C6MaijqxCW90I6YcEh1iDFKZE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/q/CgBWleR5y1b2f1h5kn9w/2026-11-16t180057z-1044404862-rc2138adpet8-rtrmadp-3-nvidia-ceo.jpg\" /><br />     O CEO da",
+          "source": "G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/23/amante-de-ceo-da-nvidia-manteve-contato-com-oficial-da-espionagem-chinesa-segundo-o-nyt.ghtml",
+          "published_at": "2026-11-23T00:00:02-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Pai e filha presos pelo ICE nos EUA estavam viajando para um batismo; VÍDEO mostra abordagem",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/8nM26Cpk8XBihYHUWSmRIXftaEM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/n/tqJ4BfSpCzUcaJBP9BhQ/fotojet-44-.jpg\" /><br />     ICE prende pai e filha em abordagem violenta em aeroporto no",
+          "source": "G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/23/pai-e-filha-presos-pelo-ice-nos-eua.ghtml",
+          "published_at": "2026-11-23T00:00:01-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
