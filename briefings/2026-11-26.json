@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-26",
+  "weekday": "quinta-feira",
+  "draft": true,
+  "generated_at": "2026-11-25T02:09:52.387283-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Financiamento de veículos pode triplicar com retomada extrajudicial",
+          "summary": "Estudo da Acrefi estima potencial de expansão da carteira de crédito automotivo para R$ 1,5 tri; atuação dos Detrans é questionada no STF",
+          "source": "Poder360",
+          "url": "https://www.poder360.com.br/poder-economia/financiamento-de-veiculos-pode-triplicar-com-retomada-extrajudicial/",
+          "published_at": "2026-11-25T00:01:08-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Eles construíram uma ponte de 380 metros para que os animais possam atravessar uma das rodovias mais movimentadas dos EUA: quem foi o primeiro a usá-la",
+          "summary": "<p><img alt=\"Eles construíram uma ponte de 380 metros para que os animais possam atravessar uma das rodovias mais movimentadas dos EUA quem foi o primeiro a usá-la\" class=\"attachment-full size-full wp-post-image\" height=\"1620\" src=\"https://cdn.oantagonista.com",
+          "source": "O Antagonista",
+          "url": "https://oantagonista.com.br/mundo/eles-construiram-uma-ponte-de-380-metros-para-que-os-animais-possam-atravessar-uma-das-rodovias-mais-movimentadas-dos-eua-quem-foi-o-primeiro-a-usa-la/",
+          "published_at": "2026-11-25T01:46:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Governo Lula tem ao menos oito projetos econômicos para aprovar no Congresso até o fim de 2026",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/eXDyiYy-oQY_R4Mvo0exY1dY17g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/J/aSmEpOQYAJ8Z0UtBkBJw/palacio-do-congresso-nacional-camara-e-senado.jpg\" /><br />     O governo do presidente Lu",
+          "source": "G1 Política",
+          "url": "https://g1.globo.com/politica/noticia/2026/11/25/governo-lula-tem-ao-menos-oito-projetos-economicos-para-aprovar-no-congresso-ate-o-fim-de-2026.ghtml",
+          "published_at": "2026-11-25T00:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Reforma tributária e fim da escala 6x1 podem pressionar inflação em 2027; BC e equipe econômica monitoram impactos",
+          "summary": "O início do novo imposto sobre o consumo previsto na reforma tributária e o fim da escala 6x1 são apontados por economistas como fatores que podem pressionar a inflação no Brasil no começo de 2027.\nNo caso da reforma tributária, a avaliação é que a transição p",
+          "source": "G1 Política",
+          "url": "https://g1.globo.com/economia/noticia/2026/11/25/reforma-tributaria-e-fim-da-escala-6x1-podem-pressionar-inflacao-em-2027-bc-e-equipe-economica-monitoram-impactos.ghtml",
+          "published_at": "2026-11-25T00:00:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
