@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-27",
+  "weekday": "sexta-feira",
+  "draft": true,
+  "generated_at": "2026-11-26T01:37:36.667371-03:00",
+  "headline_overall": "",
+  "summary_top3": [],
+  "sections": [
+    {
+      "id": "noroeste-sp",
+      "title": "Cidades do Noroeste do Estado de SP",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "estado-sp",
+      "title": "Estado de São Paulo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "brasil",
+      "title": "Política e Economia do Brasil",
+      "analysis": "",
+      "items": [
+        {
+          "urgency": "medium",
+          "headline": "Ala de Valdemar admite que PL deve romper com Hugo Motta e teme 'anos de seca' na Câmara",
+          "summary": "A ala do <a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a> ligada ao presidente do partido, <a href=\"https://www1.folha.uol.com.br/folha-topicos/valdemar-costa-neto/\">Valdemar Costa Neto</a>, dá como certo o rompimento com o presidente da Câmara",
+          "source": "Folha (Poder)",
+          "url": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/ala-de-valdemar-admite-que-pl-deve-romper-com-hugo-motta-e-teme-anos-de-seca-na-camara.shtml",
+          "published_at": "2026-11-26T00:01:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Marinho reúne Tereza e senadores do PP em festa de aniversário",
+          "summary": "Comemoração dos 63 anos do líder da Oposição teve cerca de 80 participantes em chalana de Wilder Morais, em Brasília",
+          "source": "Poder360",
+          "url": "https://www.poder360.com.br/poder-congresso/marinho-reune-tereza-e-senadores-do-pp-em-festa-de-aniversario/",
+          "published_at": "2026-11-26T01:03:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Megaobra de R$ 2,6 bilhões vai transformar aeroporto brasileiro com terminal de 135 mil m² e aumentar em 58% as pontes de embarque",
+          "summary": "<p><img alt=\"Megaobra de R$ 2,6 bilhões vai transformar aeroporto brasileiro com terminal de 135 mil m² e aumentar em 58% as pontes de embarque\" class=\"attachment-full size-full wp-post-image\" height=\"1620\" src=\"https://cdn.oantagonista.com/uploads/2026/11/Air",
+          "source": "O Antagonista",
+          "url": "https://oantagonista.com.br/ladooa/entretenimento/megaobra-de-26-bilhoes-de-reais-vai-transformar-aeroporto-brasileiro-com-terminal-de-135-mil-metros-quadrados-e-aumentar-em-58-porcento-as-pontes-de-embarque/",
+          "published_at": "2026-11-26T00:40:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "O mapa das facções e a nova dinâmica do crime no Brasil - O Assunto #1853",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/85wnt3SeG6IGFIfRBofGti53iok=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/E/QSOt4dTSar8ryktWLIkw/imagem-1200x800-17-.jpg\" /><br />     Nesta semana, a Agência Brasileira de Inteligência (",
+          "source": "G1 Política",
+          "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/26/o-mapa-das-faccoes-e-a-nova-dinamica-do-crime-no-brasil-o-assunto-1853.ghtml",
+          "published_at": "2026-11-26T00:30:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Herança: Câmara aprova projeto que prevê deserdação por 'interdição abusiva' de idosos; entenda",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/-M_5iDr6_TJgcaDxp4ifb1JgqA0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/9/FHtPYUSairvML9xHrNTw/g1-2026-06-15t115122.580.png\" /><br />     A Câmara dos Deputados aprovou nesta semana um ",
+          "source": "G1 Política",
+          "url": "https://g1.globo.com/politica/noticia/2026/11/26/heranca-deserdacao-curatela-idosos-camara.ghtml",
+          "published_at": "2026-11-26T00:00:00-03:00"
+        },
+        {
+          "urgency": "medium",
+          "headline": "Uma semana após ganhar US$ 1 milhão na loteria, imigrante é preso pelo ICE nos EUA",
+          "summary": "<img src=\"https://s2-g1.glbimg.com/ET3k5uyY77bBaptib9BGq0zOpKg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/s/Q3hL9XS7yDWBpM5EcBvA/ariel-velasquez-morales-massachusetts-lottery-1-million-check.webp\" /><br />     Ariel Ant",
+          "source": "G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/26/uma-semana-apos-ganhar-us-1-milhao-na-loteria-imigrante-e-preso-pelo-ice-nos-eua.ghtml",
+          "published_at": "2026-11-26T00:00:00-03:00"
+        }
+      ]
+    },
+    {
+      "id": "america-latina",
+      "title": "América Latina",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "mundo",
+      "title": "Mundo",
+      "analysis": "",
+      "items": []
+    },
+    {
+      "id": "agenda",
+      "title": "Agenda · Câmara, Senado e ALESP",
+      "analysis": "",
+      "items": []
+    }
+  ]
+}
